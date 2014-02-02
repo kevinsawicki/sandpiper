@@ -1,0 +1,27 @@
+{
+  "name": "sandpiper",
+  "version": "0.0.0",
+  "description": "SEC data helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinsawicki/sandpiper"
+  },
+  "keywords": [
+    "SEC",
+    "edgar"
+  ],
+  "author": "Kevin Sawicki <kevinsawicki@gmail.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/kevinsawicki/sandpiper/raw/master/LICENSE.md"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/kevinsawicki/sandpiper/issues"
+  }
+}
