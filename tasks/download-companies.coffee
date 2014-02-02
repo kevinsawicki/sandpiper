@@ -20,8 +20,8 @@ module.exports = (grunt) ->
 
       companiesJson = JSON.stringify(companies, null, 2)
       grunt.file.write 'gen/companies.json', companiesJson
-      grunt.log.write """
-        #{companies.length} companies that filed a 10-K in #{new Date().getFullYear() - 1}
+      grunt.log.ok """
+        Downloaded #{companies.length} companies that filed a 10-K in #{new Date().getFullYear() - 1}
       """
       done()
 
