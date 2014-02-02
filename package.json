@@ -26,6 +26,10 @@
   },
   "devDependencies": {
     "grunt": "~0.4.2",
-    "grunt-cli": "~0.1.13"
+    "grunt-cli": "~0.1.13",
+    "request": "~2.33.0",
+    "async": "~0.2.10",
+    "event-stream": "~3.1.0",
+    "underscore": "~1.5.2"
   }
 }
