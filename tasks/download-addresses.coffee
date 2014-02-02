@@ -9,20 +9,24 @@ module.exports = (grunt) ->
     done = @async()
 
     companies = grunt.file.readJSON('gen/companies.json')
+    companiesWithoutAddresses = companies.filter ({address}) -> not address?
+
     progress = new ProgressBar('Downloading :total addresses [:bar] :percent :eta seconds remaining', {
       incomplete: ' '
       width: 20
-      total: companies.length
+      total: companiesWithoutAddresses.length
     })
     loadAddress = (company, callback) ->
       getAddress company, (error, address) ->
         progress.tick(1)
         callback(error, address)
 
-    async.map companies, loadAddress, (error, addresses) ->
+    async.map companiesWithoutAddresses, loadAddress, (error, addresses) ->
       return done(error) if error?
 
-      company.address = addresses[index] for company, index in companies
+      for company, index in companiesWithoutAddresses
+        company.address = addresses[index]
+
       companiesJson = JSON.stringify(companies, null, 2)
       grunt.file.write 'gen/companies.json', companiesJson
       grunt.log.ok "Downloaded #{addresses.length} company addresses"
