@@ -10204,11 +10204,11 @@
     "id": 1267238,
     "name": "ASSURANT INC",
     "address": {
-      "street1": "",
+      "street1": "ONE CHASE MANHATTAN PLAZA",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "NEW YORK",
+      "state": "NY",
+      "zip": "10005"
     },
     "symbol": "AIZ",
     "exchange": "nyse",
@@ -12369,11 +12369,11 @@
     "id": 1295401,
     "name": "Bancorp, Inc.",
     "address": {
-      "street1": "",
+      "street1": "409 SILVERSIDE ROAD",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "WILMINGTON",
+      "state": "DE",
+      "zip": "19809"
     }
   },
   {
@@ -14447,11 +14447,11 @@
     "id": 1349371,
     "name": "BLACK HAWK EXPLORATION",
     "address": {
-      "street1": "",
-      "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "street1": "PO BOX 363",
+      "street2": "PO BOX 363",
+      "city": "FOX ISLAND",
+      "state": "WA",
+      "zip": "98333"
     }
   },
   {
@@ -14649,11 +14649,11 @@
     "id": 1428389,
     "name": "Blox, Inc.",
     "address": {
-      "street1": "",
+      "street1": "SUITE 206, 595 HOWE STREET",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "VANCOUVER",
+      "state": "A1",
+      "zip": "V6C 2T5"
     }
   },
   {
@@ -14735,11 +14735,11 @@
     "id": 1353633,
     "name": "BLUE SKY PETROLEUM INC.",
     "address": {
-      "street1": "",
+      "street1": "#401, 3702 SOUTH VIRGINIA STREET, #G12",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "RENO",
+      "state": "NV",
+      "zip": "89502"
     }
   },
   {
@@ -17187,11 +17187,11 @@
     "id": 1388430,
     "name": "CAI International, Inc.",
     "address": {
-      "street1": "",
+      "street1": "STEUART TOWER, 1 MARKET PLAZA, SUITE 900",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "SAN FRANCISCO,",
+      "state": "CA",
+      "zip": "94105"
     },
     "symbol": "CAP",
     "exchange": "nyse",
@@ -19410,11 +19410,11 @@
     "id": 1180571,
     "name": "CEF EQUIPMENT HOLDING LLC",
     "address": {
-      "street1": "",
+      "street1": "44 OLD RIDGEBURY RD",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "DANBURY",
+      "state": "CT",
+      "zip": "06810"
     }
   },
   {
@@ -22070,11 +22070,11 @@
     "id": 1398137,
     "name": "CINJET INC",
     "address": {
-      "street1": "",
+      "street1": "2160 CALIFORNIA AVENUE, B#116",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "SAND CITY",
+      "state": "CA",
+      "zip": "93955"
     }
   },
   {
@@ -22849,11 +22849,11 @@
     "id": 1240581,
     "name": "CLIFTON SAVINGS BANCORP INC",
     "address": {
-      "street1": "",
-      "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "street1": "C/O CLIFTON SAVINGS BANCORP INC",
+      "street2": "C/O CLIFTON SAVINGS BANCORP INC",
+      "city": "CLIFTON",
+      "state": "NJ",
+      "zip": "07015"
     },
     "symbol": "CSBK",
     "exchange": "nasdaq",
@@ -23958,11 +23958,11 @@
     "id": 1166691,
     "name": "COMCAST CORP",
     "address": {
-      "street1": "",
+      "street1": "1500 MARKET STREET",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zip": "19102"
     },
     "symbol": "CCZ",
     "exchange": "nyse",
@@ -26666,11 +26666,11 @@
     "id": 1179060,
     "name": "CROSSTEX ENERGY LP",
     "address": {
-      "street1": "",
-      "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "street1": "2501 CEDAR SPRINGS",
+      "street2": "2501 CEDAR SPRINGS",
+      "city": "DALLAS",
+      "state": "TX",
+      "zip": "75201"
     },
     "symbol": "XTEX",
     "exchange": "nasdaq",
@@ -28624,11 +28624,11 @@
     "id": 1351541,
     "name": "Delek US Holdings, Inc.",
     "address": {
-      "street1": "",
+      "street1": "7102 COMMERCE WAY",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "BRENTWOOD",
+      "state": "TN",
+      "zip": "37027"
     },
     "symbol": "DK",
     "exchange": "nyse",
@@ -33496,11 +33496,11 @@
     "id": 1346022,
     "name": "Enertopia Corp.",
     "address": {
-      "street1": "",
+      "street1": "950-1130 WEST PENDER STREET",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "VANCOUVER",
+      "state": "A1",
+      "zip": "V6E 4A4"
     }
   },
   {
@@ -35405,11 +35405,11 @@
     "id": 1168165,
     "name": "EXELON GENERATION CO LLC",
     "address": {
-      "street1": "",
-      "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "street1": "10 S DEARBORN STREET",
+      "street2": "10 S DEARBORN STREET",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zip": "60690"
     }
   },
   {
@@ -40576,55 +40576,55 @@
     "id": 1529727,
     "name": "GE Equipment Midticket LLC, Series 2011-1",
     "address": {
-      "street1": "",
+      "street1": "44 OLD RIDGEBURY RD",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "DANBURY",
+      "state": "CT",
+      "zip": "06810"
     }
   },
   {
     "id": 1556541,
     "name": "GE Equipment Midticket LLC, Series 2012-1",
     "address": {
-      "street1": "",
+      "street1": "44 OLD RIDGEBURY RD",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "DANBURY",
+      "state": "CT",
+      "zip": "06810"
     }
   },
   {
     "id": 1522711,
     "name": "GE Equipment Transportation LLC, Series 2011-1",
     "address": {
-      "street1": "",
+      "street1": "44 OLD RIDGEBURY RD",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "DANBURY",
+      "state": "CT",
+      "zip": "06810"
     }
   },
   {
     "id": 1543097,
     "name": "GE Equipment Transportation LLC, Series 2012-1",
     "address": {
-      "street1": "",
+      "street1": "44 OLD RIDGEBURY RD",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "DANBURY",
+      "state": "CT",
+      "zip": "06810"
     }
   },
   {
     "id": 1559752,
     "name": "GE Equipment Transportation LLC, Series 2012-2",
     "address": {
-      "street1": "",
+      "street1": "44 OLD RIDGEBURY RD",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "DANBURY",
+      "state": "CT",
+      "zip": "06810"
     }
   },
   {
@@ -47130,11 +47130,11 @@
     "id": 1461640,
     "name": "HomeTown Bankshares Corp",
     "address": {
-      "street1": "",
-      "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "street1": "10 FRANKLIN ROAD, S.E.",
+      "street2": "10 FRANKLIN ROAD, S.E.",
+      "city": "ROANOKE",
+      "state": "VA",
+      "zip": "24011"
     }
   },
   {
@@ -54642,11 +54642,11 @@
     "id": 1060749,
     "name": "KNIGHT CAPITAL GROUP, INC.",
     "address": {
-      "street1": "",
+      "street1": "545 WASHINGTON BLVD.",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "JERSEY CITY",
+      "state": "NJ",
+      "zip": "07310"
     }
   },
   {
@@ -56379,11 +56379,11 @@
     "id": 1348362,
     "name": "LEXARIA CORP.",
     "address": {
-      "street1": "",
+      "street1": "SUITE 604 - 700 WEST PENDER STREET",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "VANCOUVER",
+      "state": "A1",
+      "zip": "V6C 1G8"
     }
   },
   {
@@ -66566,11 +66566,11 @@
     "id": 1263762,
     "name": "NEW CENTURY BANCORP INC",
     "address": {
-      "street1": "",
-      "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "street1": "LISA CAMPBELL",
+      "street2": "LISA CAMPBELL",
+      "city": "DUNN",
+      "state": "NC",
+      "zip": "283351988"
     },
     "symbol": "NCBC",
     "exchange": "nasdaq",
@@ -74931,11 +74931,11 @@
     "id": 1292556,
     "name": "Polypore International, Inc.",
     "address": {
-      "street1": "",
+      "street1": "11430 N. COMMUNITY ROAD, SUITE 350",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "CHARLOTTE",
+      "state": "NC",
+      "zip": "28277"
     },
     "symbol": "PPO",
     "exchange": "nyse",
@@ -78100,11 +78100,11 @@
     "id": 1254699,
     "name": "QVC INC",
     "address": {
-      "street1": "",
+      "street1": "1200 WILSON DRIVE AT STUDIO PARK",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "WEST CHESTER",
+      "state": "PA",
+      "zip": "19380"
     }
   },
   {
@@ -86073,11 +86073,11 @@
     "id": 1301991,
     "name": "SmartMetric, Inc.",
     "address": {
-      "street1": "",
-      "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "street1": "9553 HARDING AVENUE",
+      "street2": "9553 HARDING AVENUE",
+      "city": "SURFSIDE",
+      "state": "FL",
+      "zip": "33154"
     }
   },
   {
@@ -86532,11 +86532,11 @@
     "id": 1376231,
     "name": "Soleil Capital L.P.",
     "address": {
-      "street1": "",
+      "street1": "725 W. 50TH STREET",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "MIAMI BEACH",
+      "state": "FL",
+      "zip": "33140"
     }
   },
   {
@@ -89472,11 +89472,11 @@
     "id": 1442376,
     "name": "STREAMTRACK, INC.",
     "address": {
-      "street1": "",
+      "street1": "347 CHAPALA STREET",
       "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "city": "SANTA BARBARA",
+      "state": "CA",
+      "zip": "93101"
     }
   },
   {
@@ -100452,11 +100452,11 @@
     "id": 1288403,
     "name": "W&T OFFSHORE INC",
     "address": {
-      "street1": "",
-      "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
+      "street1": "EIGHT GREENWAY PLZ",
+      "street2": "EIGHT GREENWAY PLZ",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zip": "77046"
     },
     "symbol": "WTI",
     "exchange": "nyse",
