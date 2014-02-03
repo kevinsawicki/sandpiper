@@ -8,7 +8,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10011"
-    }
+    },
+    "latitude": 40.742227,
+    "longitude": -74.004466
   },
   {
     "id": 1084869,
@@ -24,7 +26,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1999,
     "sector": "Consumer Services",
-    "industry": "Other Specialty Stores"
+    "industry": "Other Specialty Stores",
+    "latitude": 40.73687,
+    "longitude": -73.58308
   },
   {
     "id": 1420525,
@@ -39,7 +43,9 @@
     "symbol": "FCTY",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Major Banks"
+    "industry": "Major Banks",
+    "latitude": 34.06173,
+    "longitude": -118.41478
   },
   {
     "id": 1141807,
@@ -54,7 +60,9 @@
     "symbol": "FCCY",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Savings Institutions"
+    "industry": "Savings Institutions",
+    "latitude": 40.32747,
+    "longitude": -74.506429
   },
   {
     "id": 1434743,
@@ -65,7 +73,9 @@
       "city": "HENDERSONVILLE",
       "state": "NC",
       "zip": "28792"
-    }
+    },
+    "latitude": 35.33681,
+    "longitude": -82.44304
   },
   {
     "id": 38723,
@@ -76,7 +86,9 @@
       "city": "TOCCOA",
       "state": "GA",
       "zip": "30577"
-    }
+    },
+    "latitude": 34.58013,
+    "longitude": -83.328764
   },
   {
     "id": 34782,
@@ -91,7 +103,9 @@
     "symbol": "SRCE",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Major Banks"
+    "industry": "Major Banks",
+    "latitude": 41.6768,
+    "longitude": -86.25041
   },
   {
     "id": 1415277,
@@ -106,7 +120,9 @@
     "symbol": "FUBC",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Major Banks"
+    "industry": "Major Banks",
+    "latitude": 26.350514,
+    "longitude": -80.086458
   },
   {
     "id": 1347858,
@@ -117,7 +133,9 @@
       "city": "CLARENCE,",
       "state": "NY",
       "zip": "14031"
-    }
+    },
+    "latitude": 42.97239,
+    "longitude": -78.63513
   },
   {
     "id": 1025315,
@@ -128,7 +146,9 @@
       "city": "BASINGSTOKE RG217QN",
       "state": "X0",
       "zip": "00000"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 100412,
@@ -139,7 +159,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10165"
-    }
+    },
+    "latitude": 40.7521,
+    "longitude": -73.9787
   },
   {
     "id": 1118974,
@@ -150,7 +172,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10004"
-    }
+    },
+    "latitude": 40.7043,
+    "longitude": -74.01157
   },
   {
     "id": 1124019,
@@ -161,7 +185,9 @@
       "city": "LOS ANGELES",
       "state": "CA",
       "zip": "90069"
-    }
+    },
+    "latitude": 34.094902,
+    "longitude": -118.37415
   },
   {
     "id": 910638,
@@ -176,7 +202,9 @@
     "symbol": "DDD",
     "exchange": "nyse",
     "sector": "Technology",
-    "industry": "Computer Software: Prepackaged Software"
+    "industry": "Computer Software: Prepackaged Software",
+    "latitude": 34.949486,
+    "longitude": -80.94901
   },
   {
     "id": 1375195,
@@ -187,7 +215,9 @@
       "city": "TULSA",
       "state": "OK",
       "zip": "74136"
-    }
+    },
+    "latitude": 36.0642,
+    "longitude": -95.91875
   },
   {
     "id": 66740,
@@ -202,7 +232,9 @@
     "symbol": "MMM",
     "exchange": "nyse",
     "sector": "Health Care",
-    "industry": "Medical/Dental Instruments"
+    "industry": "Medical/Dental Instruments",
+    "latitude": 45.032985,
+    "longitude": -93.094205
   },
   {
     "id": 1496443,
@@ -213,7 +245,9 @@
       "city": "HENDERSON",
       "state": "NV",
       "zip": "89012"
-    }
+    },
+    "latitude": 36.011709,
+    "longitude": -115.062199
   },
   {
     "id": 1221554,
@@ -224,7 +258,9 @@
       "city": "NEW YORK,",
       "state": "NY",
       "zip": "10005"
-    }
+    },
+    "latitude": 40.70493,
+    "longitude": -74.00707
   },
   {
     "id": 58592,
@@ -235,7 +271,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10017"
-    }
+    },
+    "latitude": 40.75443,
+    "longitude": -73.97178
   },
   {
     "id": 1400683,
@@ -246,7 +284,9 @@
       "city": "Salt Lake City",
       "state": "UT",
       "zip": "84108"
-    }
+    },
+    "latitude": 40.741091,
+    "longitude": -111.82679
   },
   {
     "id": 1454124,
@@ -257,7 +297,9 @@
       "city": "SEATTLE",
       "state": "WA",
       "zip": "98121"
-    }
+    },
+    "latitude": 47.611229,
+    "longitude": -122.342949
   },
   {
     "id": 1504876,
@@ -268,7 +310,9 @@
       "city": "SAN GABRIEL",
       "state": "CA",
       "zip": "91776"
-    }
+    },
+    "latitude": 34.080143,
+    "longitude": -118.091092
   },
   {
     "id": 90794,
@@ -279,7 +323,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10165"
-    }
+    },
+    "latitude": 40.7521,
+    "longitude": -73.9787
   },
   {
     "id": 1023731,
@@ -294,7 +340,9 @@
     "symbol": "EGHT",
     "exchange": "nasdaq",
     "sector": "Public Utilities",
-    "industry": "Telecommunications Equipment"
+    "industry": "Telecommunications Equipment",
+    "latitude": 37.374334,
+    "longitude": -121.922684
   },
   {
     "id": 1011290,
@@ -305,7 +353,9 @@
       "city": "CITY OF COMMERCE",
       "state": "CA",
       "zip": "90023"
-    }
+    },
+    "latitude": 34.01654,
+    "longitude": -118.189239
   },
   {
     "id": 1539778,
@@ -316,7 +366,9 @@
       "city": "OAK BROOK",
       "state": "IL",
       "zip": "60523"
-    }
+    },
+    "latitude": 41.85085,
+    "longitude": -87.94
   },
   {
     "id": 1413898,
@@ -331,7 +383,9 @@
     "symbol": "AHC",
     "exchange": "nyse",
     "sector": "Consumer Services",
-    "industry": "Newspapers/Magazines"
+    "industry": "Newspapers/Magazines",
+    "latitude": 32.775854,
+    "longitude": -96.806731
   },
   {
     "id": 1381054,
@@ -342,7 +396,9 @@
       "city": "QUEBEC CITY",
       "state": "A8",
       "zip": "H9X4B4"
-    }
+    },
+    "latitude": 45.426922,
+    "longitude": -73.93602
   },
   {
     "id": 1057051,
@@ -353,7 +409,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10036"
-    }
+    },
+    "latitude": 40.7589,
+    "longitude": -73.9895
   },
   {
     "id": 1227268,
@@ -364,7 +422,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10036"
-    }
+    },
+    "latitude": 40.75454,
+    "longitude": -73.98012
   },
   {
     "id": 1529004,
@@ -375,7 +435,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10019"
-    }
+    },
+    "latitude": 40.760712,
+    "longitude": -73.979832
   },
   {
     "id": 824142,
@@ -390,7 +452,9 @@
     "symbol": "AAON",
     "exchange": "nasdaq",
     "sector": "Capital Goods",
-    "industry": "Industrial Machinery/Components"
+    "industry": "Industrial Machinery/Components",
+    "latitude": 36.128471,
+    "longitude": -96.016032
   },
   {
     "id": 1750,
@@ -405,7 +469,9 @@
     "symbol": "AIR",
     "exchange": "nyse",
     "sector": "Capital Goods",
-    "industry": "Aerospace"
+    "industry": "Aerospace",
+    "latitude": 41.985515,
+    "longitude": -87.979925
   },
   {
     "id": 706688,
@@ -420,7 +486,9 @@
     "symbol": "AAN",
     "exchange": "nyse",
     "sector": "Technology",
-    "industry": "Diversified Commercial Services"
+    "industry": "Diversified Commercial Services",
+    "latitude": 33.839223,
+    "longitude": -84.377552
   },
   {
     "id": 887359,
@@ -436,7 +504,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1997,
     "sector": "Health Care",
-    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "latitude": 42.318575,
+    "longitude": -83.682074
   },
   {
     "id": 1400000,
@@ -447,7 +517,9 @@
       "city": "MIAMI",
       "state": "FL",
       "zip": "33133"
-    }
+    },
+    "latitude": 25.730753,
+    "longitude": -80.235696
   },
   {
     "id": 881890,
@@ -463,7 +535,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1992,
     "sector": "Capital Goods",
-    "industry": "Industrial Machinery/Components"
+    "industry": "Industrial Machinery/Components",
+    "latitude": 37.60562,
+    "longitude": -122.081055
   },
   {
     "id": 1800,
@@ -478,7 +552,9 @@
     "symbol": "ABT",
     "exchange": "nyse",
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 42.302269,
+    "longitude": -87.890651
   },
   {
     "id": 1551152,
@@ -494,7 +570,9 @@
     "exchange": "nyse",
     "ipoYear": 2012,
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 42.3241,
+    "longitude": -87.8573
   },
   {
     "id": 1478535,
@@ -505,7 +583,9 @@
       "city": "SAN DIEGO",
       "state": "CA",
       "zip": "92108"
-    }
+    },
+    "latitude": 32.77234,
+    "longitude": -117.13533
   },
   {
     "id": 1528234,
@@ -516,7 +596,9 @@
       "city": "HONG KONG",
       "state": "F4",
       "zip": "00000000"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1018840,
@@ -531,7 +613,9 @@
     "symbol": "ANF",
     "exchange": "nyse",
     "sector": "Consumer Services",
-    "industry": "Clothing/Shoe/Accessory Stores"
+    "industry": "Clothing/Shoe/Accessory Stores",
+    "latitude": 40.084651,
+    "longitude": -82.782074
   },
   {
     "id": 815094,
@@ -546,7 +630,9 @@
     "symbol": "ABMD",
     "exchange": "nasdaq",
     "sector": "Health Care",
-    "industry": "Medical/Dental Instruments"
+    "industry": "Medical/Dental Instruments",
+    "latitude": 42.574209,
+    "longitude": -70.916017
   },
   {
     "id": 771497,
@@ -561,7 +647,9 @@
     "symbol": "ABM",
     "exchange": "nyse",
     "sector": "Finance",
-    "industry": "Diversified Commercial Services"
+    "industry": "Diversified Commercial Services",
+    "latitude": 40.755704,
+    "longitude": -73.979266
   },
   {
     "id": 867665,
@@ -576,7 +664,9 @@
     "symbol": "AXAS",
     "exchange": "nasdaq",
     "sector": "Energy",
-    "industry": "Oil & Gas Production"
+    "industry": "Oil & Gas Production",
+    "latitude": 29.61618,
+    "longitude": -98.48205
   },
   {
     "id": 1421538,
@@ -587,7 +677,9 @@
       "city": "BROOKLYN",
       "state": "NY",
       "zip": "11210"
-    }
+    },
+    "latitude": 40.63036,
+    "longitude": -73.94742
   },
   {
     "id": 1002360,
@@ -598,7 +690,9 @@
       "city": "CHICAGO",
       "state": "IL",
       "zip": "60604"
-    }
+    },
+    "latitude": 41.87814,
+    "longitude": -87.63224
   },
   {
     "id": 1405858,
@@ -609,7 +703,9 @@
       "city": "SCOTTSDALE",
       "state": "AZ",
       "zip": "85251"
-    }
+    },
+    "latitude": 33.49517,
+    "longitude": -111.92618
   },
   {
     "id": 1001463,
@@ -620,7 +716,9 @@
       "city": "OCALA",
       "state": "FL",
       "zip": "34470"
-    }
+    },
+    "latitude": 29.196262,
+    "longitude": -82.088369
   },
   {
     "id": 934549,
@@ -635,7 +733,9 @@
     "symbol": "ACTG",
     "exchange": "nasdaq",
     "sector": "Miscellaneous",
-    "industry": "Multi-Sector Companies"
+    "industry": "Multi-Sector Companies",
+    "latitude": 33.61577,
+    "longitude": -117.87226
   },
   {
     "id": 1520697,
@@ -650,7 +750,9 @@
     "symbol": "ACHC",
     "exchange": "nasdaq",
     "sector": "Health Care",
-    "industry": "Medical Specialities"
+    "industry": "Medical Specialities",
+    "latitude": 35.94386,
+    "longitude": -86.81247
   },
   {
     "id": 1070494,
@@ -666,7 +768,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1985,
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 32.90591,
+    "longitude": -117.23801
   },
   {
     "id": 899629,
@@ -681,7 +785,9 @@
     "symbol": "AKR",
     "exchange": "nyse",
     "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts"
+    "industry": "Real Estate Investment Trusts",
+    "latitude": 40.98722,
+    "longitude": -73.7449
   },
   {
     "id": 1444144,
@@ -692,7 +798,9 @@
       "city": "FOSTER CITY",
       "state": "CA",
       "zip": "94404"
-    }
+    },
+    "latitude": 37.557162,
+    "longitude": -122.280464
   },
   {
     "id": 1534629,
@@ -703,7 +811,9 @@
       "city": "FOSTER CITY",
       "state": "CA",
       "zip": "94404"
-    }
+    },
+    "latitude": 37.557162,
+    "longitude": -122.280464
   },
   {
     "id": 1542624,
@@ -714,7 +824,9 @@
       "city": "FOSTER CITY",
       "state": "CA",
       "zip": "94404"
-    }
+    },
+    "latitude": 37.557162,
+    "longitude": -122.280464
   },
   {
     "id": 1352952,
@@ -725,7 +837,9 @@
       "city": "NEWPORT BEACH",
       "state": "CA",
       "zip": "92663"
-    }
+    },
+    "latitude": 33.6216,
+    "longitude": -117.92353
   },
   {
     "id": 1342505,
@@ -736,7 +850,9 @@
       "city": "COLLEGEVILL",
       "state": "PA",
       "zip": "19426"
-    }
+    },
+    "latitude": 40.196334,
+    "longitude": -75.485525
   },
   {
     "id": 1002388,
@@ -752,7 +868,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1995,
     "sector": "Technology",
-    "industry": "Computer Software: Prepackaged Software"
+    "industry": "Computer Software: Prepackaged Software",
+    "latitude": 32.896586,
+    "longitude": -117.207706
   },
   {
     "id": 1467373,
@@ -768,7 +886,9 @@
     "exchange": "nyse",
     "ipoYear": 2001,
     "sector": "Miscellaneous",
-    "industry": "Business Services"
+    "industry": "Business Services",
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1143908,
@@ -779,7 +899,9 @@
       "city": "L-1855 LUXEMBOURG",
       "state": "N4",
       "zip": "00000"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1483096,
@@ -794,7 +916,9 @@
     "symbol": "ACMP",
     "exchange": "nyse",
     "sector": "Public Utilities",
-    "industry": "Natural Gas Distribution"
+    "industry": "Natural Gas Distribution",
+    "latitude": 35.52621,
+    "longitude": -97.50528
   },
   {
     "id": 1176316,
@@ -809,7 +933,9 @@
     "symbol": "ANCX",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Savings Institutions"
+    "industry": "Savings Institutions",
+    "latitude": 38.894309,
+    "longitude": -77.431207
   },
   {
     "id": 318306,
@@ -820,7 +946,9 @@
       "city": "DALLAS",
       "state": "TX",
       "zip": "75207"
-    }
+    },
+    "latitude": 32.80699,
+    "longitude": -96.840179
   },
   {
     "id": 1550956,
@@ -831,7 +959,9 @@
       "city": "LACEY",
       "state": "WA",
       "zip": "98503"
-    }
+    },
+    "latitude": 47.04028,
+    "longitude": -122.824037
   },
   {
     "id": 712034,
@@ -846,7 +976,9 @@
     "symbol": "ACCO",
     "exchange": "nyse",
     "sector": "Consumer Durables",
-    "industry": "Publishing"
+    "industry": "Publishing",
+    "latitude": 42.199837,
+    "longitude": -88.039341
   },
   {
     "id": 1138723,
@@ -862,7 +994,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2007,
     "sector": "Health Care",
-    "industry": "Medical/Dental Instruments"
+    "industry": "Medical/Dental Instruments",
+    "latitude": 37.41021,
+    "longitude": -122.00208
   },
   {
     "id": 817979,
@@ -877,7 +1011,9 @@
     "symbol": "ACW",
     "exchange": "nyse",
     "sector": "Capital Goods",
-    "industry": "Auto Parts:O.E.M."
+    "industry": "Auto Parts:O.E.M.",
+    "latitude": 37.9763,
+    "longitude": -87.4779
   },
   {
     "id": 1265848,
@@ -888,7 +1024,9 @@
       "city": "SAN GABRIEL",
       "state": "CA",
       "zip": "91776"
-    }
+    },
+    "latitude": 34.08032,
+    "longitude": -118.08707
   },
   {
     "id": 896159,
@@ -903,7 +1041,9 @@
     "symbol": "ACE",
     "exchange": "nyse",
     "sector": "Finance",
-    "industry": "Property-Casualty Insurers"
+    "industry": "Property-Casualty Insurers",
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1084267,
@@ -914,7 +1054,9 @@
       "city": "GARDEN CITY",
       "state": "NY",
       "zip": "11530"
-    }
+    },
+    "latitude": 40.74319,
+    "longitude": -73.61491
   },
   {
     "id": 1427925,
@@ -930,7 +1072,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2011,
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 37.49902,
+    "longitude": -122.214742
   },
   {
     "id": 2034,
@@ -945,7 +1089,9 @@
     "symbol": "ACET",
     "exchange": "nasdaq",
     "sector": "Consumer Durables",
-    "industry": "Specialty Chemicals"
+    "industry": "Specialty Chemicals",
+    "latitude": 40.8099,
+    "longitude": -73.659
   },
   {
     "id": 1070336,
@@ -961,7 +1107,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2006,
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 41.30584,
+    "longitude": -72.932193
   },
   {
     "id": 935036,
@@ -976,7 +1124,9 @@
     "symbol": "ACIW",
     "exchange": "nasdaq",
     "sector": "Technology",
-    "industry": "Computer Software: Prepackaged Software"
+    "industry": "Computer Software: Prepackaged Software",
+    "latitude": 26.210992,
+    "longitude": -81.746457
   },
   {
     "id": 1535013,
@@ -987,7 +1137,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90210"
-    }
+    },
+    "latitude": 34.0921,
+    "longitude": -118.4102
   },
   {
     "id": 934445,
@@ -998,7 +1150,9 @@
       "city": "KOWLOON BAY, KOWLOON",
       "state": "K3",
       "zip": ""
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1493265,
@@ -1009,7 +1163,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89108"
-    }
+    },
+    "latitude": 36.18822,
+    "longitude": -115.21401
   },
   {
     "id": 1130258,
@@ -1020,7 +1176,9 @@
       "city": "BEDFORD",
       "state": "MA",
       "zip": "01730"
-    }
+    },
+    "latitude": 42.510866,
+    "longitude": -71.244381
   },
   {
     "id": 2098,
@@ -1036,7 +1194,9 @@
     "exchange": "amex",
     "ipoYear": 1988,
     "sector": "Capital Goods",
-    "industry": "Industrial Machinery/Components"
+    "industry": "Industrial Machinery/Components",
+    "latitude": 41.14579,
+    "longitude": -73.2533
   },
   {
     "id": 715579,
@@ -1051,7 +1211,9 @@
     "symbol": "ACNB",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Major Banks"
+    "industry": "Major Banks",
+    "latitude": 39.83094,
+    "longitude": -77.231276
   },
   {
     "id": 1008848,
@@ -1067,7 +1229,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2006,
     "sector": "Health Care",
-    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "latitude": 40.998828,
+    "longitude": -73.856512
   },
   {
     "id": 880984,
@@ -1082,7 +1246,9 @@
     "symbol": "ACFN",
     "exchange": "nasdaq",
     "sector": "Consumer Services",
-    "industry": "Military/Government/Technical"
+    "industry": "Military/Government/Technical",
+    "latitude": 39.783476,
+    "longitude": -75.621984
   },
   {
     "id": 1391135,
@@ -1093,7 +1259,9 @@
       "city": "LAKE FOREST",
       "state": "IL",
       "zip": "60045"
-    }
+    },
+    "latitude": 42.24087,
+    "longitude": -87.86757
   },
   {
     "id": 1228386,
@@ -1104,7 +1272,9 @@
       "city": "BNEI-BRAK",
       "state": "L3",
       "zip": "00000"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1497251,
@@ -1115,7 +1285,9 @@
       "city": "TAMPA",
       "state": "FL",
       "zip": "33607"
-    }
+    },
+    "latitude": 27.96695,
+    "longitude": -82.55058
   },
   {
     "id": 884629,
@@ -1131,7 +1303,9 @@
     "exchange": "nyse",
     "ipoYear": 2013,
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 40.8601,
+    "longitude": -74.4144
   },
   {
     "id": 1477472,
@@ -1142,7 +1316,9 @@
       "city": "RIVERSIDE",
       "state": "CA",
       "zip": "92506"
-    }
+    },
+    "latitude": 33.95817,
+    "longitude": -117.39352
   },
   {
     "id": 1163932,
@@ -1153,7 +1329,9 @@
       "city": "SAN DIEGO",
       "state": "CA",
       "zip": "92121"
-    }
+    },
+    "latitude": 32.901829,
+    "longitude": -117.207709
   },
   {
     "id": 1044435,
@@ -1169,7 +1347,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2000,
     "sector": "Public Utilities",
-    "industry": "Electric Utilities: Central"
+    "industry": "Electric Utilities: Central",
+    "latitude": 30.393147,
+    "longitude": -97.711096
   },
   {
     "id": 1429896,
@@ -1180,7 +1360,9 @@
       "city": "WEST VALLEY CITY",
       "state": "UT",
       "zip": "84120"
-    }
+    },
+    "latitude": 40.72555,
+    "longitude": -112.012532
   },
   {
     "id": 718877,
@@ -1195,7 +1377,9 @@
     "symbol": "ATVI",
     "exchange": "nasdaq",
     "sector": "Technology",
-    "industry": "Computer Software: Prepackaged Software"
+    "industry": "Computer Software: Prepackaged Software",
+    "latitude": 34.02048,
+    "longitude": -118.45294
   },
   {
     "id": 6955,
@@ -1210,7 +1394,9 @@
     "symbol": "ATU",
     "exchange": "nyse",
     "sector": "Technology",
-    "industry": "Industrial Machinery/Components"
+    "industry": "Industrial Machinery/Components",
+    "latitude": 43.1512,
+    "longitude": -88.1079
   },
   {
     "id": 1062478,
@@ -1225,7 +1411,9 @@
     "symbol": "BIRT",
     "exchange": "nasdaq",
     "sector": "Technology",
-    "industry": "Computer Software: Prepackaged Software"
+    "industry": "Computer Software: Prepackaged Software",
+    "latitude": 37.55871,
+    "longitude": -122.28767
   },
   {
     "id": 1144215,
@@ -1240,7 +1428,9 @@
     "symbol": "AYI",
     "exchange": "nyse",
     "sector": "Consumer Durables",
-    "industry": "Building Products"
+    "industry": "Building Products",
+    "latitude": 33.786458,
+    "longitude": -84.383084
   },
   {
     "id": 786947,
@@ -1255,7 +1445,9 @@
     "symbol": "ACUR",
     "exchange": "nasdaq",
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 42.121758,
+    "longitude": -88.038269
   },
   {
     "id": 733269,
@@ -1270,7 +1462,9 @@
     "symbol": "ACXM",
     "exchange": "nasdaq",
     "sector": "Technology",
-    "industry": "EDP Services"
+    "industry": "EDP Services",
+    "latitude": 34.745329,
+    "longitude": -92.264713
   },
   {
     "id": 1223112,
@@ -1281,7 +1475,9 @@
       "city": "HIGHLANDS RANCH",
       "state": "CO",
       "zip": "80129"
-    }
+    },
+    "latitude": 39.550401,
+    "longitude": -104.996445
   },
   {
     "id": 1422222,
@@ -1292,7 +1488,9 @@
       "city": "MERRITT ISLAND",
       "state": "FL",
       "zip": "32953"
-    }
+    },
+    "latitude": 28.38117,
+    "longitude": -80.70261
   },
   {
     "id": 887247,
@@ -1307,7 +1505,9 @@
     "symbol": "ADMP",
     "exchange": "nasdaq",
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 32.92532,
+    "longitude": -117.236409
   },
   {
     "id": 2178,
@@ -1322,7 +1522,9 @@
     "symbol": "AE",
     "exchange": "amex",
     "sector": "Energy",
-    "industry": "Oil Refining/Marketing"
+    "industry": "Oil Refining/Marketing",
+    "latitude": 29.751169,
+    "longitude": -95.449226
   },
   {
     "id": 1563536,
@@ -1333,7 +1535,9 @@
       "city": "SAN ANTONIO",
       "state": "TX",
       "zip": "78248"
-    }
+    },
+    "latitude": 29.58052,
+    "longitude": -98.51841
   },
   {
     "id": 1004724,
@@ -1348,7 +1552,9 @@
     "symbol": "ADK",
     "exchange": "amex",
     "sector": "Health Care",
-    "industry": "Hospital/Nursing Management"
+    "industry": "Hospital/Nursing Management",
+    "latitude": 34.06099,
+    "longitude": -84.32784
   },
   {
     "id": 1468328,
@@ -1364,7 +1570,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2009,
     "sector": "Health Care",
-    "industry": "Medical/Nursing Services"
+    "industry": "Medical/Nursing Services",
+    "latitude": 42.085755,
+    "longitude": -88.043819
   },
   {
     "id": 874292,
@@ -1379,7 +1587,9 @@
     "symbol": "AEY",
     "exchange": "nasdaq",
     "sector": "Consumer Services",
-    "industry": "Office Equipment/Supplies/Services"
+    "industry": "Office Equipment/Supplies/Services",
+    "latitude": 36.046451,
+    "longitude": -95.775598
   },
   {
     "id": 1433669,
@@ -1390,7 +1600,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19899"
-    }
+    },
+    "latitude": 39.744829,
+    "longitude": -75.548256
   },
   {
     "id": 865415,
@@ -1405,7 +1617,9 @@
     "symbol": "ADEP",
     "exchange": "nasdaq",
     "sector": "Technology",
-    "industry": "Industrial Machinery/Components"
+    "industry": "Industrial Machinery/Components",
+    "latitude": 37.68847,
+    "longitude": -121.90102
   },
   {
     "id": 1211583,
@@ -1416,7 +1630,9 @@
       "city": "DURHAM",
       "state": "NC",
       "zip": "27703"
-    }
+    },
+    "latitude": 35.882071,
+    "longitude": -78.848319
   },
   {
     "id": 700815,
@@ -1427,7 +1643,9 @@
       "city": "HOUSTON",
       "state": "TX",
       "zip": "77042"
-    }
+    },
+    "latitude": 29.73952,
+    "longitude": -95.561369
   },
   {
     "id": 849401,
@@ -1438,7 +1656,9 @@
       "city": "NORTHVALE",
       "state": "NJ",
       "zip": "07647"
-    }
+    },
+    "latitude": 41.012844,
+    "longitude": -73.943887
   },
   {
     "id": 1368514,
@@ -1449,7 +1669,9 @@
       "city": "RAMSEY",
       "state": "NJ",
       "zip": "07446"
-    }
+    },
+    "latitude": 41.0597,
+    "longitude": -74.1418
   },
   {
     "id": 828530,
@@ -1460,7 +1682,9 @@
       "city": "SOUTH MIAMI",
       "state": "FL",
       "zip": "33143"
-    }
+    },
+    "latitude": 25.704157,
+    "longitude": -80.301439
   },
   {
     "id": 796343,
@@ -1476,7 +1700,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1986,
     "sector": "Technology",
-    "industry": "Computer Software: Prepackaged Software"
+    "industry": "Computer Software: Prepackaged Software",
+    "latitude": 37.33016,
+    "longitude": -121.89402
   },
   {
     "id": 1546640,
@@ -1491,7 +1717,9 @@
     "symbol": "ADT",
     "exchange": "nyse",
     "sector": "Consumer Services",
-    "industry": "Diversified Commercial Services"
+    "industry": "Diversified Commercial Services",
+    "latitude": 26.39411,
+    "longitude": -80.11814
   },
   {
     "id": 926282,
@@ -1507,7 +1735,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1994,
     "sector": "Public Utilities",
-    "industry": "Telecommunications Equipment"
+    "industry": "Telecommunications Equipment",
+    "latitude": 34.721371,
+    "longitude": -86.684714
   },
   {
     "id": 1158449,
@@ -1522,7 +1752,9 @@
     "symbol": "AAP",
     "exchange": "nyse",
     "sector": "Consumer Services",
-    "industry": "Other Specialty Stores"
+    "industry": "Other Specialty Stores",
+    "latitude": 37.318086,
+    "longitude": -79.955918
   },
   {
     "id": 1385799,
@@ -1533,7 +1765,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10118"
-    }
+    },
+    "latitude": 40.74828,
+    "longitude": -73.984679
   },
   {
     "id": 1140098,
@@ -1544,7 +1778,9 @@
       "city": "MARLBOROUGH",
       "state": "MA",
       "zip": "01752"
-    }
+    },
+    "latitude": 42.34848,
+    "longitude": -71.57742
   },
   {
     "id": 1495850,
@@ -1555,7 +1791,9 @@
       "city": "CAMBRIDGE",
       "state": "X0",
       "zip": "CB23 6HJ"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1437517,
@@ -1566,7 +1804,9 @@
       "city": "EAGAN",
       "state": "MN",
       "zip": "55122"
-    }
+    },
+    "latitude": 44.787262,
+    "longitude": -93.202152
   },
   {
     "id": 927003,
@@ -1582,7 +1822,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1995,
     "sector": "Capital Goods",
-    "industry": "Industrial Machinery/Components"
+    "industry": "Industrial Machinery/Components",
+    "latitude": 40.56539,
+    "longitude": -105.02973
   },
   {
     "id": 849706,
@@ -1593,7 +1835,9 @@
       "city": "SPRINGDALE",
       "state": "AR",
       "zip": "72764"
-    }
+    },
+    "latitude": 36.19426,
+    "longitude": -94.12366
   },
   {
     "id": 1449349,
@@ -1604,7 +1848,9 @@
       "city": "KENNEWICK",
       "state": "WA",
       "zip": "99336"
-    }
+    },
+    "latitude": 46.21962,
+    "longitude": -119.2053
   },
   {
     "id": 2488,
@@ -1619,7 +1865,9 @@
     "symbol": "AMD",
     "exchange": "nyse",
     "sector": "Technology",
-    "industry": "Semiconductors"
+    "industry": "Semiconductors",
+    "latitude": 37.3867,
+    "longitude": -121.998619
   },
   {
     "id": 352991,
@@ -1630,7 +1878,9 @@
       "city": "RANDOLPH",
       "state": "VT",
       "zip": "05060"
-    }
+    },
+    "latitude": 43.9489,
+    "longitude": -72.6661
   },
   {
     "id": 869986,
@@ -1645,7 +1895,9 @@
     "symbol": "API",
     "exchange": "amex",
     "sector": "Technology",
-    "industry": "Semiconductors"
+    "industry": "Semiconductors",
+    "latitude": 42.245238,
+    "longitude": -83.734753
   },
   {
     "id": 1119046,
@@ -1656,7 +1908,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10004"
-    }
+    },
+    "latitude": 40.70601,
+    "longitude": -74.01314
   },
   {
     "id": 1500122,
@@ -1667,7 +1921,9 @@
       "city": "YUEN LONG, NT",
       "state": "K3",
       "zip": "-"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1342936,
@@ -1678,7 +1934,9 @@
       "city": "SCOTTSDALE,",
       "state": "AZ",
       "zip": "85260"
-    }
+    },
+    "latitude": 33.60536,
+    "longitude": -111.91448
   },
   {
     "id": 1011060,
@@ -1689,7 +1947,9 @@
       "city": "WILMINGTON",
       "state": "MA",
       "zip": "01887"
-    }
+    },
+    "latitude": 42.59608,
+    "longitude": -71.146368
   },
   {
     "id": 925043,
@@ -1700,7 +1960,9 @@
       "city": "BEAVERCREEK",
       "state": "OH",
       "zip": "45431"
-    }
+    },
+    "latitude": 39.759738,
+    "longitude": -84.055484
   },
   {
     "id": 1100397,
@@ -1711,7 +1973,9 @@
       "city": "PRINCETON,",
       "state": "NJ",
       "zip": "08540"
-    }
+    },
+    "latitude": 40.357365,
+    "longitude": -74.598848
   },
   {
     "id": 1002225,
@@ -1727,7 +1991,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1995,
     "sector": "Technology",
-    "industry": "EDP Services"
+    "industry": "EDP Services",
+    "latitude": 37.77134,
+    "longitude": -122.40226
   },
   {
     "id": 1157377,
@@ -1743,7 +2009,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2001,
     "sector": "Consumer Services",
-    "industry": "Other Consumer Services"
+    "industry": "Other Consumer Services",
+    "latitude": 38.90529,
+    "longitude": -77.05263
   },
   {
     "id": 919956,
@@ -1758,7 +2026,9 @@
     "symbol": "DVCR",
     "exchange": "nasdaq",
     "sector": "Health Care",
-    "industry": "Hospital/Nursing Management"
+    "industry": "Hospital/Nursing Management",
+    "latitude": 35.969401,
+    "longitude": -86.809602
   },
   {
     "id": 868857,
@@ -1774,7 +2044,9 @@
     "exchange": "nyse",
     "ipoYear": 2007,
     "sector": "Consumer Services",
-    "industry": "Military/Government/Technical"
+    "industry": "Military/Government/Technical",
+    "latitude": 34.050775,
+    "longitude": -118.256829
   },
   {
     "id": 1338042,
@@ -1790,7 +2062,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2010,
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 42.36211,
+    "longitude": -71.08214
   },
   {
     "id": 353020,
@@ -1805,7 +2079,9 @@
     "symbol": "AEGN",
     "exchange": "nasdaq",
     "sector": "Basic Industries",
-    "industry": "Water Supply"
+    "industry": "Water Supply",
+    "latitude": 38.66506,
+    "longitude": -90.63413
   },
   {
     "id": 1040470,
@@ -1821,7 +2097,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1997,
     "sector": "Capital Goods",
-    "industry": "Electrical Products"
+    "industry": "Electrical Products",
+    "latitude": 37.46531,
+    "longitude": -121.919019
   },
   {
     "id": 1130758,
@@ -1832,7 +2110,9 @@
       "city": "ST PAUL",
       "state": "MN",
       "zip": "55101"
-    }
+    },
+    "latitude": 44.948389,
+    "longitude": -93.09621
   },
   {
     "id": 1185198,
@@ -1843,7 +2123,9 @@
       "city": "ST PAUL",
       "state": "MN",
       "zip": "55101"
-    }
+    },
+    "latitude": 44.948389,
+    "longitude": -93.09621
   },
   {
     "id": 1326321,
@@ -1854,7 +2136,9 @@
       "city": "ST. PAUL",
       "state": "MN",
       "zip": "55101"
-    }
+    },
+    "latitude": 44.948389,
+    "longitude": -93.09621
   },
   {
     "id": 931755,
@@ -1865,7 +2149,9 @@
       "city": "ST PAUL",
       "state": "MN",
       "zip": "55101"
-    }
+    },
+    "latitude": 44.948389,
+    "longitude": -93.09621
   },
   {
     "id": 1023458,
@@ -1876,7 +2162,9 @@
       "city": "ST PAUL",
       "state": "MN",
       "zip": "55101"
-    }
+    },
+    "latitude": 44.948389,
+    "longitude": -93.09621
   },
   {
     "id": 868740,
@@ -1887,7 +2175,9 @@
       "city": "ST PAUL",
       "state": "MN",
       "zip": "55101"
-    }
+    },
+    "latitude": 44.948389,
+    "longitude": -93.09621
   },
   {
     "id": 894245,
@@ -1898,7 +2188,9 @@
       "city": "ST PAUL",
       "state": "MN",
       "zip": "55101"
-    }
+    },
+    "latitude": 44.948389,
+    "longitude": -93.09621
   },
   {
     "id": 738214,
@@ -1909,7 +2201,9 @@
       "city": "CUPERTINO",
       "state": "CA",
       "zip": "95014"
-    }
+    },
+    "latitude": 37.322821,
+    "longitude": -122.029955
   },
   {
     "id": 1261734,
@@ -1920,7 +2214,9 @@
       "city": "MISSION VIEJO",
       "state": "CA",
       "zip": "92691"
-    }
+    },
+    "latitude": 33.564052,
+    "longitude": -117.660422
   },
   {
     "id": 785787,
@@ -1936,7 +2232,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1986,
     "sector": "Capital Goods",
-    "industry": "Specialty Chemicals"
+    "industry": "Specialty Chemicals",
+    "latitude": 41.05476,
+    "longitude": -74.06843
   },
   {
     "id": 1366928,
@@ -1947,7 +2245,9 @@
       "city": "COLUMBUS",
       "state": "OH",
       "zip": "43215"
-    }
+    },
+    "latitude": 39.96588,
+    "longitude": -83.004919
   },
   {
     "id": 1539816,
@@ -1958,7 +2258,9 @@
       "city": "CORPUS CHRISTI",
       "state": "TX",
       "zip": "78401"
-    }
+    },
+    "latitude": 27.79513,
+    "longitude": -97.397479
   },
   {
     "id": 1036848,
@@ -1973,7 +2275,9 @@
     "symbol": "ACY",
     "exchange": "amex",
     "sector": "Technology",
-    "industry": "Diversified Commercial Services"
+    "industry": "Diversified Commercial Services",
+    "latitude": 37.57768,
+    "longitude": -122.35059
   },
   {
     "id": 1487990,
@@ -1989,7 +2293,9 @@
     "exchange": "nyse",
     "ipoYear": 2010,
     "sector": "Technology",
-    "industry": "Semiconductors"
+    "industry": "Semiconductors",
+    "latitude": 40.78803,
+    "longitude": -73.45521
   },
   {
     "id": 1316644,
@@ -2000,7 +2306,9 @@
       "city": "BOULDER",
       "state": "CO",
       "zip": "80301"
-    }
+    },
+    "latitude": 40.06426,
+    "longitude": -105.21095
   },
   {
     "id": 1168213,
@@ -2016,7 +2324,9 @@
     "exchange": "nyse",
     "ipoYear": 2002,
     "sector": "Consumer Services",
-    "industry": "Clothing/Shoe/Accessory Stores"
+    "industry": "Clothing/Shoe/Accessory Stores",
+    "latitude": 40.752101,
+    "longitude": -73.987511
   },
   {
     "id": 109471,
@@ -2027,7 +2337,9 @@
       "city": "CLEARWATER",
       "state": "FL",
       "zip": "33765"
-    }
+    },
+    "latitude": 27.97741,
+    "longitude": -82.75459
   },
   {
     "id": 1368622,
@@ -2043,7 +2355,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2007,
     "sector": "Capital Goods",
-    "industry": "Aerospace"
+    "industry": "Aerospace",
+    "latitude": 34.1405,
+    "longitude": -118.00194
   },
   {
     "id": 1542625,
@@ -2054,7 +2368,9 @@
       "city": "EAST WENATCHEE",
       "state": "WA",
       "zip": "98802"
-    }
+    },
+    "latitude": 47.4364,
+    "longitude": -120.2575
   },
   {
     "id": 874761,
@@ -2069,7 +2385,9 @@
     "symbol": "AES",
     "exchange": "nyse",
     "sector": "Basic Industries",
-    "industry": "Electric Utilities: Central"
+    "industry": "Electric Utilities: Central",
+    "latitude": 38.88006,
+    "longitude": -77.11265
   },
   {
     "id": 882291,
@@ -2080,7 +2398,9 @@
       "city": "SAN DIEGO",
       "state": "CA",
       "zip": "92122"
-    }
+    },
+    "latitude": 32.87043,
+    "longitude": -117.226523
   },
   {
     "id": 1122304,
@@ -2095,7 +2415,9 @@
     "symbol": "AET",
     "exchange": "nyse",
     "sector": "Health Care",
-    "industry": "Medical Specialities"
+    "industry": "Medical Specialities",
+    "latitude": 41.767921,
+    "longitude": -72.692215
   },
   {
     "id": 908598,
@@ -2111,7 +2433,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1993,
     "sector": "Capital Goods",
-    "industry": "Electrical Products"
+    "industry": "Electrical Products",
+    "latitude": 45.011879,
+    "longitude": -92.99486
   },
   {
     "id": 1501489,
@@ -2122,7 +2446,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10022"
-    }
+    },
+    "latitude": 40.759452,
+    "longitude": -73.974426
   },
   {
     "id": 1041379,
@@ -2133,7 +2459,9 @@
       "city": "ATLANTA",
       "state": "GA",
       "zip": "30346"
-    }
+    },
+    "latitude": 33.92908,
+    "longitude": -84.338499
   },
   {
     "id": 1004434,
@@ -2149,7 +2477,9 @@
     "exchange": "nyse",
     "sector": "Finance",
     "industry": "Investment Managers",
-    "ipoYear": 2012
+    "ipoYear": 2012,
+    "latitude": 42.5592,
+    "longitude": -70.8281
   },
   {
     "id": 1328655,
@@ -2160,7 +2490,9 @@
       "city": "ANN ARBOR",
       "state": "MI",
       "zip": "48108"
-    }
+    },
+    "latitude": 42.21417,
+    "longitude": -83.74687
   },
   {
     "id": 1404624,
@@ -2171,7 +2503,9 @@
       "city": "STAMFORD",
       "state": "CT",
       "zip": "06905"
-    }
+    },
+    "latitude": 41.112127,
+    "longitude": -73.544094
   },
   {
     "id": 1361394,
@@ -2182,7 +2516,9 @@
       "city": "STAMFORD",
       "state": "CT",
       "zip": "06905"
-    }
+    },
+    "latitude": 41.112127,
+    "longitude": -73.544094
   },
   {
     "id": 1499268,
@@ -2193,7 +2529,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89135"
-    }
+    },
+    "latitude": 36.122195,
+    "longitude": -115.32149
   },
   {
     "id": 1433821,
@@ -2204,7 +2542,9 @@
       "city": "TULLY",
       "state": "NY",
       "zip": "13159"
-    }
+    },
+    "latitude": 42.78816,
+    "longitude": -76.14162
   },
   {
     "id": 1282543,
@@ -2215,7 +2555,9 @@
       "city": "ADDISON",
       "state": "TX",
       "zip": "75001"
-    }
+    },
+    "latitude": 32.983325,
+    "longitude": -96.835382
   },
   {
     "id": 1158223,
@@ -2226,7 +2568,9 @@
       "city": "CUPERTINO",
       "state": "CA",
       "zip": "94014"
-    }
+    },
+    "latitude": 37.322937,
+    "longitude": -122.008357
   },
   {
     "id": 913077,
@@ -2242,7 +2586,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1996,
     "sector": "Capital Goods",
-    "industry": "Biotechnology: Laboratory Analytical Instruments"
+    "industry": "Biotechnology: Laboratory Analytical Instruments",
+    "latitude": 37.374793,
+    "longitude": -121.987861
   },
   {
     "id": 1419556,
@@ -2253,7 +2599,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90212"
-    }
+    },
+    "latitude": 34.0617,
+    "longitude": -118.4027
   },
   {
     "id": 1420033,
@@ -2264,7 +2612,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90212"
-    }
+    },
+    "latitude": 34.0617,
+    "longitude": -118.4027
   },
   {
     "id": 1420034,
@@ -2275,7 +2625,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90212"
-    }
+    },
+    "latitude": 34.0617,
+    "longitude": -118.4027
   },
   {
     "id": 1420035,
@@ -2286,7 +2638,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90212"
-    }
+    },
+    "latitude": 34.06707,
+    "longitude": -118.40264
   },
   {
     "id": 1419560,
@@ -2297,7 +2651,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90212"
-    }
+    },
+    "latitude": 34.0617,
+    "longitude": -118.4027
   },
   {
     "id": 1419554,
@@ -2308,7 +2664,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90212"
-    }
+    },
+    "latitude": 34.0617,
+    "longitude": -118.4027
   },
   {
     "id": 1419553,
@@ -2319,7 +2677,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90212"
-    }
+    },
+    "latitude": 34.0617,
+    "longitude": -118.4027
   },
   {
     "id": 1419552,
@@ -2330,7 +2690,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90212"
-    }
+    },
+    "latitude": 34.0617,
+    "longitude": -118.4027
   },
   {
     "id": 1406980,
@@ -2341,7 +2703,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90212"
-    }
+    },
+    "latitude": 34.06707,
+    "longitude": -118.40264
   },
   {
     "id": 1406979,
@@ -2352,7 +2716,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90212"
-    }
+    },
+    "latitude": 34.06707,
+    "longitude": -118.40264
   },
   {
     "id": 1419073,
@@ -2363,7 +2729,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90212"
-    }
+    },
+    "latitude": 34.06707,
+    "longitude": -118.40264
   },
   {
     "id": 1419069,
@@ -2374,7 +2742,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90212"
-    }
+    },
+    "latitude": 34.06707,
+    "longitude": -118.40264
   },
   {
     "id": 1419067,
@@ -2385,7 +2755,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90212"
-    }
+    },
+    "latitude": 34.06707,
+    "longitude": -118.40264
   },
   {
     "id": 4977,
@@ -2400,7 +2772,9 @@
     "symbol": "AFSD",
     "exchange": "nyse",
     "sector": "Finance",
-    "industry": "Accident &Health Insurance"
+    "industry": "Accident &Health Insurance",
+    "latitude": 32.468477,
+    "longitude": -84.964493
   },
   {
     "id": 1347185,
@@ -2411,7 +2785,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1514281,
@@ -2427,7 +2803,9 @@
     "exchange": "nyse",
     "ipoYear": 2011,
     "sector": "n/a",
-    "industry": "n/a"
+    "industry": "n/a",
+    "latitude": 40.75481,
+    "longitude": -73.97558
   },
   {
     "id": 880266,
@@ -2442,7 +2820,9 @@
     "symbol": "AGCO",
     "exchange": "nyse",
     "sector": "Capital Goods",
-    "industry": "Industrial Machinery/Components"
+    "industry": "Industrial Machinery/Components",
+    "latitude": 34.016156,
+    "longitude": -84.1641
   },
   {
     "id": 1098972,
@@ -2458,7 +2838,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2000,
     "sector": "Health Care",
-    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "latitude": 40.740644,
+    "longitude": -73.990241
   },
   {
     "id": 1090872,
@@ -2474,7 +2856,9 @@
     "exchange": "nyse",
     "ipoYear": 1999,
     "sector": "Capital Goods",
-    "industry": "Electrical Products"
+    "industry": "Electrical Products",
+    "latitude": 37.32307,
+    "longitude": -121.99684
   },
   {
     "id": 78749,
@@ -2489,7 +2873,9 @@
     "symbol": "AGYS",
     "exchange": "nasdaq",
     "sector": "Technology",
-    "industry": "EDP Services"
+    "industry": "EDP Services",
+    "latitude": 34.09473,
+    "longitude": -84.239329
   },
   {
     "id": 1004155,
@@ -2504,7 +2890,9 @@
     "symbol": "GAS",
     "exchange": "nyse",
     "sector": "Public Utilities",
-    "industry": "Oil/Gas Transmission"
+    "industry": "Oil/Gas Transmission",
+    "latitude": 33.780748,
+    "longitude": -84.387065
   },
   {
     "id": 917251,
@@ -2519,7 +2907,9 @@
     "symbol": "ADC",
     "exchange": "nyse",
     "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts"
+    "industry": "Real Estate Investment Trusts",
+    "latitude": 42.5211,
+    "longitude": -83.343319
   },
   {
     "id": 726293,
@@ -2530,7 +2920,9 @@
       "city": "LEHI",
       "state": "UT",
       "zip": "84043"
-    }
+    },
+    "latitude": 40.38553,
+    "longitude": -111.84863
   },
   {
     "id": 1431824,
@@ -2541,7 +2933,9 @@
       "city": "AIKEN",
       "state": "SC",
       "zip": "29801"
-    }
+    },
+    "latitude": 33.547199,
+    "longitude": -81.67341
   },
   {
     "id": 1402536,
@@ -2552,7 +2946,9 @@
       "city": "MONSEY",
       "state": "NY",
       "zip": "10952"
-    }
+    },
+    "latitude": 41.109948,
+    "longitude": -74.064954
   },
   {
     "id": 926660,
@@ -2563,7 +2959,9 @@
       "city": "DENVER",
       "state": "CO",
       "zip": "80237"
-    }
+    },
+    "latitude": 39.63248,
+    "longitude": -104.898921
   },
   {
     "id": 1009891,
@@ -2574,7 +2972,9 @@
       "city": "BAY SHORE",
       "state": "NY",
       "zip": "11706"
-    }
+    },
+    "latitude": 40.74641,
+    "longitude": -73.26637
   },
   {
     "id": 1487712,
@@ -2585,7 +2985,9 @@
       "city": "LOS ANGELES",
       "state": "CA",
       "zip": "90067"
-    }
+    },
+    "latitude": 34.05869,
+    "longitude": -118.415836
   },
   {
     "id": 816159,
@@ -2600,7 +3002,9 @@
     "symbol": "AIRM",
     "exchange": "nasdaq",
     "sector": "Transportation",
-    "industry": "Transportation Services"
+    "industry": "Transportation Services",
+    "latitude": 39.58456,
+    "longitude": -104.846864
   },
   {
     "id": 2969,
@@ -2615,7 +3019,9 @@
     "symbol": "APD",
     "exchange": "nyse",
     "sector": "Basic Industries",
-    "industry": "Major Chemicals"
+    "industry": "Major Chemicals",
+    "latitude": 40.550696,
+    "longitude": -75.597385
   },
   {
     "id": 353184,
@@ -2630,7 +3036,9 @@
     "symbol": "AIRT",
     "exchange": "nasdaq",
     "sector": "Transportation",
-    "industry": "Air Freight/Delivery Services"
+    "industry": "Air Freight/Delivery Services",
+    "latitude": 35.59329,
+    "longitude": -81.08403
   },
   {
     "id": 894081,
@@ -2645,7 +3053,9 @@
     "symbol": "ATSG",
     "exchange": "nasdaq",
     "sector": "Transportation",
-    "industry": "Air Freight/Delivery Services"
+    "industry": "Air Freight/Delivery Services",
+    "latitude": 39.431622,
+    "longitude": -83.788167
   },
   {
     "id": 1362988,
@@ -2661,7 +3071,9 @@
     "exchange": "nyse",
     "ipoYear": 2006,
     "sector": "Technology",
-    "industry": "Diversified Commercial Services"
+    "industry": "Diversified Commercial Services",
+    "latitude": 41.0545,
+    "longitude": -73.5396
   },
   {
     "id": 804212,
@@ -2676,7 +3088,9 @@
     "symbol": "ARG",
     "exchange": "nyse",
     "sector": "Capital Goods",
-    "industry": "Industrial Machinery/Components"
+    "industry": "Industrial Machinery/Components",
+    "latitude": 40.042442,
+    "longitude": -75.360059
   },
   {
     "id": 1500123,
@@ -2687,7 +3101,9 @@
       "city": "SCOTTSDALE",
       "state": "AZ",
       "zip": "85251"
-    }
+    },
+    "latitude": 33.49483,
+    "longitude": -111.90085
   },
   {
     "id": 1023453,
@@ -2698,7 +3114,9 @@
       "city": "WILTON",
       "state": "CT",
       "zip": "06883"
-    }
+    },
+    "latitude": 41.18477,
+    "longitude": -73.420159
   },
   {
     "id": 918160,
@@ -2713,7 +3131,9 @@
     "symbol": "AKS",
     "exchange": "nyse",
     "sector": "Basic Industries",
-    "industry": "Steel/Iron Ore"
+    "industry": "Steel/Iron Ore",
+    "latitude": 39.327182,
+    "longitude": -84.434307
   },
   {
     "id": 1086222,
@@ -2729,7 +3149,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1999,
     "sector": "Miscellaneous",
-    "industry": "Business Services"
+    "industry": "Business Services",
+    "latitude": 42.367326,
+    "longitude": -71.074013
   },
   {
     "id": 3116,
@@ -2744,7 +3166,9 @@
     "symbol": "AKRX",
     "exchange": "nasdaq",
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 42.242251,
+    "longitude": -87.891177
   },
   {
     "id": 3146,
@@ -2755,7 +3179,9 @@
       "city": "BIRMINGHAM",
       "state": "AL",
       "zip": "35203"
-    }
+    },
+    "latitude": 33.519954,
+    "longitude": -86.80757
   },
   {
     "id": 3153,
@@ -2766,7 +3192,9 @@
       "city": "BIRMINGHAM",
       "state": "AL",
       "zip": "35291"
-    }
+    },
+    "latitude": 33.517873,
+    "longitude": -86.811789
   },
   {
     "id": 897077,
@@ -2781,7 +3209,9 @@
     "symbol": "ALG",
     "exchange": "nyse",
     "sector": "Capital Goods",
-    "industry": "Industrial Machinery/Components"
+    "industry": "Industrial Machinery/Components",
+    "latitude": 29.572353,
+    "longitude": -97.941961
   },
   {
     "id": 98618,
@@ -2792,7 +3222,9 @@
       "city": "SCOTTSDALE",
       "state": "AZ",
       "zip": "85260"
-    }
+    },
+    "latitude": 33.61772,
+    "longitude": -111.90905
   },
   {
     "id": 1449097,
@@ -2803,7 +3235,9 @@
       "city": "CARSON CITY",
       "state": "NV",
       "zip": "89703"
-    }
+    },
+    "latitude": 39.163971,
+    "longitude": -119.767818
   },
   {
     "id": 774937,
@@ -2814,7 +3248,9 @@
       "city": "SNELLVILLE",
       "state": "GA",
       "zip": "30039"
-    }
+    },
+    "latitude": 33.837742,
+    "longitude": -84.069095
   },
   {
     "id": 766421,
@@ -2829,7 +3265,9 @@
     "symbol": "ALK",
     "exchange": "nyse",
     "sector": "Transportation",
-    "industry": "Air Freight/Delivery Services"
+    "industry": "Air Freight/Delivery Services",
+    "latitude": 47.429106,
+    "longitude": -122.295456
   },
   {
     "id": 1089511,
@@ -2845,7 +3283,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1999,
     "sector": "Public Utilities",
-    "industry": "Telecommunications Equipment"
+    "industry": "Telecommunications Equipment",
+    "latitude": 61.18675,
+    "longitude": -149.87346
   },
   {
     "id": 1081860,
@@ -2856,7 +3296,9 @@
       "city": "JUNEAU",
       "state": "AK",
       "zip": "99801-8046"
-    }
+    },
+    "latitude": 58.362997,
+    "longitude": -134.579636
   },
   {
     "id": 819793,
@@ -2867,7 +3309,9 @@
       "city": "ALBANY",
       "state": "NY",
       "zip": "12204"
-    }
+    },
+    "latitude": 42.676608,
+    "longitude": -73.735304
   },
   {
     "id": 1065087,
@@ -2883,7 +3327,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1999,
     "sector": "Health Care",
-    "industry": "Biotechnology: Commercial Physical & Biological Resarch"
+    "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+    "latitude": 42.70418,
+    "longitude": -73.87475
   },
   {
     "id": 915913,
@@ -2898,7 +3344,9 @@
     "symbol": "ALB",
     "exchange": "nyse",
     "sector": "Basic Industries",
-    "industry": "Major Chemicals"
+    "industry": "Major Chemicals",
+    "latitude": 30.44942,
+    "longitude": -91.18643
   },
   {
     "id": 30302,
@@ -2913,7 +3361,9 @@
     "symbol": "ALCS",
     "exchange": "nasdaq",
     "sector": "Consumer Services",
-    "industry": "Department/Specialty Retail Stores"
+    "industry": "Department/Specialty Retail Stores",
+    "latitude": 38.91653,
+    "longitude": -97.20742
   },
   {
     "id": 734543,
@@ -2924,7 +3374,9 @@
       "city": "WANCHAI",
       "state": "K3",
       "zip": "00000"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 4281,
@@ -2939,7 +3391,9 @@
     "symbol": "AA",
     "exchange": "nyse",
     "sector": "Capital Goods",
-    "industry": "Metal Fabrications"
+    "industry": "Metal Fabrications",
+    "latitude": 40.44796,
+    "longitude": -80.001979
   },
   {
     "id": 1145460,
@@ -2954,7 +3408,9 @@
     "symbol": "ALR",
     "exchange": "nyse",
     "sector": "Health Care",
-    "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+    "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+    "latitude": 42.36184,
+    "longitude": -71.25876
   },
   {
     "id": 1518587,
@@ -2965,7 +3421,9 @@
       "city": "BEACHWOOD",
       "state": "OH",
       "zip": "44122"
-    }
+    },
+    "latitude": 41.47056,
+    "longitude": -81.49399
   },
   {
     "id": 1545654,
@@ -2980,7 +3438,9 @@
     "symbol": "ALEX",
     "exchange": "nyse",
     "sector": "Finance",
-    "industry": "Real Estate"
+    "industry": "Real Estate",
+    "latitude": 21.307699,
+    "longitude": -157.862615
   },
   {
     "id": 3499,
@@ -2995,7 +3455,9 @@
     "symbol": "ALX",
     "exchange": "nyse",
     "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts"
+    "industry": "Real Estate Investment Trusts",
+    "latitude": 40.9104,
+    "longitude": -74.0384
   },
   {
     "id": 1035443,
@@ -3010,7 +3472,9 @@
     "symbol": "ARE",
     "exchange": "nyse",
     "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts"
+    "industry": "Real Estate Investment Trusts",
+    "latitude": 34.14586,
+    "longitude": -118.14239
   },
   {
     "id": 899866,
@@ -3026,7 +3490,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1996,
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 41.550365,
+    "longitude": -72.919346
   },
   {
     "id": 1344413,
@@ -3042,7 +3508,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2006,
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 37.423361,
+    "longitude": -122.077454
   },
   {
     "id": 3545,
@@ -3057,7 +3525,9 @@
     "symbol": "ALCO",
     "exchange": "nasdaq",
     "sector": "Consumer Non-Durables",
-    "industry": "Farming/Seeds/Milling"
+    "industry": "Farming/Seeds/Milling",
+    "latitude": 26.545578,
+    "longitude": -81.792826
   },
   {
     "id": 1097149,
@@ -3073,7 +3543,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2001,
     "sector": "Health Care",
-    "industry": "Industrial Specialties"
+    "industry": "Industrial Specialties",
+    "latitude": 37.382142,
+    "longitude": -121.931309
   },
   {
     "id": 1267602,
@@ -3089,7 +3561,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2010,
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 34.09342,
+    "longitude": -84.24244
   },
   {
     "id": 1166568,
@@ -3100,7 +3574,9 @@
       "city": "MCLEAN",
       "state": "VA",
       "zip": "22102"
-    }
+    },
+    "latitude": 38.924037,
+    "longitude": -77.222203
   },
   {
     "id": 1520262,
@@ -3111,7 +3587,9 @@
       "city": "DUBLIN 2",
       "state": "L2",
       "zip": "00000"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1409430,
@@ -3122,7 +3600,9 @@
       "city": "INDIANAPOLIS",
       "state": "IN",
       "zip": "46214"
-    }
+    },
+    "latitude": 39.775674,
+    "longitude": -86.270945
   },
   {
     "id": 1362502,
@@ -3133,7 +3613,9 @@
       "city": "LOS ANGELES",
       "state": "CA",
       "zip": "90024"
-    }
+    },
+    "latitude": 34.06064,
+    "longitude": -118.44428
   },
   {
     "id": 930245,
@@ -3144,7 +3626,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.066715,
+    "longitude": -115.172508
   },
   {
     "id": 823544,
@@ -3155,7 +3639,9 @@
       "city": "HACKENSACK",
       "state": "NJ",
       "zip": "07601"
-    }
+    },
+    "latitude": 40.875527,
+    "longitude": -74.066169
   },
   {
     "id": 889156,
@@ -3166,7 +3652,9 @@
       "city": "ARLINGTON",
       "state": "VA",
       "zip": "22209"
-    }
+    },
+    "latitude": 38.8944,
+    "longitude": -77.06899
   },
   {
     "id": 1389217,
@@ -3177,7 +3665,9 @@
       "city": "IRVINE",
       "state": "CA",
       "zip": "92618"
-    }
+    },
+    "latitude": 33.666927,
+    "longitude": -117.750204
   },
   {
     "id": 775368,
@@ -3192,7 +3682,9 @@
     "symbol": "Y",
     "exchange": "nyse",
     "sector": "Finance",
-    "industry": "Property-Casualty Insurers"
+    "industry": "Property-Casualty Insurers",
+    "latitude": 40.755792,
+    "longitude": -73.986403
   },
   {
     "id": 1018963,
@@ -3207,7 +3699,9 @@
     "symbol": "ATI",
     "exchange": "nyse",
     "sector": "Basic Industries",
-    "industry": "Steel/Iron Ore"
+    "industry": "Steel/Iron Ore",
+    "latitude": 40.445,
+    "longitude": -79.9975
   },
   {
     "id": 1362468,
@@ -3223,7 +3717,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2006,
     "sector": "Transportation",
-    "industry": "Air Freight/Delivery Services"
+    "industry": "Air Freight/Delivery Services",
+    "latitude": 36.036053,
+    "longitude": -115.278913
   },
   {
     "id": 1456993,
@@ -3234,7 +3730,9 @@
       "city": "NOTTINGHAMSHIRE",
       "state": "X0",
       "zip": "NG243BP"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 850693,
@@ -3249,7 +3747,9 @@
     "symbol": "AGN",
     "exchange": "nyse",
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 33.6716,
+    "longitude": -117.85513
   },
   {
     "id": 66756,
@@ -3264,7 +3764,9 @@
     "symbol": "ALE",
     "exchange": "nyse",
     "sector": "Public Utilities",
-    "industry": "Power Generation"
+    "industry": "Power Generation",
+    "latitude": 46.786662,
+    "longitude": -92.098517
   },
   {
     "id": 1500711,
@@ -3279,7 +3781,9 @@
     "symbol": "ALLB",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Savings Institutions"
+    "industry": "Savings Institutions",
+    "latitude": 39.96341,
+    "longitude": -75.35556
   },
   {
     "id": 1101215,
@@ -3295,7 +3799,9 @@
     "exchange": "nyse",
     "ipoYear": 2001,
     "sector": "Miscellaneous",
-    "industry": "Business Services"
+    "industry": "Business Services",
+    "latitude": 33.081235,
+    "longitude": -96.824064
   },
   {
     "id": 1122342,
@@ -3311,7 +3817,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2000,
     "sector": "Technology",
-    "industry": "Semiconductors"
+    "industry": "Semiconductors",
+    "latitude": 37.40955,
+    "longitude": -122.01536
   },
   {
     "id": 796317,
@@ -3322,7 +3830,9 @@
       "city": "SYRACUSE",
       "state": "NY",
       "zip": "13202"
-    }
+    },
+    "latitude": 43.045497,
+    "longitude": -76.150415
   },
   {
     "id": 817135,
@@ -3338,7 +3848,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2001,
     "sector": "Health Care",
-    "industry": "Medical Specialities"
+    "industry": "Medical Specialities",
+    "latitude": 33.65527,
+    "longitude": -117.86823
   },
   {
     "id": 1344980,
@@ -3354,7 +3866,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2006,
     "sector": "Energy",
-    "industry": "Coal Mining"
+    "industry": "Coal Mining",
+    "latitude": 36.1504,
+    "longitude": -95.9953
   },
   {
     "id": 1549145,
@@ -3365,7 +3879,9 @@
       "city": "WEST PALM BEACH",
       "state": "FL",
       "zip": "33401"
-    }
+    },
+    "latitude": 26.7163,
+    "longitude": -80.0814
   },
   {
     "id": 939930,
@@ -3380,7 +3896,9 @@
     "symbol": "AOI",
     "exchange": "nyse",
     "sector": "Consumer Services",
-    "industry": "Farming/Seeds/Milling"
+    "industry": "Farming/Seeds/Milling",
+    "latitude": 35.854831,
+    "longitude": -78.816446
   },
   {
     "id": 1086600,
@@ -3396,7 +3914,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1999,
     "sector": "Energy",
-    "industry": "Coal Mining"
+    "industry": "Coal Mining",
+    "latitude": 36.13694,
+    "longitude": -95.98849
   },
   {
     "id": 825313,
@@ -3411,7 +3931,9 @@
     "symbol": "AB",
     "exchange": "nyse",
     "sector": "Finance",
-    "industry": "Investment Managers"
+    "industry": "Investment Managers",
+    "latitude": 40.76269,
+    "longitude": -73.978389
   },
   {
     "id": 1109448,
@@ -3422,7 +3944,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10105"
-    }
+    },
+    "latitude": 40.76269,
+    "longitude": -73.978389
   },
   {
     "id": 352541,
@@ -3437,7 +3961,9 @@
     "symbol": "LNT",
     "exchange": "nyse",
     "sector": "Public Utilities",
-    "industry": "Power Generation"
+    "industry": "Power Generation",
+    "latitude": 43.150703,
+    "longitude": -89.293388
   },
   {
     "id": 866121,
@@ -3452,7 +3978,9 @@
     "symbol": "ATK",
     "exchange": "nyse",
     "sector": "Capital Goods",
-    "industry": "Military/Government/Technical"
+    "industry": "Military/Government/Technical",
+    "latitude": 44.870578,
+    "longitude": -93.413858
   },
   {
     "id": 1404212,
@@ -3463,7 +3991,9 @@
       "city": "PITTSBURGH,",
       "state": "PA",
       "zip": "15219"
-    }
+    },
+    "latitude": 40.44144,
+    "longitude": -79.99541
   },
   {
     "id": 3952,
@@ -3474,7 +4004,9 @@
       "city": "VIENNA",
       "state": "VA",
       "zip": "22182"
-    }
+    },
+    "latitude": 38.91416,
+    "longitude": -77.22033
   },
   {
     "id": 874710,
@@ -3490,7 +4022,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1992,
     "sector": "Health Care",
-    "industry": "Industrial Specialties"
+    "industry": "Industrial Specialties",
+    "latitude": 38.62052,
+    "longitude": -90.28069
   },
   {
     "id": 46129,
@@ -3505,7 +4039,9 @@
     "symbol": "AMOT",
     "exchange": "nasdaq",
     "sector": "Capital Goods",
-    "industry": "Electrical Products"
+    "industry": "Electrical Products",
+    "latitude": 43.02713,
+    "longitude": -78.80585
   },
   {
     "id": 1376610,
@@ -3520,7 +4056,9 @@
     "symbol": "ANV",
     "exchange": "amex",
     "sector": "Basic Industries",
-    "industry": "Precious Metals"
+    "industry": "Precious Metals",
+    "latitude": 39.44067,
+    "longitude": -119.76186
   },
   {
     "id": 1211524,
@@ -3531,7 +4069,9 @@
       "city": "SALT LAKE CITY",
       "state": "UT",
       "zip": "84105"
-    }
+    },
+    "latitude": 40.74971,
+    "longitude": -111.850676
   },
   {
     "id": 1163348,
@@ -3547,7 +4087,9 @@
     "exchange": "nyse",
     "ipoYear": 2006,
     "sector": "Finance",
-    "industry": "Property-Casualty Insurers"
+    "industry": "Property-Casualty Insurers",
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1054274,
@@ -3558,7 +4100,9 @@
       "city": "LANGHORNE",
       "state": "PA",
       "zip": "19047"
-    }
+    },
+    "latitude": 40.191558,
+    "longitude": -74.872431
   },
   {
     "id": 1411207,
@@ -3574,7 +4118,9 @@
     "exchange": "nyse",
     "ipoYear": 2012,
     "sector": "Capital Goods",
-    "industry": "Auto Parts:O.E.M."
+    "industry": "Auto Parts:O.E.M.",
+    "latitude": 39.780178,
+    "longitude": -86.237623
   },
   {
     "id": 1124804,
@@ -3589,7 +4135,9 @@
     "symbol": "MDRX",
     "exchange": "nasdaq",
     "sector": "Technology",
-    "industry": "EDP Services"
+    "industry": "EDP Services",
+    "latitude": 41.887987,
+    "longitude": -87.634495
   },
   {
     "id": 899051,
@@ -3604,7 +4152,9 @@
     "symbol": "ALL",
     "exchange": "nyse",
     "sector": "Finance",
-    "industry": "Property-Casualty Insurers"
+    "industry": "Property-Casualty Insurers",
+    "latitude": 42.103193,
+    "longitude": -87.875537
   },
   {
     "id": 352736,
@@ -3615,7 +4165,9 @@
       "city": "NORTHBROOK",
       "state": "IL",
       "zip": "60062"
-    }
+    },
+    "latitude": 42.09749,
+    "longitude": -87.874589
   },
   {
     "id": 1477336,
@@ -3626,7 +4178,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1487211,
@@ -3637,7 +4191,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1494387,
@@ -3648,7 +4204,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1498624,
@@ -3659,7 +4217,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1504773,
@@ -3670,7 +4230,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1507149,
@@ -3681,7 +4243,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1511861,
@@ -3692,7 +4256,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1518904,
@@ -3703,7 +4269,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1522559,
@@ -3714,7 +4282,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1529359,
@@ -3725,7 +4295,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1534318,
@@ -3736,7 +4308,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1538940,
@@ -3747,7 +4321,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1543687,
@@ -3758,7 +4334,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1550460,
@@ -3769,7 +4347,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1555611,
@@ -3780,7 +4360,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1560194,
@@ -3791,7 +4373,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.747925,
+    "longitude": -75.547813
   },
   {
     "id": 1557473,
@@ -3802,7 +4386,9 @@
       "city": "DETROIT",
       "state": "MI",
       "zip": "48265"
-    }
+    },
+    "latitude": 42.32998,
+    "longitude": -83.040519
   },
   {
     "id": 40729,
@@ -3817,7 +4403,9 @@
     "symbol": "GOM",
     "exchange": "nyse",
     "sector": "Finance",
-    "industry": "Finance: Consumer Services"
+    "industry": "Finance: Consumer Services",
+    "latitude": 42.3301,
+    "longitude": -83.0407
   },
   {
     "id": 1499357,
@@ -3828,7 +4416,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.7354,
+    "longitude": -75.5467
   },
   {
     "id": 1492632,
@@ -3839,7 +4429,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801"
-    }
+    },
+    "latitude": 39.7354,
+    "longitude": -75.5467
   },
   {
     "id": 799231,
@@ -3854,7 +4446,9 @@
     "symbol": "AFAM",
     "exchange": "nasdaq",
     "sector": "Health Care",
-    "industry": "Medical/Nursing Services"
+    "industry": "Medical/Nursing Services",
+    "latitude": 38.26323,
+    "longitude": -85.57495
   },
   {
     "id": 1178670,
@@ -3870,7 +4464,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2004,
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 42.36539,
+    "longitude": -71.08258
   },
   {
     "id": 1479142,
@@ -3881,7 +4477,9 @@
       "city": "DALLAS",
       "state": "TX",
       "zip": "75251"
-    }
+    },
+    "latitude": 32.923664,
+    "longitude": -96.7759
   },
   {
     "id": 1325955,
@@ -3897,7 +4495,9 @@
     "exchange": "nyse",
     "ipoYear": 2005,
     "sector": "Energy",
-    "industry": "Integrated oil Companies"
+    "industry": "Integrated oil Companies",
+    "latitude": 32.920121,
+    "longitude": -96.776951
   },
   {
     "id": 1556766,
@@ -3913,7 +4513,9 @@
     "exchange": "nyse",
     "ipoYear": 2012,
     "sector": "Energy",
-    "industry": "Integrated oil Companies"
+    "industry": "Integrated oil Companies",
+    "latitude": 32.920121,
+    "longitude": -96.776951
   },
   {
     "id": 814046,
@@ -3924,7 +4526,9 @@
       "city": "CHICAGO",
       "state": "IL",
       "zip": "60611"
-    }
+    },
+    "latitude": 41.8933,
+    "longitude": -87.6187
   },
   {
     "id": 1387467,
@@ -3940,7 +4544,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2010,
     "sector": "Technology",
-    "industry": "Semiconductors"
+    "industry": "Semiconductors",
+    "latitude": 37.38402,
+    "longitude": -121.98836
   },
   {
     "id": 1301063,
@@ -3956,7 +4562,9 @@
     "exchange": "nyse",
     "ipoYear": 2005,
     "sector": "Energy",
-    "industry": "Coal Mining"
+    "industry": "Coal Mining",
+    "latitude": 36.5963,
+    "longitude": -82.1886
   },
   {
     "id": 1491829,
@@ -3967,7 +4575,9 @@
       "city": "RIVERSIDE",
       "state": "CA",
       "zip": "92505"
-    }
+    },
+    "latitude": 33.90098,
+    "longitude": -117.49301
   },
   {
     "id": 884269,
@@ -3982,7 +4592,9 @@
     "symbol": "APT",
     "exchange": "amex",
     "sector": "Health Care",
-    "industry": "Industrial Specialties"
+    "industry": "Industrial Specialties",
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1566978,
@@ -3993,7 +4605,9 @@
       "city": "RONKONKOMA",
       "state": "NY",
       "zip": "11779"
-    }
+    },
+    "latitude": 40.796362,
+    "longitude": -73.110759
   },
   {
     "id": 1473675,
@@ -4004,7 +4618,9 @@
       "city": "CHICAGO",
       "state": "IL",
       "zip": "60602"
-    }
+    },
+    "latitude": 41.883,
+    "longitude": -87.6277
   },
   {
     "id": 1373179,
@@ -4015,7 +4631,9 @@
       "city": "CHICAGO",
       "state": "IL",
       "zip": "60602"
-    }
+    },
+    "latitude": 41.883,
+    "longitude": -87.6277
   },
   {
     "id": 1473654,
@@ -4026,7 +4644,9 @@
       "city": "BRADENTON",
       "state": "FL",
       "zip": "34203"
-    }
+    },
+    "latitude": 27.44855,
+    "longitude": -82.51144
   },
   {
     "id": 1114936,
@@ -4037,7 +4657,9 @@
       "city": "CAUSEWAY BAY",
       "state": "K3",
       "zip": "31F"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1350653,
@@ -4053,7 +4675,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2006,
     "sector": "Health Care",
-    "industry": "Medical/Dental Instruments"
+    "industry": "Medical/Dental Instruments",
+    "latitude": 33.13565,
+    "longitude": -117.27227
   },
   {
     "id": 1087022,
@@ -4064,7 +4688,9 @@
       "city": "RICHMOND",
       "state": "VA",
       "zip": "23225"
-    }
+    },
+    "latitude": 37.50704,
+    "longitude": -77.52865
   },
   {
     "id": 94784,
@@ -4075,7 +4701,9 @@
       "city": "HOPKINTON",
       "state": "MA",
       "zip": "01748"
-    }
+    },
+    "latitude": 42.18985,
+    "longitude": -71.53925
   },
   {
     "id": 1527705,
@@ -4086,7 +4714,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19808"
-    }
+    },
+    "latitude": 39.75413,
+    "longitude": -75.62478
   },
   {
     "id": 1518403,
@@ -4097,7 +4727,9 @@
       "city": "HOUSTON",
       "state": "TX",
       "zip": "77094"
-    }
+    },
+    "latitude": 29.784339,
+    "longitude": -95.648894
   },
   {
     "id": 1016546,
@@ -4112,7 +4744,9 @@
     "symbol": "ALTI",
     "exchange": "nasdaq",
     "sector": "Basic Industries",
-    "industry": "Major Chemicals"
+    "industry": "Major Chemicals",
+    "latitude": 39.513791,
+    "longitude": -119.752027
   },
   {
     "id": 1469317,
@@ -4123,7 +4757,9 @@
       "city": "LA JOLLA",
       "state": "CA",
       "zip": "92037"
-    }
+    },
+    "latitude": 32.84895,
+    "longitude": -117.27241
   },
   {
     "id": 1198415,
@@ -4134,7 +4770,9 @@
       "city": "LA JOLLA",
       "state": "CA",
       "zip": "92037"
-    }
+    },
+    "latitude": 32.84895,
+    "longitude": -117.27241
   },
   {
     "id": 768251,
@@ -4150,7 +4788,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1988,
     "sector": "Technology",
-    "industry": "Semiconductors"
+    "industry": "Semiconductors",
+    "latitude": 37.40017,
+    "longitude": -121.935383
   },
   {
     "id": 1504239,
@@ -4161,7 +4801,9 @@
       "city": "NEWTOWN",
       "state": "PA",
       "zip": "18940"
-    }
+    },
+    "latitude": 40.231759,
+    "longitude": -74.936381
   },
   {
     "id": 1446896,
@@ -4172,7 +4814,9 @@
       "city": "BOCA RATON",
       "state": "FL",
       "zip": "33431"
-    }
+    },
+    "latitude": 26.394717,
+    "longitude": -80.078686
   },
   {
     "id": 1530746,
@@ -4183,7 +4827,9 @@
       "city": "HOLLYWOOD",
       "state": "FL",
       "zip": "33020"
-    }
+    },
+    "latitude": 26.011366,
+    "longitude": -80.149835
   },
   {
     "id": 1126003,
@@ -4194,7 +4840,9 @@
       "city": "MIAMI",
       "state": "FL",
       "zip": "33125"
-    }
+    },
+    "latitude": 25.77288,
+    "longitude": -80.231399
   },
   {
     "id": 1141719,
@@ -4205,7 +4853,9 @@
       "city": "HAMILTON HM11",
       "state": "D0",
       "zip": "HM 11"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 775057,
@@ -4216,7 +4866,9 @@
       "city": "DENVER",
       "state": "CO",
       "zip": "80202-5180"
-    }
+    },
+    "latitude": 39.74168,
+    "longitude": -104.987369
   },
   {
     "id": 1555074,
@@ -4231,7 +4883,9 @@
     "symbol": "AAMC",
     "exchange": "amex",
     "sector": "Finance",
-    "industry": "Real Estate"
+    "industry": "Real Estate",
+    "latitude": 17.7135,
+    "longitude": -64.8827
   },
   {
     "id": 1462418,
@@ -4246,7 +4900,9 @@
     "symbol": "ASPS",
     "exchange": "nasdaq",
     "sector": "Consumer Services",
-    "industry": "Other Consumer Services"
+    "industry": "Other Consumer Services",
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1555039,
@@ -4261,7 +4917,9 @@
     "symbol": "RESI",
     "exchange": "nyse",
     "sector": "Finance",
-    "industry": "Real Estate"
+    "industry": "Real Estate",
+    "latitude": 17.7135,
+    "longitude": -64.8827
   },
   {
     "id": 1550929,
@@ -4272,7 +4930,9 @@
       "city": "VANCOUVER",
       "state": "A1",
       "zip": "V6J 3J8"
-    }
+    },
+    "latitude": 49.26116,
+    "longitude": -123.145837
   },
   {
     "id": 1374535,
@@ -4288,7 +4948,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2006,
     "sector": "Capital Goods",
-    "industry": "Industrial Machinery/Components"
+    "industry": "Industrial Machinery/Components",
+    "latitude": 42.2185,
+    "longitude": -71.025569
   },
   {
     "id": 764180,
@@ -4303,7 +4965,9 @@
     "symbol": "MO",
     "exchange": "nyse",
     "sector": "Consumer Non-Durables",
-    "industry": "Farming/Seeds/Milling"
+    "industry": "Farming/Seeds/Milling",
+    "latitude": 37.60176,
+    "longitude": -77.5149
   },
   {
     "id": 1108046,
@@ -4314,7 +4978,9 @@
       "city": "CENTENNIAL",
       "state": "CO",
       "zip": "80111"
-    }
+    },
+    "latitude": 39.5987,
+    "longitude": -104.90377
   },
   {
     "id": 792977,
@@ -4329,7 +4995,9 @@
     "symbol": "AMAG",
     "exchange": "nasdaq",
     "sector": "Health Care",
-    "industry": "Major Pharmaceuticals"
+    "industry": "Major Pharmaceuticals",
+    "latitude": 42.408314,
+    "longitude": -71.276129
   },
   {
     "id": 1326679,
@@ -4340,7 +5008,9 @@
       "city": "DANIA BEACH",
       "state": "FL",
       "zip": "33004"
-    }
+    },
+    "latitude": 26.049645,
+    "longitude": -80.15183
   },
   {
     "id": 1142801,
@@ -4351,7 +5021,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10022"
-    }
+    },
+    "latitude": 40.761305,
+    "longitude": -73.970026
   },
   {
     "id": 1168663,
@@ -4362,7 +5034,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10022"
-    }
+    },
+    "latitude": 40.7588,
+    "longitude": -73.9665
   },
   {
     "id": 1424812,
@@ -4373,7 +5047,9 @@
       "city": "SAN FRANCISCO",
       "state": "CA",
       "zip": "94107"
-    }
+    },
+    "latitude": 37.7688,
+    "longitude": -122.3951
   },
   {
     "id": 1014763,
@@ -4384,7 +5060,9 @@
       "city": "AMARILLO",
       "state": "TX",
       "zip": "79110-4225"
-    }
+    },
+    "latitude": 35.1428,
+    "longitude": -101.8828
   },
   {
     "id": 897448,
@@ -4395,7 +5073,9 @@
       "city": "DUBLIN",
       "state": "L2",
       "zip": "00000"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1453122,
@@ -4406,7 +5086,9 @@
       "city": "FERNDALE",
       "state": "WA",
       "zip": "98248"
-    }
+    },
+    "latitude": 48.893492,
+    "longitude": -122.609073
   },
   {
     "id": 1139822,
@@ -4417,7 +5099,9 @@
       "city": "SINGAPORE",
       "state": "U0",
       "zip": "049710"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1018724,
@@ -4433,7 +5117,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1997,
     "sector": "Consumer Services",
-    "industry": "Catalog/Specialty Distribution"
+    "industry": "Catalog/Specialty Distribution",
+    "latitude": 47.6222,
+    "longitude": -122.33714
   },
   {
     "id": 1518548,
@@ -4444,7 +5130,9 @@
       "city": "OSASCO, SP",
       "state": "D5",
       "zip": "06268"
-    }
+    },
+    "latitude": 41.8033,
+    "longitude": -72.2578
   },
   {
     "id": 874501,
@@ -4459,7 +5147,9 @@
     "symbol": "AMBCW",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Property-Casualty Insurers"
+    "industry": "Property-Casualty Insurers",
+    "latitude": 40.70242,
+    "longitude": -74.012839
   },
   {
     "id": 1280263,
@@ -4475,7 +5165,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2012,
     "sector": "Technology",
-    "industry": "Semiconductors"
+    "industry": "Semiconductors",
+    "latitude": 37.375231,
+    "longitude": -121.997698
   },
   {
     "id": 20639,
@@ -4486,7 +5178,9 @@
       "city": "GREENWICH",
       "state": "CT",
       "zip": "06830"
-    }
+    },
+    "latitude": 41.012798,
+    "longitude": -73.649577
   },
   {
     "id": 1162315,
@@ -4501,7 +5195,9 @@
     "symbol": "EPAX",
     "exchange": "nasdaq",
     "sector": "Consumer Services",
-    "industry": "Other Consumer Services"
+    "industry": "Other Consumer Services",
+    "latitude": 47.636264,
+    "longitude": -117.539711
   },
   {
     "id": 1444310,
@@ -4512,7 +5208,9 @@
       "city": "MILPITAS",
       "state": "CA",
       "zip": "95035"
-    }
+    },
+    "latitude": 37.413851,
+    "longitude": -121.913227
   },
   {
     "id": 1047919,
@@ -4527,7 +5225,9 @@
     "symbol": "AMBT",
     "exchange": "nasdaq",
     "sector": "Public Utilities",
-    "industry": "Telecommunications Equipment"
+    "industry": "Telecommunications Equipment",
+    "latitude": 42.294527,
+    "longitude": -71.201753
   },
   {
     "id": 1514991,
@@ -4542,7 +5242,9 @@
     "symbol": "AMCX",
     "exchange": "nasdaq",
     "sector": "Consumer Services",
-    "industry": "Television Services"
+    "industry": "Television Services",
+    "latitude": 40.74909,
+    "longitude": -73.992009
   },
   {
     "id": 813621,
@@ -4557,7 +5259,9 @@
     "symbol": "ACO",
     "exchange": "nyse",
     "sector": "Basic Industries",
-    "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)"
+    "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+    "latitude": 42.071827,
+    "longitude": -88.198462
   },
   {
     "id": 928465,
@@ -4572,7 +5276,9 @@
     "symbol": "DIT",
     "exchange": "amex",
     "sector": "Consumer Non-Durables",
-    "industry": "Food Distributors"
+    "industry": "Food Distributors",
+    "latitude": 41.3248,
+    "longitude": -96.058939
   },
   {
     "id": 896262,
@@ -4587,7 +5293,9 @@
     "symbol": "AMED",
     "exchange": "nasdaq",
     "sector": "Health Care",
-    "industry": "Medical/Nursing Services"
+    "industry": "Medical/Nursing Services",
+    "latitude": 30.40235,
+    "longitude": -91.05235
   },
   {
     "id": 1133266,
@@ -4598,7 +5306,9 @@
       "city": "ZEPHYR COVER",
       "state": "NV",
       "zip": "89448"
-    }
+    },
+    "latitude": 39.025627,
+    "longitude": -119.948238
   },
   {
     "id": 4457,
@@ -4613,7 +5323,9 @@
     "symbol": "UHAL",
     "exchange": "nasdaq",
     "sector": "Consumer Services",
-    "industry": "Rental/Leasing Companies"
+    "industry": "Rental/Leasing Companies",
+    "latitude": 39.5113,
+    "longitude": -119.77865
   },
   {
     "id": 1413862,
@@ -4624,7 +5336,9 @@
       "city": "SANTA MONICA,",
       "state": "CA",
       "zip": "90401"
-    }
+    },
+    "latitude": 34.015092,
+    "longitude": -118.496816
   },
   {
     "id": 1002910,
@@ -4639,7 +5353,9 @@
     "symbol": "AEE",
     "exchange": "nyse",
     "sector": "Public Utilities",
-    "industry": "Power Generation"
+    "industry": "Power Generation",
+    "latitude": 38.62067,
+    "longitude": -90.211091
   },
   {
     "id": 1135361,
@@ -4650,7 +5366,9 @@
       "city": "COLLINSVILLE",
       "state": "IL",
       "zip": "62234"
-    }
+    },
+    "latitude": 38.686641,
+    "longitude": -90.026416
   },
   {
     "id": 18654,
@@ -4661,7 +5379,9 @@
       "city": "COLLINSVILLE",
       "state": "IL",
       "zip": "62234"
-    }
+    },
+    "latitude": 38.67791,
+    "longitude": -90.0182
   },
   {
     "id": 1488139,
@@ -4677,7 +5397,9 @@
     "exchange": "nyse",
     "ipoYear": 2010,
     "sector": "Basic Industries",
-    "industry": "Engineering & Construction"
+    "industry": "Engineering & Construction",
+    "latitude": 42.31032,
+    "longitude": -71.38471
   },
   {
     "id": 1534155,
@@ -4688,7 +5410,9 @@
       "city": "YORK",
       "state": "PA",
       "zip": "17402"
-    }
+    },
+    "latitude": 39.976861,
+    "longitude": -76.666891
   },
   {
     "id": 855574,
@@ -4703,7 +5427,9 @@
     "symbol": "ASBI",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Savings Institutions"
+    "industry": "Savings Institutions",
+    "latitude": 39.911691,
+    "longitude": -85.383506
   },
   {
     "id": 1059142,
@@ -4718,7 +5444,9 @@
     "symbol": "ATAX",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Finance: Consumer Services"
+    "industry": "Finance: Consumer Services",
+    "latitude": 41.25756,
+    "longitude": -95.92956
   },
   {
     "id": 1002390,
@@ -4729,7 +5457,9 @@
       "city": "SCOTTSDALE",
       "state": "AZ",
       "zip": "85260"
-    }
+    },
+    "latitude": 33.61312,
+    "longitude": -111.92013
   },
   {
     "id": 4515,
@@ -4740,7 +5470,9 @@
       "city": "FT WORTH",
       "state": "TX",
       "zip": "76155"
-    }
+    },
+    "latitude": 32.82633,
+    "longitude": -97.04929
   },
   {
     "id": 1336545,
@@ -4755,7 +5487,9 @@
     "symbol": "APP",
     "exchange": "amex",
     "sector": "Finance",
-    "industry": "Business Services"
+    "industry": "Business Services",
+    "latitude": 34.034105,
+    "longitude": -118.239568
   },
   {
     "id": 1500217,
@@ -4771,7 +5505,9 @@
     "exchange": "nyse",
     "ipoYear": 2011,
     "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts"
+    "industry": "Real Estate Investment Trusts",
+    "latitude": 32.92532,
+    "longitude": -117.236409
   },
   {
     "id": 1062231,
@@ -4786,7 +5522,9 @@
     "symbol": "AXL",
     "exchange": "nyse",
     "sector": "Capital Goods",
-    "industry": "Auto Parts:O.E.M."
+    "industry": "Auto Parts:O.E.M.",
+    "latitude": 42.3888,
+    "longitude": -83.0699
   },
   {
     "id": 878375,
@@ -4797,7 +5535,9 @@
       "city": "CHICAGO",
       "state": "IL",
       "zip": "60603"
-    }
+    },
+    "latitude": 41.8816,
+    "longitude": -87.6215
   },
   {
     "id": 896747,
@@ -4808,7 +5548,9 @@
       "city": "KINDERHOOK",
       "state": "NY",
       "zip": "12106"
-    }
+    },
+    "latitude": 42.386154,
+    "longitude": -73.727969
   },
   {
     "id": 1547530,
@@ -4819,7 +5561,9 @@
       "city": "DANVILLE",
       "state": "CA",
       "zip": "94506"
-    }
+    },
+    "latitude": 37.796274,
+    "longitude": -121.923371
   },
   {
     "id": 1458023,
@@ -4830,7 +5574,9 @@
       "city": "ROSWELL",
       "state": "GA",
       "zip": "30075"
-    }
+    },
+    "latitude": 34.10155,
+    "longitude": -84.4073
   },
   {
     "id": 1532882,
@@ -4841,7 +5587,9 @@
       "city": "CASTLE ROCK",
       "state": "CO",
       "zip": "80108"
-    }
+    },
+    "latitude": 39.41062,
+    "longitude": -104.84007
   },
   {
     "id": 1283630,
@@ -4857,7 +5605,9 @@
     "exchange": "nyse",
     "ipoYear": 2004,
     "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts"
+    "industry": "Real Estate Investment Trusts",
+    "latitude": 30.30837,
+    "longitude": -97.93883
   },
   {
     "id": 1357369,
@@ -4868,7 +5618,9 @@
       "city": "AUSTIN",
       "state": "TX",
       "zip": "78738"
-    }
+    },
+    "latitude": 30.30837,
+    "longitude": -97.93883
   },
   {
     "id": 1423689,
@@ -4884,7 +5636,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2008,
     "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts"
+    "industry": "Real Estate Investment Trusts",
+    "latitude": 38.98406,
+    "longitude": -77.096237
   },
   {
     "id": 1516973,
@@ -4900,7 +5654,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2011,
     "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts"
+    "industry": "Real Estate Investment Trusts",
+    "latitude": 38.98406,
+    "longitude": -77.096237
   },
   {
     "id": 817473,
@@ -4916,7 +5672,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1997,
     "sector": "n/a",
-    "industry": "n/a"
+    "industry": "n/a",
+    "latitude": 38.98406,
+    "longitude": -77.096237
   },
   {
     "id": 1316645,
@@ -4931,7 +5689,9 @@
     "symbol": "ANCI",
     "exchange": "nasdaq",
     "sector": "Health Care",
-    "industry": "Hospital/Nursing Management"
+    "industry": "Hospital/Nursing Management",
+    "latitude": 32.926412,
+    "longitude": -96.816368
   },
   {
     "id": 1297735,
@@ -4942,7 +5702,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89104"
-    }
+    },
+    "latitude": 36.14687,
+    "longitude": -115.15643
   },
   {
     "id": 934543,
@@ -4953,7 +5715,9 @@
       "city": "MINNEAPOLIS",
       "state": "MN",
       "zip": "55343"
-    }
+    },
+    "latitude": 44.892158,
+    "longitude": -93.410614
   },
   {
     "id": 949982,
@@ -4964,7 +5728,9 @@
       "city": "BARTOW",
       "state": "FL",
       "zip": "33830"
-    }
+    },
+    "latitude": 27.8531,
+    "longitude": -81.87137
   },
   {
     "id": 1479000,
@@ -4975,7 +5741,9 @@
       "city": "NASHVILLE,",
       "state": "TN",
       "zip": "37219"
-    }
+    },
+    "latitude": 36.16331,
+    "longitude": -86.77986
   },
   {
     "id": 1289046,
@@ -4986,7 +5754,9 @@
       "city": "SPOKANE",
       "state": "WA",
       "zip": "99202"
-    }
+    },
+    "latitude": 47.643676,
+    "longitude": -117.409527
   },
   {
     "id": 1468679,
@@ -4997,7 +5767,9 @@
       "city": "EATONTOWN",
       "state": "NJ",
       "zip": "07724"
-    }
+    },
+    "latitude": 40.27953,
+    "longitude": -74.0496
   },
   {
     "id": 1378706,
@@ -5008,7 +5780,9 @@
       "city": "WALTHAM",
       "state": "MA",
       "zip": "02451"
-    }
+    },
+    "latitude": 42.39552,
+    "longitude": -71.26738
   },
   {
     "id": 1282613,
@@ -5019,7 +5793,9 @@
       "city": "LITTLETON,",
       "state": "CO",
       "zip": "80120"
-    }
+    },
+    "latitude": 39.613221,
+    "longitude": -105.01278
   },
   {
     "id": 919012,
@@ -5034,7 +5810,9 @@
     "symbol": "AEO",
     "exchange": "nyse",
     "sector": "Consumer Services",
-    "industry": "Clothing/Shoe/Accessory Stores"
+    "industry": "Clothing/Shoe/Accessory Stores",
+    "latitude": 40.42656,
+    "longitude": -79.96322
   },
   {
     "id": 4904,
@@ -5049,7 +5827,9 @@
     "symbol": "AEP",
     "exchange": "nyse",
     "sector": "Public Utilities",
-    "industry": "Electric Utilities: Central"
+    "industry": "Electric Utilities: Central",
+    "latitude": 39.96588,
+    "longitude": -83.004919
   },
   {
     "id": 1043186,
@@ -5064,7 +5844,9 @@
     "symbol": "AETI",
     "exchange": "nasdaq",
     "sector": "Energy",
-    "industry": "Industrial Machinery/Components"
+    "industry": "Industrial Machinery/Components",
+    "latitude": 29.6892,
+    "longitude": -95.31215
   },
   {
     "id": 1499735,
@@ -5075,7 +5857,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10020"
-    }
+    },
+    "latitude": 40.75897,
+    "longitude": -73.981109
   },
   {
     "id": 843212,
@@ -5086,7 +5870,9 @@
       "city": "WESTPORT",
       "state": "CT",
       "zip": "06880"
-    }
+    },
+    "latitude": 41.143802,
+    "longitude": -73.362558
   },
   {
     "id": 1039828,
@@ -5102,7 +5888,9 @@
     "exchange": "nyse",
     "ipoYear": 2003,
     "sector": "Finance",
-    "industry": "Life Insurance"
+    "industry": "Life Insurance",
+    "latitude": 41.595159,
+    "longitude": -93.79068
   },
   {
     "id": 1388486,
@@ -5113,7 +5901,9 @@
       "city": "WEST DES MOINES",
       "state": "IA",
       "zip": "50266"
-    }
+    },
+    "latitude": 41.59526,
+    "longitude": -93.80236
   },
   {
     "id": 4962,
@@ -5128,7 +5918,9 @@
     "symbol": "AXP",
     "exchange": "nyse",
     "sector": "Finance",
-    "industry": "Finance: Consumer Services"
+    "industry": "Finance: Consumer Services",
+    "latitude": 40.713823,
+    "longitude": -74.014069
   },
   {
     "id": 1003509,
@@ -5139,7 +5931,9 @@
       "city": "MIDVALE",
       "state": "UT",
       "zip": "84047"
-    }
+    },
+    "latitude": 40.623799,
+    "longitude": -111.858151
   },
   {
     "id": 4969,
@@ -5150,7 +5944,9 @@
       "city": "WILMINGTON",
       "state": "DE",
       "zip": "19801-2919"
-    }
+    },
+    "latitude": 39.7384,
+    "longitude": -75.5493
   },
   {
     "id": 1330769,
@@ -5161,7 +5957,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10285"
-    }
+    },
+    "latitude": 40.713823,
+    "longitude": -74.014069
   },
   {
     "id": 949349,
@@ -5172,7 +5970,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10285"
-    }
+    },
+    "latitude": 40.711315,
+    "longitude": -74.015205
   },
   {
     "id": 1283434,
@@ -5183,7 +5983,9 @@
       "city": "SALT LAKE CITY",
       "state": "UT",
       "zip": "84184"
-    }
+    },
+    "latitude": 40.681524,
+    "longitude": -111.957979
   },
   {
     "id": 1283435,
@@ -5194,7 +5996,9 @@
       "city": "SALT LAKE CITY",
       "state": "UT",
       "zip": "84184"
-    }
+    },
+    "latitude": 40.681524,
+    "longitude": -111.957979
   },
   {
     "id": 1311824,
@@ -5205,7 +6009,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10285"
-    }
+    },
+    "latitude": 40.711315,
+    "longitude": -74.015205
   },
   {
     "id": 1009925,
@@ -5216,7 +6022,9 @@
       "city": "TAMPA",
       "state": "FL",
       "zip": "33619"
-    }
+    },
+    "latitude": 27.933411,
+    "longitude": -82.399209
   },
   {
     "id": 1042046,
@@ -5232,7 +6040,9 @@
     "exchange": "nyse",
     "ipoYear": 2012,
     "sector": "Finance",
-    "industry": "Property-Casualty Insurers"
+    "industry": "Property-Casualty Insurers",
+    "latitude": 39.1064,
+    "longitude": -84.5066
   },
   {
     "id": 1156884,
@@ -5243,7 +6053,9 @@
       "city": "CLEARWATER",
       "state": "FL",
       "zip": "33755"
-    }
+    },
+    "latitude": 27.9656,
+    "longitude": -82.79843
   },
   {
     "id": 1497316,
@@ -5254,7 +6066,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89103"
-    }
+    },
+    "latitude": 36.123158,
+    "longitude": -115.216456
   },
   {
     "id": 5133,
@@ -5265,7 +6079,9 @@
       "city": "CLEVELAND",
       "state": "OH",
       "zip": "44144"
-    }
+    },
+    "latitude": 41.437273,
+    "longitude": -81.757898
   },
   {
     "id": 813389,
@@ -5276,7 +6092,9 @@
       "city": "SAN CLEMENTE",
       "state": "CA",
       "zip": "92673"
-    }
+    },
+    "latitude": 33.45695,
+    "longitude": -117.63178
   },
   {
     "id": 97196,
@@ -5291,7 +6109,9 @@
     "symbol": "AMIC",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Accident &Health Insurance"
+    "industry": "Accident &Health Insurance",
+    "latitude": 40.75897,
+    "longitude": -73.97478
   },
   {
     "id": 5272,
@@ -5306,7 +6126,9 @@
     "symbol": "AIG",
     "exchange": "nyse",
     "sector": "Finance",
-    "industry": "Property-Casualty Insurers"
+    "industry": "Property-Casualty Insurers",
+    "latitude": 40.7056,
+    "longitude": -74.00529
   },
   {
     "id": 1300524,
@@ -5317,7 +6139,9 @@
       "city": "KEMAH",
       "state": "TX",
       "zip": "77565"
-    }
+    },
+    "latitude": 29.533999,
+    "longitude": -95.01242
   },
   {
     "id": 1073146,
@@ -5328,7 +6152,9 @@
       "city": "KEMAH",
       "state": "TX",
       "zip": "77565-2701"
-    }
+    },
+    "latitude": 29.533999,
+    "longitude": -95.01242
   },
   {
     "id": 5656,
@@ -5339,7 +6165,9 @@
       "city": "LITHIA",
       "state": "FL",
       "zip": "33547"
-    }
+    },
+    "latitude": 27.84283,
+    "longitude": -82.23601
   },
   {
     "id": 1394108,
@@ -5350,7 +6178,9 @@
       "city": "FLUSHING",
       "state": "NY",
       "zip": "11354"
-    }
+    },
+    "latitude": 40.760899,
+    "longitude": -73.83047
   },
   {
     "id": 1534099,
@@ -5361,7 +6191,9 @@
       "city": "IRVINE",
       "state": "CA",
       "zip": "92618"
-    }
+    },
+    "latitude": 33.64849,
+    "longitude": -117.73535
   },
   {
     "id": 1451929,
@@ -5372,7 +6204,9 @@
       "city": "BAKERSFIELD,",
       "state": "CA",
       "zip": "93309"
-    }
+    },
+    "latitude": 35.3646,
+    "longitude": -119.05585
   },
   {
     "id": 8855,
@@ -5383,7 +6217,9 @@
       "city": "DFW AIRPORT",
       "state": "TX",
       "zip": "75261"
-    }
+    },
+    "latitude": 32.941224,
+    "longitude": -97.025079
   },
   {
     "id": 1117057,
@@ -5394,7 +6230,9 @@
       "city": "SHANDONG",
       "state": "F4",
       "zip": "276600"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1401670,
@@ -5405,7 +6243,9 @@
       "city": "HENDERSON",
       "state": "NV",
       "zip": "89074"
-    }
+    },
+    "latitude": 36.026713,
+    "longitude": -115.08575
   },
   {
     "id": 880555,
@@ -5416,7 +6256,9 @@
       "city": "BOCA RATON",
       "state": "FL",
       "zip": "33431"
-    }
+    },
+    "latitude": 26.5844,
+    "longitude": -80.0526
   },
   {
     "id": 1513965,
@@ -5432,7 +6274,9 @@
     "exchange": "nyse",
     "ipoYear": 2011,
     "sector": "Public Utilities",
-    "industry": "Natural Gas Distribution"
+    "industry": "Natural Gas Distribution",
+    "latitude": 39.75058,
+    "longitude": -105.00162
   },
   {
     "id": 1343009,
@@ -5443,7 +6287,9 @@
       "city": "RENO",
       "state": "NV",
       "zip": "89519"
-    }
+    },
+    "latitude": 39.501249,
+    "longitude": -119.85964
   },
   {
     "id": 1415917,
@@ -5454,7 +6300,9 @@
       "city": "SICHUAN",
       "state": "F4",
       "zip": "637005"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 741516,
@@ -5469,7 +6317,9 @@
     "symbol": "AMNB",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Major Banks"
+    "industry": "Major Banks",
+    "latitude": 36.586805,
+    "longitude": -79.394671
   },
   {
     "id": 904163,
@@ -5484,7 +6334,9 @@
     "symbol": "ANAT",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Life Insurance"
+    "industry": "Life Insurance",
+    "latitude": 29.30731,
+    "longitude": -94.790049
   },
   {
     "id": 870732,
@@ -5495,7 +6347,9 @@
       "city": "TULSA",
       "state": "OK",
       "zip": "74136"
-    }
+    },
+    "latitude": 36.07336,
+    "longitude": -95.922256
   },
   {
     "id": 1544400,
@@ -5506,7 +6360,9 @@
       "city": "VANCOUVER",
       "state": "A1",
       "zip": "V5Z 4C2"
-    }
+    },
+    "latitude": 49.263355,
+    "longitude": -123.11779
   },
   {
     "id": 1090514,
@@ -5517,7 +6373,9 @@
       "city": "FUTIAN, DISTRICT SHENZHEN",
       "state": "F4",
       "zip": "518026"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 350832,
@@ -5532,7 +6390,9 @@
     "symbol": "APFC",
     "exchange": "nasdaq",
     "sector": "Basic Industries",
-    "industry": "Major Chemicals"
+    "industry": "Major Chemicals",
+    "latitude": 36.11913,
+    "longitude": -115.1573
   },
   {
     "id": 1040482,
@@ -5543,7 +6403,9 @@
       "city": "SCOTTSDALE",
       "state": "AZ",
       "zip": "85255"
-    }
+    },
+    "latitude": 33.64524,
+    "longitude": -111.90063
   },
   {
     "id": 1507571,
@@ -5554,7 +6416,9 @@
       "city": "PLYMOUTH MEETING",
       "state": "PA",
       "zip": "19462"
-    }
+    },
+    "latitude": 40.11817,
+    "longitude": -75.28608
   },
   {
     "id": 932699,
@@ -5565,7 +6429,9 @@
       "city": "LYNNFIELD",
       "state": "MA",
       "zip": "01940"
-    }
+    },
+    "latitude": 42.50988,
+    "longitude": -71.03604
   },
   {
     "id": 1201792,
@@ -5581,7 +6447,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2007,
     "sector": "Consumer Services",
-    "industry": "Other Consumer Services"
+    "industry": "Other Consumer Services",
+    "latitude": 39.28802,
+    "longitude": -77.8601
   },
   {
     "id": 1344596,
@@ -5597,7 +6465,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2006,
     "sector": "Capital Goods",
-    "industry": "Railroads"
+    "industry": "Railroads",
+    "latitude": 38.784822,
+    "longitude": -90.479458
   },
   {
     "id": 1500554,
@@ -5608,7 +6478,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10022"
-    }
+    },
+    "latitude": 40.75985,
+    "longitude": -73.97188
   },
   {
     "id": 1501745,
@@ -5619,7 +6491,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10022"
-    }
+    },
+    "latitude": 40.75985,
+    "longitude": -73.97188
   },
   {
     "id": 1526113,
@@ -5630,7 +6504,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10022"
-    }
+    },
+    "latitude": 40.75985,
+    "longitude": -73.97188
   },
   {
     "id": 1499875,
@@ -5641,7 +6517,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10022"
-    }
+    },
+    "latitude": 40.75985,
+    "longitude": -73.97188
   },
   {
     "id": 1474464,
@@ -5652,7 +6530,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10022"
-    }
+    },
+    "latitude": 40.75985,
+    "longitude": -73.97188
   },
   {
     "id": 1507385,
@@ -5668,7 +6548,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2011,
     "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts"
+    "industry": "Real Estate Investment Trusts",
+    "latitude": 40.75985,
+    "longitude": -73.97188
   },
   {
     "id": 1545208,
@@ -5679,7 +6561,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10022"
-    }
+    },
+    "latitude": 40.75985,
+    "longitude": -73.97188
   },
   {
     "id": 1102238,
@@ -5694,7 +6578,9 @@
     "symbol": "ARL",
     "exchange": "nyse",
     "sector": "Finance",
-    "industry": "Real Estate"
+    "industry": "Real Estate",
+    "latitude": 32.909301,
+    "longitude": -96.921691
   },
   {
     "id": 1452872,
@@ -5705,7 +6591,9 @@
       "city": "LAFAYETTE",
       "state": "LA",
       "zip": "70503"
-    }
+    },
+    "latitude": 30.19865,
+    "longitude": -92.0165
   },
   {
     "id": 277905,
@@ -5716,7 +6604,9 @@
       "city": "NEW YORK",
       "state": "NY",
       "zip": "10005"
-    }
+    },
+    "latitude": 40.7056,
+    "longitude": -74.0083
   },
   {
     "id": 1108236,
@@ -5731,7 +6621,9 @@
     "symbol": "AMRB",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Major Banks"
+    "industry": "Major Banks",
+    "latitude": 38.58764,
+    "longitude": -121.28675
   },
   {
     "id": 783603,
@@ -5742,7 +6634,9 @@
       "city": "HAMILTON",
       "state": "D0",
       "zip": "HM 11"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1432001,
@@ -5753,7 +6647,9 @@
       "city": "SALT LAKE CITY",
       "state": "UT",
       "zip": "84117"
-    }
+    },
+    "latitude": 40.666578,
+    "longitude": -111.839331
   },
   {
     "id": 5768,
@@ -5768,7 +6664,9 @@
     "symbol": "ASEI",
     "exchange": "nasdaq",
     "sector": "Health Care",
-    "industry": "Medical Electronics"
+    "industry": "Medical Electronics",
+    "latitude": 42.5498,
+    "longitude": -71.2521
   },
   {
     "id": 744825,
@@ -5783,7 +6681,9 @@
     "symbol": "AMS",
     "exchange": "amex",
     "sector": "Health Care",
-    "industry": "Medical Specialities"
+    "industry": "Medical Specialities",
+    "latitude": 37.79502,
+    "longitude": -122.396659
   },
   {
     "id": 1415432,
@@ -5794,7 +6694,9 @@
       "city": "SEATTLE",
       "state": "WA",
       "zip": "98101"
-    }
+    },
+    "latitude": 47.61006,
+    "longitude": -122.33504
   },
   {
     "id": 713425,
@@ -5809,7 +6711,9 @@
     "symbol": "AMSWA",
     "exchange": "nasdaq",
     "sector": "Technology",
-    "industry": "Computer Software: Prepackaged Software"
+    "industry": "Computer Software: Prepackaged Software",
+    "latitude": 33.838332,
+    "longitude": -84.372302
   },
   {
     "id": 1031896,
@@ -5820,7 +6724,9 @@
       "city": "PACOIMA",
       "state": "CA",
       "zip": "91331"
-    }
+    },
+    "latitude": 34.25633,
+    "longitude": -118.39929
   },
   {
     "id": 1121783,
@@ -5835,7 +6741,9 @@
     "symbol": "AQQ",
     "exchange": "amex",
     "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts"
+    "industry": "Real Estate Investment Trusts",
+    "latitude": 29.74218,
+    "longitude": -95.485379
   },
   {
     "id": 1349976,
@@ -5846,7 +6754,9 @@
       "city": "SCOTTSDALE",
       "state": "AZ",
       "zip": "85281"
-    }
+    },
+    "latitude": 33.509427,
+    "longitude": -111.926376
   },
   {
     "id": 1056903,
@@ -5861,7 +6771,9 @@
     "symbol": "AWR",
     "exchange": "nyse",
     "sector": "Public Utilities",
-    "industry": "Water Supply"
+    "industry": "Water Supply",
+    "latitude": 34.122559,
+    "longitude": -117.795052
   },
   {
     "id": 880807,
@@ -5877,7 +6789,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1991,
     "sector": "Consumer Durables",
-    "industry": "Metal Fabrications"
+    "industry": "Metal Fabrications",
+    "latitude": 42.535286,
+    "longitude": -71.62751
   },
   {
     "id": 842314,
@@ -5888,7 +6802,9 @@
       "city": "GREENWICH",
       "state": "CT",
       "zip": "06830"
-    }
+    },
+    "latitude": 41.0332,
+    "longitude": -73.6289
   },
   {
     "id": 856135,
@@ -5899,7 +6815,9 @@
       "city": "GREENWICH",
       "state": "CT",
       "zip": "06830"
-    }
+    },
+    "latitude": 41.0332,
+    "longitude": -73.6289
   },
   {
     "id": 830159,
@@ -5910,7 +6828,9 @@
       "city": "GREENWICH",
       "state": "CT",
       "zip": "06830"
-    }
+    },
+    "latitude": 41.01728,
+    "longitude": -73.64771
   },
   {
     "id": 897315,
@@ -5921,7 +6841,9 @@
       "city": "GREENWICH",
       "state": "CT",
       "zip": "06830"
-    }
+    },
+    "latitude": 41.01728,
+    "longitude": -73.64771
   },
   {
     "id": 1323891,
@@ -5932,7 +6854,9 @@
       "city": "HUNTERSVILLE",
       "state": "NC",
       "zip": "28078"
-    }
+    },
+    "latitude": 35.38943,
+    "longitude": -80.86783
   },
   {
     "id": 1053507,
@@ -5947,7 +6871,9 @@
     "symbol": "AMT",
     "exchange": "nyse",
     "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts"
+    "industry": "Real Estate Investment Trusts",
+    "latitude": 42.346439,
+    "longitude": -71.080438
   },
   {
     "id": 5981,
@@ -5962,7 +6888,9 @@
     "symbol": "AVD",
     "exchange": "nyse",
     "sector": "Basic Industries",
-    "industry": "Agricultural Chemicals"
+    "industry": "Agricultural Chemicals",
+    "latitude": 33.6699,
+    "longitude": -117.86154
   },
   {
     "id": 1410636,
@@ -5978,7 +6906,9 @@
     "exchange": "nyse",
     "ipoYear": 2008,
     "sector": "Public Utilities",
-    "industry": "Water Supply"
+    "industry": "Water Supply",
+    "latitude": 39.84594,
+    "longitude": -74.97371
   },
   {
     "id": 794619,
@@ -5994,7 +6924,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1986,
     "sector": "Basic Industries",
-    "industry": "Forest Products"
+    "industry": "Forest Products",
+    "latitude": 39.136191,
+    "longitude": -78.18297
   },
   {
     "id": 799850,
@@ -6009,7 +6941,9 @@
     "symbol": "CRMT",
     "exchange": "nasdaq",
     "sector": "Consumer Durables",
-    "industry": "Automotive Aftermarket"
+    "industry": "Automotive Aftermarket",
+    "latitude": 36.333954,
+    "longitude": -94.201424
   },
   {
     "id": 1486315,
@@ -6020,7 +6954,9 @@
       "city": "LONDON",
       "state": "X0",
       "zip": "W1J 6BD"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 1482783,
@@ -6031,7 +6967,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1491692,
@@ -6042,7 +6980,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1501258,
@@ -6053,7 +6993,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1505365,
@@ -6064,7 +7006,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1488112,
@@ -6075,7 +7019,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1498672,
@@ -6086,7 +7032,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1510890,
@@ -6097,7 +7045,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1517134,
@@ -6108,7 +7058,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1522412,
@@ -6119,7 +7071,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1529197,
@@ -6130,7 +7084,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1533218,
@@ -6141,7 +7097,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1540779,
@@ -6152,7 +7110,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1546680,
@@ -6163,7 +7123,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1552221,
@@ -6174,7 +7136,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1557356,
@@ -6185,7 +7149,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 1561939,
@@ -6196,7 +7162,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89119"
-    }
+    },
+    "latitude": 36.102343,
+    "longitude": -115.122914
   },
   {
     "id": 932628,
@@ -6211,7 +7179,9 @@
     "symbol": "APU",
     "exchange": "nyse",
     "sector": "Consumer Services",
-    "industry": "Other Specialty Stores"
+    "industry": "Other Specialty Stores",
+    "latitude": 40.088185,
+    "longitude": -75.407287
   },
   {
     "id": 278165,
@@ -6222,7 +7192,9 @@
       "city": "HENDERSON",
       "state": "NV",
       "zip": "89052"
-    }
+    },
+    "latitude": 35.98011,
+    "longitude": -115.09911
   },
   {
     "id": 1448763,
@@ -6233,7 +7205,9 @@
       "city": "HENDERSON",
       "state": "NV",
       "zip": "89052"
-    }
+    },
+    "latitude": 36.00011,
+    "longitude": -115.11027
   },
   {
     "id": 1065201,
@@ -6244,7 +7218,9 @@
       "city": "HAMILTON",
       "state": "D0",
       "zip": "HMGX"
-    }
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "id": 52428,
@@ -6255,7 +7231,9 @@
       "city": "MINNEAPOLIS",
       "state": "MN",
       "zip": "55474"
-    }
+    },
+    "latitude": 44.9752,
+    "longitude": -93.2699
   },
   {
     "id": 820027,
@@ -6270,7 +7248,9 @@
     "symbol": "AMP",
     "exchange": "nyse",
     "sector": "Finance",
-    "industry": "Investment Managers"
+    "industry": "Investment Managers",
+    "latitude": 44.9752,
+    "longitude": -93.2699
   },
   {
     "id": 351569,
@@ -6286,7 +7266,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1994,
     "sector": "Finance",
-    "industry": "Major Banks"
+    "industry": "Major Banks",
+    "latitude": 31.181929,
+    "longitude": -83.786303
   },
   {
     "id": 1018979,
@@ -6302,7 +7284,9 @@
     "exchange": "nasdaq",
     "ipoYear": 2005,
     "sector": "Finance",
-    "industry": "Property-Casualty Insurers"
+    "industry": "Property-Casualty Insurers",
+    "latitude": 30.846819,
+    "longitude": -93.320667
   },
   {
     "id": 707605,
@@ -6317,7 +7301,9 @@
     "symbol": "ASRVP",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Major Banks"
+    "industry": "Major Banks",
+    "latitude": 40.3259,
+    "longitude": -78.917
   },
   {
     "id": 1140859,
@@ -6332,7 +7318,9 @@
     "symbol": "ABC",
     "exchange": "nyse",
     "sector": "Health Care",
-    "industry": "Other Pharmaceuticals"
+    "industry": "Other Pharmaceuticals",
+    "latitude": 40.069137,
+    "longitude": -75.467262
   },
   {
     "id": 912145,
@@ -6343,7 +7331,9 @@
       "city": "LAS VEGAS",
       "state": "NV",
       "zip": "89169"
-    }
+    },
+    "latitude": 36.11937,
+    "longitude": -115.15744
   },
   {
     "id": 945828,
@@ -6354,7 +7344,9 @@
       "city": "BOULDER CITY",
       "state": "NV",
       "zip": "89005"
-    }
+    },
+    "latitude": 35.97479,
+    "longitude": -114.85468
   },
   {
     "id": 1132651,
@@ -6369,7 +7361,9 @@
     "symbol": "ATLO",
     "exchange": "nasdaq",
     "sector": "Finance",
-    "industry": "Major Banks"
+    "industry": "Major Banks",
+    "latitude": 42.0357,
+    "longitude": -93.6132
   },
   {
     "id": 1037868,
@@ -6384,7 +7378,9 @@
     "symbol": "AME",
     "exchange": "nyse",
     "sector": "Consumer Durables",
-    "industry": "Metal Fabrications"
+    "industry": "Metal Fabrications",
+    "latitude": 40.06232,
+    "longitude": -75.46237
   },
   {
     "id": 45621,
@@ -6395,7 +7391,9 @@
       "city": "BEVERLY HILLS",
       "state": "CA",
       "zip": "90211"
-    }
+    },
+    "latitude": 34.059772,
+    "longitude": -118.38979
   },
   {
     "id": 318154,
@@ -6411,7 +7409,9 @@
     "exchange": "nasdaq",
     "ipoYear": 1983,
     "sector": "Health Care",
-    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "latitude": 34.1918,
+    "longitude": -118.920159
   },
   {
     "id": 1178879,
