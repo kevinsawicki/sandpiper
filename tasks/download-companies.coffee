@@ -4,6 +4,7 @@ es      = require 'event-stream'
 request = require 'request'
 zlib    = require 'zlib'
 
+# Task to download all companies that filed a 10K last year
 module.exports = (grunt) ->
   grunt.registerTask 'download-companies', 'Download all companies that filed a 10K', ->
     done = @async()

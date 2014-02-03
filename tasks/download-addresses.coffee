@@ -4,6 +4,7 @@ ProgressBar = require 'progress'
 request     = require 'request'
 xpath       = require 'xpath'
 
+# Task to download the addresses of all companies
 module.exports = (grunt) ->
   grunt.registerTask 'download-addresses', 'Download addresses for all companies', ->
     done = @async()

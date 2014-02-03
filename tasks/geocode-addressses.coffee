@@ -1,7 +1,7 @@
 ProgressBar = require 'progress'
 request     = require 'request'
 
-# Geocode all company addresses using the MapQuest API
+# Task to geocode all company addresses using the MapQuest API
 #
 # Requires the MAPQUEST_APP_KEY environment variable be set to the app
 # key to use for API requests.
