@@ -20,13 +20,13 @@ module.exports = (grunt) ->
     })
 
     offset = 0
+    chunkSize = 100
     loadGeocodes = ->
       if offset >= companiesWithoutLocations.length
         grunt.log.ok "Geocoded #{companiesWithoutLocations.length} company addresses"
         done()
         return
 
-      chunkSize = 100
       chunk = companiesWithoutLocations.slice(offset, offset + chunkSize)
       geocodeCompanies chunk, (error, locations) ->
         return done(error) if error?
