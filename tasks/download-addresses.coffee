@@ -28,7 +28,6 @@ module.exports = (grunt) ->
       for company, index in companiesWithoutAddresses
         company.address = addresses[index]
 
-
       # Sanitize street2 values
       for {address} in companies
         delete address.street2 if not address.street2
