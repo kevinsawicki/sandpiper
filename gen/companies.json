@@ -8476,18 +8476,18 @@
   {
     "id": 1278752,
     "name": "APOLLO INVESTMENT CORP",
-    "address": {
-      "street1": "",
-      "street2": "",
-      "city": "",
-      "state": "",
-      "zip": ""
-    },
     "symbol": "AIB",
     "exchange": "nyse",
     "ipoYear": 2013,
     "sector": "n/a",
-    "industry": "n/a"
+    "industry": "n/a",
+    "address": {
+      "street1": "1301 AVENUE OF THE AMERICAS",
+      "street2": "1301 AVENUE OF THE AMERICAS",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zip": "10019"
+    }
   },
   {
     "id": 1083446,

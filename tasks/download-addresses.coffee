@@ -41,7 +41,7 @@ getAddress = ({id}, callback) ->
 
     dom = new DOMParser().parseFromString(body)
     [address] = xpath.select('/feed/company-info/addresses/address[@type=\'business\']', dom)
-    unless address?
+    if not address? or xpath.select('count(/)', address) is 1
       [address] = xpath.select('/feed/company-info/addresses/address[@type=\'mailing\']', dom)
     street1 = xpath.select('street1/text()', address).toString()
     street2 = xpath.select('street2/text()', address).toString()
