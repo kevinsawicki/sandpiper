@@ -64,14 +64,14 @@ geocodeCompanies = (companies, callback) ->
       json: JSON.stringify({locations})
       outFormat: 'geojson'
 
-  request options, (error, response, body) ->
+  request options, (error, response, {info, results}) ->
     return callback(error) if error?
 
-    if body.results.length isnt companies.length
-      return callback(new Error(body.info.messages.join('\n')))
+    if results.length isnt companies.length
+      return callback(new Error(info.messages.join('\n')))
 
     locations = []
-    for result in body.results
+    for result in results
       [location] = result.locations
       {lat, lng} = location.latLng
       locations.push({latitude: lat, longitude: lng})
