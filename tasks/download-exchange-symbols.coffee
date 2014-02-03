@@ -16,11 +16,12 @@ module.exports = (grunt) ->
     companiesById = {}
     companiesById[company.id] = company for company in companiesWithoutSymbols
 
-    progress = new ProgressBar('Downloading :total symbols [:bar] :percent :eta seconds remaining', {
+    progress = new ProgressBar('Resolving symbols for :total companies [:bar] :percent :eta seconds remaining', {
       incomplete: ' '
       width: 20
       total: companiesWithoutSymbols.length
     })
+    companiesUpdated = 0
     loadSymbol = ({symbol, exchange, ipoYear, sector, industry}, callback) ->
       getId symbol, (error, id) ->
         progress.tick(1)
@@ -30,6 +31,7 @@ module.exports = (grunt) ->
           company.ipoYear  = ipoYear if ipoYear
           company.sector   = sector
           company.industry = industry
+          companiesUpdated++
         callback(error)
 
     async.map ['nasdaq', 'amex', 'nyse'], downloadExchange, (error, exchanges) ->
@@ -42,7 +44,7 @@ module.exports = (grunt) ->
 
         companiesJson = JSON.stringify(companies, null, 2)
         grunt.file.write 'gen/companies.json', companiesJson
-        grunt.log.ok "Downloaded #{companiesWithoutSymbols.length} symbols"
+        grunt.log.ok "Downloaded #{companiesUpdated} symbols"
         done()
 
 # Download all symbols on the given exchange
