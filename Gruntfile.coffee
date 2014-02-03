@@ -3,4 +3,8 @@ module.exports = (grunt) ->
     pkg: grunt.file.readJSON('package.json')
 
   grunt.loadTasks('tasks')
-  grunt.registerTask('default', ['download-companies', 'download-addresses'])
+  grunt.registerTask 'default', [
+    'download-companies'
+    'download-addresses'
+    'download-exchange-symbols'
+  ]
