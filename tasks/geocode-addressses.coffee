@@ -51,7 +51,7 @@ geocodeCompanies = (companies, callback) ->
     {street1, street2, city, state, zip} = address
     segments = []
     segments.push(street1) if street1
-    segments.push(street2) if street2 and street2 isnt street1
+    segments.push(street2) if street2
     segments.push(city) if city
     segments.push(state) if state
     segments.push(zip) if zip
