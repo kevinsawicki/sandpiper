@@ -28,6 +28,12 @@ module.exports = (grunt) ->
       for company, index in companiesWithoutAddresses
         company.address = addresses[index]
 
+
+      # Sanitize street2 values
+      for {address} in companies
+        delete address.street2 if not address.street2
+        delete address.street2 if address.street1 is address.street2
+
       companiesJson = JSON.stringify(companies, null, 2)
       grunt.file.write 'gen/companies.json', companiesJson
       grunt.log.ok "Downloaded #{addresses.length} company addresses"
