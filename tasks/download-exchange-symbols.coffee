@@ -5,6 +5,8 @@ request     = require 'request'
 xpath       = require 'xpath'
 
 # Task to download all company ticker information from different exchanges
+#
+# Currently the nasdaq, nyse, and amex exchanges are used.
 module.exports = (grunt) ->
   grunt.registerTask 'download-exchange-symbols', 'Download all company symbols and exchange names', ->
     done = @async()
@@ -43,6 +45,7 @@ module.exports = (grunt) ->
         grunt.log.ok "Downloaded #{companiesWithoutSymbols.length} symbols"
         done()
 
+# Download all symbols on the given exchange
 downloadExchange = (exchange, callback) ->
   uri = "http://www.nasdaq.com/screening/companies-by-name.aspx?letter=0&exchange=#{exchange}&render=download"
   request uri, (error, response, body) ->
@@ -61,6 +64,7 @@ downloadExchange = (exchange, callback) ->
 
     callback(null, symbols)
 
+# Get the company id for a ticker symbol
 getId = (symbol, callback) ->
   url = "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&output=atom&start=0&count=1&CIK=#{symbol}"
   request url, (error, response, body) ->
