@@ -75007,7 +75007,12 @@
     "sector": "Health Care",
     "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
     "latitude": 39.139921,
-    "longitude": -77.224612
+    "longitude": -77.224612,
+    "profits": {
+      "2010": -35708000,
+      "2011": -19364000,
+      "2012": -28507000
+    }
   },
   {
     "id": 1304280,
