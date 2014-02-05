@@ -24,7 +24,7 @@ exports.getYear = (date='') ->
           days = (toDate - fromDate) / day
           return new Date(toDate).getFullYear() if 360 < days < 370
 
-    if match = date.match(/Context_FYE_\d{2}-([a-zA-Z]+)-(\d{4})$/)
+    if match = date.match(/^Context_FYE_\d{2}-[a-zA-Z]+-(\d{4})$/)
       year = parseInt(match[1])
       return year unless isNaN(year)
 
