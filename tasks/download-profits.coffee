@@ -39,7 +39,8 @@ module.exports = (grunt) ->
 
       queue.drain = done
       queue.concurrency = 10
-      queue.push(report) for report in reports
+      for report in reports
+        queue.push report, (error) -> done(error) if error?
 
 downloadProfits = (report, callback) ->
   getReportUri report, (error, reportUri) ->
@@ -60,7 +61,10 @@ downloadProfits = (report, callback) ->
           report.company.profits = profits
           break
 
-      callback()
+      if report.company.profits?
+        callback()
+      else
+        callback(new Error("Could not parse profits for #{report.company.name} (#{report.company.id}): #{reportUri}"))
 
 # Attempt to parse the yearly profits from the document using the element name.
 profitsForElement = (document, elementName) ->
@@ -73,7 +77,7 @@ profitsForElement = (document, elementName) ->
     year = dates.yearOfNode(node)
     if year isnt -1
       profits ?= {}
-      profits["#{year}"] = profit
+      profits[year] = profit
 
   profits
 
@@ -89,7 +93,7 @@ getReportUri = (report, callback) ->
     if reportName
       callback(null, "#{folderUri}/#{reportName}")
     else
-      callback(new Error("No report found for #{report.company.symbol}"))
+      callback()
 
 # Get the 10-K report information for all quarters in the last year.
 getReports = (callback) ->
