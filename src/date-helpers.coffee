@@ -28,6 +28,10 @@ exports.getYear = (date='') ->
       year = parseInt(match[1])
       return year unless isNaN(year)
 
+    if match = date.match(/^TwelveMonthsEnded_\d{2}[a-zA-Z]+(\d{4})$/)
+      year = parseInt(1)
+      return year unless isNaN(year)
+
     if match = date.match(/^d(\d{4})$/i)
       year = parseInt(match[1])
       return year unless isNaN(year)
