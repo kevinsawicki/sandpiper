@@ -68086,7 +68086,11 @@
     "sector": "Miscellaneous",
     "industry": "Multi-Sector Companies",
     "latitude": 40.974929,
-    "longitude": -73.742945
+    "longitude": -73.742945,
+    "profits": {
+      "2011": -4549000,
+      "2012": -3865000
+    }
   },
   {
     "id": 1301236,
@@ -74810,7 +74814,11 @@
     "sector": "Basic Industries",
     "industry": "Steel/Iron Ore",
     "latitude": 45.61357,
-    "longitude": -122.6107
+    "longitude": -122.6107,
+    "profits": {
+      "2010": -5440000,
+      "2011": 12660000
+    }
   },
   {
     "id": 110019,
