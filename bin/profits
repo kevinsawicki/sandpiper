@@ -1,0 +1,16 @@
+#!/usr/bin/env coffee
+
+fs   = require 'fs'
+path = require 'path'
+
+companies = JSON.parse(fs.readFileSync(path.resolve(__dirname, '..', 'gen', 'companies.json')))
+companies = companies.filter ({profits}) -> profits?[2012] > 0
+companies.sort (company1, company2) -> company2.profits[2012] - company1.profits[2012]
+
+for {name, symbol, profits} in companies
+  millions = Math.round(profits[2012] / 1000000)
+  if millions > 1000
+    billions = Math.round(millions / 1000)
+    console.log("#{symbol}: #{name} #{billions}B")
+  else
+    console.log("#{symbol}: #{name} #{millions}M")
