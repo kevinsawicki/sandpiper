@@ -24,6 +24,7 @@ module.exports = (grunt) ->
 
     getReports (error, reports) ->
       report.company = companiesById[report.id] for report in reports
+      reports = reports.filter ({company}) -> company?
 
       progress = new ProgressBar('Downloading profits for :current/:total companies [:bar] :percent :eta seconds remaining', {
         incomplete: ' '
