@@ -38,13 +38,14 @@ module.exports = (grunt) ->
           callback(error)
 
       queue.drain = done
-      queue.concurrency = 10
+      queue.concurrency = 25
       for report in reports
         queue.push report, (error) -> done(error) if error?
 
 downloadProfits = (report, callback) ->
   getReportUri report, (error, reportUri) ->
     return callback(error) if error?
+    return callback() unless reportUri
 
     request reportUri, (error, response, body) ->
       return callback(error) if error?
