@@ -10063,7 +10063,11 @@
     "sector": "Finance",
     "industry": "Finance Companies",
     "latitude": 40.8711,
-    "longitude": -73.95523
+    "longitude": -73.95523,
+    "profits": {
+      "2010": 3129000,
+      "2011": 10521000
+    }
   },
   {
     "id": 945989,
@@ -54941,7 +54945,12 @@
     "sector": "Technology",
     "industry": "Professional Services",
     "latitude": 30.0485,
-    "longitude": -95.25156
+    "longitude": -95.25156,
+    "profits": {
+      "2010": 22440000,
+      "2011": 30470000,
+      "2012": 40402000
+    }
   },
   {
     "id": 1509786,
@@ -90700,7 +90709,11 @@
     "sector": "Health Care",
     "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
     "latitude": 37.92414,
-    "longitude": -122.37826
+    "longitude": -122.37826,
+    "profits": {
+      "2010": -24854000,
+      "2011": -35750000
+    }
   },
   {
     "id": 1104280,
@@ -102189,7 +102202,11 @@
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
     "latitude": 40.76205,
-    "longitude": -73.98256
+    "longitude": -73.98256,
+    "profits": {
+      "2011": -853074,
+      "2012": -18072719
+    }
   },
   {
     "id": 799165,
