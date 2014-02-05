@@ -10,10 +10,6 @@ zlib        = require 'zlib'
 
 # Download the profits or losses for all companies
 module.exports = (grunt) ->
-
-  # Prevents: warning: possible EventEmitter memory leak detected.
-  process.setMaxListeners(0)
-
   grunt.registerTask 'download-profits', 'Download profits for all companies', ->
     done = @async()
 
