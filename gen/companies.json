@@ -35222,7 +35222,12 @@
     "sector": "Health Care",
     "industry": "Hospital/Nursing Management",
     "latitude": 47.61742,
-    "longitude": -122.35685
+    "longitude": -122.35685,
+    "profits": {
+      "2010": -56959000,
+      "2011": -71909000,
+      "2012": -84844000
+    }
   },
   {
     "id": 32604,
@@ -61716,7 +61721,12 @@
     "sector": "Technology",
     "industry": "Computer Manufacturing",
     "latitude": 38.1375,
-    "longitude": -84.4698
+    "longitude": -84.4698,
+    "profits": {
+      "2010": 340000000,
+      "2011": 320900000,
+      "2012": 106300000
+    }
   },
   {
     "id": 1518339,
@@ -101619,7 +101629,12 @@
     "sector": "Energy",
     "industry": "Oil & Gas Production",
     "latitude": 35.88793,
-    "longitude": -84.14906
+    "longitude": -84.14906,
+    "profits": {
+      "2010": -1745000,
+      "2011": 4680000,
+      "2012": -67000
+    }
   },
   {
     "id": 1296391,
@@ -111060,7 +111075,12 @@
     "sector": "Capital Goods",
     "industry": "Biotechnology: Laboratory Analytical Instruments",
     "latitude": 42.13276,
-    "longitude": -71.482849
+    "longitude": -71.482849,
+    "profits": {
+      "2010": 381763000,
+      "2011": 432968000,
+      "2012": 461443000
+    }
   },
   {
     "id": 1329517,
