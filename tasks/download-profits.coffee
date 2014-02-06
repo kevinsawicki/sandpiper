@@ -55,6 +55,7 @@ downloadProfits = (report, callback) ->
         'NetIncomeLoss'
         'NetIncomeLossAvailableToCommonStockholdersBasic'
         'NetIncomeLossAvailableToCommonStockholdersDiluted'
+        'IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest'
       ]
 
       for element in elements
