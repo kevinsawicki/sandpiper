@@ -40,7 +40,10 @@ module.exports = (grunt) ->
       queue.drain = done
       queue.concurrency = 25
       for report in reports
-        queue.push report, (error) -> done(error) if error?
+        queue.push report, (error) ->
+          if error?
+            console.log()
+            done(error)
 
 downloadProfits = (report, callback) ->
   getReportUri report, (error, reportUri) ->
