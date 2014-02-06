@@ -50,4 +50,8 @@ exports.getYear = (date='') ->
       year = parseInt(match[1])
       return year unless isNaN(year)
 
+    if match = date.match(/STD_365_(\d{4})1231/)
+      year = parseInt(match[1])
+      return year unless isNaN(year)
+
     -1
