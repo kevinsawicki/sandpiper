@@ -27,7 +27,7 @@ module.exports = (grunt) ->
       progress = new ProgressBar('Downloading profits for :current/:total companies [:bar] :percent :eta seconds remaining', {
         incomplete: ' '
         width: 20
-        total: companiesWithoutProfits.length
+        total: reports.length
       })
 
       queue = async.queue (report, callback) ->
