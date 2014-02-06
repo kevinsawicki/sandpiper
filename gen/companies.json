@@ -14899,7 +14899,11 @@
     "sector": "Capital Goods",
     "industry": "Industrial Machinery/Components",
     "latitude": 45.433694,
-    "longitude": -122.613067
+    "longitude": -122.613067,
+    "profits": {
+      "2010": 47200000,
+      "2011": 49682000
+    }
   },
   {
     "id": 1428389,
@@ -36577,7 +36581,11 @@
     "sector": "Consumer Durables",
     "industry": "Miscellaneous manufacturing industries",
     "latitude": 39.527596,
-    "longitude": -99.141968
+    "longitude": -99.141968,
+    "profits": {
+      "2011": 642000,
+      "2012": 1766000
+    }
   },
   {
     "id": 1449447,
