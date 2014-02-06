@@ -56244,7 +56244,11 @@
     "sector": "Technology",
     "industry": "Industrial Machinery/Components",
     "latitude": 37.379285,
-    "longitude": -121.950195
+    "longitude": -121.950195,
+    "profits": {
+      "2010": 28049000,
+      "2011": -21975000
+    }
   },
   {
     "id": 1488075,
@@ -60905,7 +60909,11 @@
     "sector": "Health Care",
     "industry": "Medical Specialities",
     "latitude": 39.19924,
-    "longitude": -84.379523
+    "longitude": -84.379523,
+    "profits": {
+      "2010": -20577000,
+      "2011": -6198000
+    }
   },
   {
     "id": 1074902,
@@ -93585,7 +93593,11 @@
     "sector": "Capital Goods",
     "industry": "Electrical Products",
     "latitude": 37.38049,
-    "longitude": -121.997943
+    "longitude": -121.997943,
+    "profits": {
+      "2010": 8182000,
+      "2011": -11643000
+    }
   },
   {
     "id": 1038074,
