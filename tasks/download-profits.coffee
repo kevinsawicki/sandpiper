@@ -8,6 +8,8 @@ request     = require 'request'
 xpath       = require 'xpath'
 zlib        = require 'zlib'
 
+require('events').defaultMaxListeners = Infinity
+
 # Download the profits or losses for all companies
 module.exports = (grunt) ->
   grunt.registerTask 'download-profits', 'Download profits for all companies', ->
