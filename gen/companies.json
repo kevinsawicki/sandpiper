@@ -14933,7 +14933,11 @@
     "sector": "Consumer Services",
     "industry": "Other Specialty Stores",
     "latitude": 33.91647,
-    "longitude": -118.37573
+    "longitude": -118.37573,
+    "profits": {
+      "2011": 20562000,
+      "2012": 14915000
+    }
   },
   {
     "id": 1496741,
@@ -18498,7 +18502,11 @@
     "sector": "Consumer Services",
     "industry": "Recreational Products/Toys",
     "latitude": 38.691537,
-    "longitude": -90.356124
+    "longitude": -90.356124,
+    "profits": {
+      "2011": -17062000,
+      "2012": -49295000
+    }
   },
   {
     "id": 1316835,
@@ -30922,7 +30930,11 @@
     "sector": "Consumer Non-Durables",
     "industry": "Food Distributors",
     "latitude": 44.451441,
-    "longitude": -73.127636
+    "longitude": -73.127636,
+    "profits": {
+      "2011": 1485526,
+      "2012": -18477514
+    }
   },
   {
     "id": 880417,
@@ -44862,7 +44874,11 @@
     "sector": "Consumer Non-Durables",
     "industry": "Packaged Foods",
     "latitude": 30.81064,
-    "longitude": -83.93701
+    "longitude": -83.93701,
+    "profits": {
+      "2011": 137047000,
+      "2012": 136121000
+    }
   },
   {
     "id": 30625,
@@ -47334,7 +47350,12 @@
     "sector": "Capital Goods",
     "industry": "Industrial Machinery/Components",
     "latitude": 39.527596,
-    "longitude": -99.141968
+    "longitude": -99.141968,
+    "profits": {
+      "2010": 584603000,
+      "2011": 520896000,
+      "2012": 542403000
+    }
   },
   {
     "id": 749251,
@@ -58425,7 +58446,12 @@
     "sector": "Public Utilities",
     "industry": "Telecommunications Equipment",
     "latitude": 37.41395,
-    "longitude": -122.01745
+    "longitude": -122.01745,
+    "profits": {
+      "2010": 0,
+      "2011": 0,
+      "2012": 0
+    }
   },
   {
     "id": 884650,
@@ -81260,7 +81286,11 @@
     "sector": "Consumer Services",
     "industry": "Telecommunications Equipment",
     "latitude": 33.58452,
-    "longitude": -101.84878
+    "longitude": -101.84878,
+    "profits": {
+      "2011": -1167409,
+      "2012": -546993
+    }
   },
   {
     "id": 1021561,
@@ -82417,7 +82447,12 @@
     "sector": "Energy",
     "industry": "Metal Fabrications",
     "latitude": 29.75927,
-    "longitude": -95.372285
+    "longitude": -95.372285,
+    "profits": {
+      "2010": 168018000,
+      "2011": 322453000,
+      "2012": 448609000
+    }
   },
   {
     "id": 1516007,
@@ -83375,7 +83410,11 @@
     "sector": "Miscellaneous",
     "industry": "Business Services",
     "latitude": 47.612748,
-    "longitude": -122.337292
+    "longitude": -122.337292,
+    "profits": {
+      "2011": 1553672,
+      "2012": 1525429
+    }
   },
   {
     "id": 1012140,
@@ -86385,7 +86424,12 @@
     "sector": "Technology",
     "industry": "EDP Services",
     "latitude": 37.32859,
-    "longitude": -121.893449
+    "longitude": -121.893449,
+    "profits": {
+      "2010": 22000,
+      "2011": 1880000,
+      "2012": 37211000
+    }
   },
   {
     "id": 1054102,
@@ -87536,7 +87580,12 @@
     "sector": "Public Utilities",
     "industry": "Power Generation",
     "latitude": 37.791456,
-    "longitude": -122.396174
+    "longitude": -122.396174,
+    "profits": {
+      "2010": 1107000000,
+      "2011": 831000000,
+      "2012": 816000000
+    }
   },
   {
     "id": 81157,
@@ -94049,7 +94098,11 @@
     "sector": "Consumer Non-Durables",
     "industry": "Beverages (Production/Distribution)",
     "latitude": 33.9143,
-    "longitude": -118.27618
+    "longitude": -118.27618,
+    "profits": {
+      "2011": -941000,
+      "2012": -524000
+    }
   },
   {
     "id": 1332474,
@@ -97751,7 +97804,12 @@
     "sector": "Technology",
     "industry": "Computer Software: Prepackaged Software",
     "latitude": 37.7892,
-    "longitude": -122.3943
+    "longitude": -122.3943,
+    "profits": {
+      "2011": 0,
+      "2012": 0,
+      "2013": 0
+    }
   },
   {
     "id": 1060219,
@@ -102509,7 +102567,11 @@
     "sector": "Technology",
     "industry": "Electrical Products",
     "latitude": 43.835155,
-    "longitude": -79.330293
+    "longitude": -79.330293,
+    "profits": {
+      "2011": 12350000,
+      "2012": 7542000
+    }
   },
   {
     "id": 1506439,
@@ -122654,7 +122716,11 @@
     "sector": "Consumer Non-Durables",
     "industry": "Shoe Manufacturing",
     "latitude": 43.134518,
-    "longitude": -85.54156
+    "longitude": -85.54156,
+    "profits": {
+      "2011": 123287000,
+      "2012": -2400000
+    }
   },
   {
     "id": 1456137,
