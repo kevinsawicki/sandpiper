@@ -58,6 +58,10 @@ downloadProfits = (report, callback) ->
     request reportUri, (error, response, body) ->
       return callback(error) if error?
 
+      if response.headers['content-type'] isnt 'application/xml'
+        callback(new Error("#{response.headers['content-type']} content type returned for #{report.company.name} (#{report.company.id}): #{reportUri}"))
+        return
+
       document = new DOMParser().parseFromString(body)
       elements = [
         'NetIncomeLoss'
