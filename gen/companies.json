@@ -71871,7 +71871,11 @@
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
     "latitude": 37.79071,
-    "longitude": -122.39958
+    "longitude": -122.39958,
+    "profits": {
+      "2010": -34037000,
+      "2011": -38841000
+    }
   },
   {
     "id": 753772,
@@ -114257,7 +114261,12 @@
     "sector": "Finance",
     "industry": "Property-Casualty Insurers",
     "latitude": 34.155286,
-    "longitude": -118.633518
+    "longitude": -118.633518,
+    "profits": {
+      "2010": 2329152,
+      "2011": 3739876,
+      "2012": 1953728
+    }
   },
   {
     "id": 100726,
@@ -114807,7 +114816,11 @@
     "sector": "Consumer Non-Durables",
     "industry": "Package Goods/Cosmetics",
     "latitude": 40.81723,
-    "longitude": -73.24741
+    "longitude": -73.24741,
+    "profits": {
+      "2011": 4716530,
+      "2012": 4830780
+    }
   },
   {
     "id": 1096938,
@@ -115079,7 +115092,12 @@
     "sector": "Capital Goods",
     "industry": "Metal Fabrications",
     "latitude": 47.6202,
-    "longitude": -115.3695
+    "longitude": -115.3695,
+    "profits": {
+      "2010": 805213,
+      "2011": 636920,
+      "2012": -558536
+    }
   },
   {
     "id": 764630,
