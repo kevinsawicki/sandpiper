@@ -16,7 +16,10 @@ module.exports = (grunt) ->
     done = @async()
 
     companies = grunt.file.readJSON('gen/companies.json')
-    companiesWithoutProfits = companies.filter ({profits}) -> not profits?
+    if companyId = parseInt(grunt.option('company-id'))
+      companiesWithoutProfits = companies.filter ({id}) -> id is companyId
+    else
+      companiesWithoutProfits = companies.filter ({profits}) -> not profits?
     companiesById = {}
     companiesById[company.id] = company for company in companiesWithoutProfits
 
