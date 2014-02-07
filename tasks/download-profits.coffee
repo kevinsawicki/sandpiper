@@ -100,12 +100,11 @@ getReportUri = (report, callback) ->
   reportId = path.basename(report.path, path.extname(report.path)).replace(/-/g, '')
   folderUri = "http://www.sec.gov/Archives/edgar/data/#{report.company.id}/#{reportId}"
 
-  request folderUri, (error, response, body) ->
+  request folderUri, (error, response, body='') ->
     return callback(error) if error?
 
-    [reportName] = new RegExp("#{report.company.symbol}-\\d+\\.xml", 'i').exec(body) ? []
-    if reportName
-      callback(null, "#{folderUri}/#{reportName}")
+    if match = body.match(new RegExp("\"([^\"]*#{report.company.symbol}-\\d+\\.xml)\"", 'i'))
+      callback(null, "#{folderUri}/#{match[1]}")
     else
       callback()
 
