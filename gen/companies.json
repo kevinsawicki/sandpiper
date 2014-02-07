@@ -15768,7 +15768,12 @@
     "sector": "Consumer Services",
     "industry": "Restaurants",
     "latitude": 33.733915,
-    "longitude": -117.994211
+    "longitude": -117.994211,
+    "profits": {
+      "2010": 23162000,
+      "2012": 31570000,
+      "2013": 31409000
+    }
   },
   {
     "id": 9235,
@@ -112002,7 +112007,12 @@
     "sector": "Technology",
     "industry": "Computer peripheral equipment",
     "latitude": 41.38499,
-    "longitude": -72.904979
+    "longitude": -72.904979,
+    "profits": {
+      "2010": 3904000,
+      "2011": 4676000,
+      "2012": 3621000
+    }
   },
   {
     "id": 1263872,
