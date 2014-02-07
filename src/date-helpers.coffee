@@ -24,9 +24,14 @@ exports.getYear = (date='') ->
       toDate   = Date.parse("#{match[5]} #{match[6]} #{match[4]}")
       return year if year = yearFromRange(fromDate, toDate)
 
-    if match = date.match(/from(\d{4})-(\d{1,2})-(\d{1,2})to(\d{4})-(\d{1,2})-(\d{1,2})$/i)
+    if match = date.match(/from(\d{4})-(\d{1,2})-(\d{1,2})to(\d{4})-(\d{1,2})-(\d{1,2})/i)
       fromDate = Date.parse("#{match[2]} #{match[3]} #{match[1]}")
       toDate   = Date.parse("#{match[5]} #{match[6]} #{match[4]}")
+      return year if year = yearFromRange(fromDate, toDate)
+
+    if match = date.match(/from(\d+)([a-z]+)(\d{4})to(\d+)([a-z]+)(\d+)/i)
+      fromDate = Date.parse("#{match[2]} #{match[1]} #{match[3]}")
+      toDate   = Date.parse("#{match[5]} #{match[4]} #{match[6]}")
       return year if year = yearFromRange(fromDate, toDate)
 
     if match = date.match(/^c(\d{4})(\d{2})(\d{2})to(\d{4})(\d{2})(\d{2})$/)
