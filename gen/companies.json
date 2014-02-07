@@ -1467,7 +1467,12 @@
     "sector": "Technology",
     "industry": "Computer Software: Prepackaged Software",
     "latitude": 37.55871,
-    "longitude": -122.28767
+    "longitude": -122.28767,
+    "profits": {
+      "2010": 10647000,
+      "2011": 11987000,
+      "2012": 10303000
+    }
   },
   {
     "id": 1144215,
@@ -2968,7 +2973,12 @@
     "sector": "Public Utilities",
     "industry": "Oil/Gas Transmission",
     "latitude": 33.780748,
-    "longitude": -84.387065
+    "longitude": -84.387065,
+    "profits": {
+      "2010": 64000000,
+      "2011": 33000000,
+      "2012": 98000000
+    }
   },
   {
     "id": 917251,
@@ -5418,7 +5428,11 @@
     "sector": "Public Utilities",
     "industry": "Telecommunications Equipment",
     "latitude": 42.294527,
-    "longitude": -71.201753
+    "longitude": -71.201753,
+    "profits": {
+      "2011": 10050000,
+      "2012": -5444000
+    }
   },
   {
     "id": 1514991,
@@ -8837,7 +8851,12 @@
     "sector": "Technology",
     "industry": "Semiconductors",
     "latitude": 28.493434,
-    "longitude": -81.508475
+    "longitude": -81.508475,
+    "profits": {
+      "2010": -9015000,
+      "2011": -26217000,
+      "2012": -148703000
+    }
   },
   {
     "id": 6845,
@@ -12351,7 +12370,11 @@
     "sector": "Public Utilities",
     "industry": "Environmental Services",
     "latitude": 41.2383,
-    "longitude": -80.715109
+    "longitude": -80.715109,
+    "profits": {
+      "2011": 776000,
+      "2012": -326000
+    }
   },
   {
     "id": 918573,
@@ -12867,7 +12890,12 @@
     "sector": "Technology",
     "industry": "Semiconductors",
     "latitude": 37.50679,
-    "longitude": -121.95675
+    "longitude": -121.95675,
+    "profits": {
+      "2010": 18653000,
+      "2011": 20320000,
+      "2012": 3110000
+    }
   },
   {
     "id": 1438660,
@@ -13622,7 +13650,12 @@
     "sector": "Finance",
     "industry": "Major Banks",
     "latitude": 32.783299,
-    "longitude": -79.931959
+    "longitude": -79.931959,
+    "profits": {
+      "2010": 3110513,
+      "2011": 3189318,
+      "2012": 3666828
+    }
   },
   {
     "id": 1365997,
@@ -13963,7 +13996,12 @@
     "sector": "Consumer Durables",
     "industry": "Home Furnishings",
     "latitude": 36.7546,
-    "longitude": -79.9995
+    "longitude": -79.9995,
+    "profits": {
+      "2010": -2002000,
+      "2011": 55342000,
+      "2012": 26713000
+    }
   },
   {
     "id": 1495028,
@@ -17312,7 +17350,12 @@
     "sector": "Energy",
     "industry": "Oil & Gas Production",
     "latitude": 29.780453,
-    "longitude": -95.629823
+    "longitude": -95.629823,
+    "profits": {
+      "2010": -59771000,
+      "2011": -33827000,
+      "2012": -39089000
+    }
   },
   {
     "id": 746598,
@@ -18434,7 +18477,11 @@
     "sector": "Consumer Services",
     "industry": "Restaurants",
     "latitude": 44.971257,
-    "longitude": -93.351212
+    "longitude": -93.351212,
+    "profits": {
+      "2010": 38400000,
+      "2011": 50426000
+    }
   },
   {
     "id": 1113809,
@@ -23207,7 +23254,11 @@
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
     "latitude": 40.817425,
-    "longitude": -72.963619
+    "longitude": -72.963619,
+    "profits": {
+      "2011": 6208791,
+      "2012": 941281
+    }
   },
   {
     "id": 19584,
@@ -27949,7 +28000,12 @@
     "sector": "Finance",
     "industry": "Major Banks",
     "latitude": 34.433075,
-    "longitude": -119.826646
+    "longitude": -119.826646,
+    "profits": {
+      "2010": 2091000,
+      "2011": -10485000,
+      "2012": 3173000
+    }
   },
   {
     "id": 1169561,
@@ -30456,7 +30512,11 @@
     "sector": "Technology",
     "industry": "EDP Services",
     "latitude": 33.41122,
-    "longitude": -111.96951
+    "longitude": -111.96951,
+    "profits": {
+      "2011": -6230000,
+      "2012": -3941000
+    }
   },
   {
     "id": 1467027,
@@ -30609,7 +30669,11 @@
     "sector": "Technology",
     "industry": "Computer peripheral equipment",
     "latitude": 30.399908,
-    "longitude": -97.731265
+    "longitude": -97.731265,
+    "profits": {
+      "2011": -7495000,
+      "2012": -10696000
+    }
   },
   {
     "id": 1209821,
@@ -36405,7 +36469,12 @@
     "sector": "Finance",
     "industry": "Major Banks",
     "latitude": 38.98869,
-    "longitude": -77.09616
+    "longitude": -77.09616,
+    "profits": {
+      "2010": 16657000,
+      "2011": 24558000,
+      "2012": 35289000
+    }
   },
   {
     "id": 1478454,
@@ -37010,7 +37079,12 @@
     "sector": "Health Care",
     "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
     "latitude": 39.952566,
-    "longitude": -75.165222
+    "longitude": -75.165222,
+    "profits": {
+      "2010": -4146796,
+      "2011": -10029591,
+      "2012": -12332008
+    }
   },
   {
     "id": 1415404,
@@ -41769,7 +41843,12 @@
     "sector": "Technology",
     "industry": "Semiconductors",
     "latitude": 37.393356,
-    "longitude": -121.936866
+    "longitude": -121.936866,
+    "profits": {
+      "2010": 153200000,
+      "2011": 145500000,
+      "2012": 24600000
+    }
   },
   {
     "id": 1276262,
@@ -43572,7 +43651,11 @@
     "sector": "Finance",
     "industry": "Savings Institutions",
     "latitude": 36.26318,
-    "longitude": -93.134499
+    "longitude": -93.134499,
+    "profits": {
+      "2011": -1510000,
+      "2012": 755000
+    }
   },
   {
     "id": 1128227,
@@ -44178,7 +44261,12 @@
     "sector": "Finance",
     "industry": "Major Banks",
     "latitude": 35.557699,
-    "longitude": -77.060048
+    "longitude": -77.060048,
+    "profits": {
+      "2010": -2379797,
+      "2011": 1553309,
+      "2012": -10977121
+    }
   },
   {
     "id": 1543679,
@@ -51707,7 +51795,12 @@
     "sector": "Finance",
     "industry": "Major Banks",
     "latitude": 37.160106,
-    "longitude": -93.310298
+    "longitude": -93.310298,
+    "profits": {
+      "2010": 1130771,
+      "2011": 3835639,
+      "2012": 1943859
+    }
   },
   {
     "id": 1429592,
@@ -53856,7 +53949,11 @@
     "sector": "Consumer Services",
     "industry": "Other Consumer Services",
     "latitude": 40.74828,
-    "longitude": -73.984679
+    "longitude": -73.984679,
+    "profits": {
+      "2011": 202903,
+      "2012": 421693
+    }
   },
   {
     "id": 866829,
@@ -54212,7 +54309,12 @@
     "sector": "Consumer Services",
     "industry": "Real Estate Investment Trusts",
     "latitude": 40.274929,
-    "longitude": -76.897375
+    "longitude": -76.897375,
+    "profits": {
+      "2010": -21157000,
+      "2011": -35733000,
+      "2012": 8376000
+    }
   },
   {
     "id": 47111,
@@ -54279,7 +54381,11 @@
     "sector": "Health Care",
     "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
     "latitude": 40.43074,
-    "longitude": -105.00112
+    "longitude": -105.00112,
+    "profits": {
+      "2011": 2145000,
+      "2012": 1203000
+    }
   },
   {
     "id": 4447,
@@ -57859,7 +57965,12 @@
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
     "latitude": 37.61588,
-    "longitude": -122.05481
+    "longitude": -122.05481,
+    "profits": {
+      "2010": 182314000,
+      "2011": 65495000,
+      "2012": 55873000
+    }
   },
   {
     "id": 1494448,
@@ -58673,7 +58784,11 @@
     "sector": "Technology",
     "industry": "Retail: Computer Software & Peripheral Equipment",
     "latitude": 33.722885,
-    "longitude": -117.848092
+    "longitude": -117.848092,
+    "profits": {
+      "2011": 244240000,
+      "2012": 305909000
+    }
   },
   {
     "id": 1046257,
@@ -60407,7 +60522,11 @@
     "sector": "Miscellaneous",
     "industry": "Business Services",
     "latitude": 38.59096,
-    "longitude": -121.28239
+    "longitude": -121.28239,
+    "profits": {
+      "2011": 51169000,
+      "2012": -2726000
+    }
   },
   {
     "id": 728249,
@@ -65152,7 +65271,10 @@
     "sector": "Consumer Services",
     "industry": "Services-Misc. Amusement & Recreation",
     "latitude": 44.978247,
-    "longitude": -93.456303
+    "longitude": -93.456303,
+    "profits": {
+      "2012": 3221000
+    }
   },
   {
     "id": 707549,
@@ -65186,7 +65308,12 @@
     "sector": "Technology",
     "industry": "Advertising",
     "latitude": 30.4094,
-    "longitude": -91.1453
+    "longitude": -91.1453,
+    "profits": {
+      "2010": -40102000,
+      "2011": 8550000,
+      "2012": 9821000
+    }
   },
   {
     "id": 899045,
@@ -67710,7 +67837,12 @@
     "sector": "Consumer Durables",
     "industry": "Automotive Aftermarket",
     "latitude": 42.328226,
-    "longitude": -122.872543
+    "longitude": -122.872543,
+    "profits": {
+      "2010": 13719000,
+      "2011": 58860000,
+      "2012": 80362000
+    }
   },
   {
     "id": 1415332,
@@ -67787,7 +67919,11 @@
     "sector": "Technology",
     "industry": "EDP Services",
     "latitude": 36.05695,
-    "longitude": -115.15845
+    "longitude": -115.15845,
+    "profits": {
+      "2011": -5502248,
+      "2012": -1575208
+    }
   },
   {
     "id": 1102993,
@@ -70429,7 +70565,12 @@
     "sector": "Technology",
     "industry": "Semiconductors",
     "latitude": 39.527596,
-    "longitude": -99.141968
+    "longitude": -99.141968,
+    "profits": {
+      "2011": 904129000,
+      "2012": 615091000,
+      "2013": 306585000
+    }
   },
   {
     "id": 62996,
@@ -72025,7 +72166,12 @@
     "sector": "Consumer Services",
     "industry": "Advertising",
     "latitude": 40.364053,
-    "longitude": -74.953817
+    "longitude": -74.953817,
+    "profits": {
+      "2010": -6650650,
+      "2011": -12765818,
+      "2012": -10308338
+    }
   },
   {
     "id": 1262104,
@@ -77206,7 +77352,12 @@
     "sector": "Health Care",
     "industry": "Hospital/Nursing Management",
     "latitude": 35.84492,
-    "longitude": -86.391579
+    "longitude": -86.391579,
+    "profits": {
+      "2010": 52695000,
+      "2011": 64072000,
+      "2012": 57957000
+    }
   },
   {
     "id": 1023844,
@@ -82586,7 +82737,12 @@
     "sector": "Consumer Non-Durables",
     "industry": "Packaged Foods",
     "latitude": 29.744838,
-    "longitude": -95.560967
+    "longitude": -95.560967,
+    "profits": {
+      "2010": 18259000,
+      "2011": 34157000,
+      "2012": 4063000
+    }
   },
   {
     "id": 1285819,
@@ -86305,7 +86461,12 @@
     "sector": "Finance",
     "industry": "Commercial Banks",
     "latitude": 40.652297,
-    "longitude": -74.636956
+    "longitude": -74.636956,
+    "profits": {
+      "2010": 7664000,
+      "2011": 12168000,
+      "2012": 9696000
+    }
   },
   {
     "id": 1474098,
@@ -86720,7 +86881,12 @@
     "sector": "Finance",
     "industry": "Major Banks",
     "latitude": 35.659653,
-    "longitude": -81.229126
+    "longitude": -81.229126,
+    "profits": {
+      "2010": 1841000,
+      "2011": 5159000,
+      "2012": 5793000
+    }
   },
   {
     "id": 1485964,
@@ -87106,7 +87272,11 @@
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
     "latitude": 30.22803,
-    "longitude": -95.58044
+    "longitude": -95.58044,
+    "profits": {
+      "2011": 8347601,
+      "2012": -1410156
+    }
   },
   {
     "id": 820096,
@@ -94403,7 +94573,12 @@
     "sector": "Capital Goods",
     "industry": "Auto Parts:O.E.M.",
     "latitude": 40.00918,
-    "longitude": -85.77281
+    "longitude": -85.77281,
+    "profits": {
+      "2010": 16918000,
+      "2011": 71886000,
+      "2012": 138611000
+    }
   },
   {
     "id": 913144,
@@ -97038,7 +97213,12 @@
     "sector": "Consumer Durables",
     "industry": "Automotive Aftermarket",
     "latitude": 29.688162,
-    "longitude": -98.118365
+    "longitude": -98.118365,
+    "profits": {
+      "2010": 31282000,
+      "2011": 19383000,
+      "2012": 14218000
+    }
   },
   {
     "id": 1324272,
@@ -97587,7 +97767,12 @@
     "sector": "Finance",
     "industry": "Savings Institutions",
     "latitude": 41.967186,
-    "longitude": -73.43928
+    "longitude": -73.43928,
+    "profits": {
+      "2010": 1799000,
+      "2011": 3118000,
+      "2012": 711000
+    }
   },
   {
     "id": 1009356,
@@ -99218,7 +99403,12 @@
     "sector": "Basic Industries",
     "industry": "Major Chemicals",
     "latitude": 40.898,
-    "longitude": -74.12707
+    "longitude": -74.12707,
+    "profits": {
+      "2010": 254300000,
+      "2011": 148200000,
+      "2012": -1410800000
+    }
   },
   {
     "id": 748015,
@@ -101728,7 +101918,11 @@
     "sector": "Consumer Non-Durables",
     "industry": "Packaged Foods",
     "latitude": 15.1834,
-    "longitude": 145.725693
+    "longitude": 145.725693,
+    "profits": {
+      "2011": 926192,
+      "2012": 1012755
+    }
   },
   {
     "id": 1076939,
@@ -103118,7 +103312,11 @@
     "sector": "Finance",
     "industry": "Major Banks",
     "latitude": 32.8452,
-    "longitude": -79.8109
+    "longitude": -79.8109,
+    "profits": {
+      "2011": -16480000,
+      "2012": 3518000
+    }
   },
   {
     "id": 1547638,
@@ -105267,7 +105465,12 @@
     "sector": "Consumer Services",
     "industry": "Other Consumer Services",
     "latitude": 25.72092,
-    "longitude": -80.26887
+    "longitude": -80.26887,
+    "profits": {
+      "2010": 44323000,
+      "2011": 50935000,
+      "2012": 53102000
+    }
   },
   {
     "id": 911583,
@@ -105585,7 +105788,11 @@
     "sector": "Finance",
     "industry": "Major Banks",
     "latitude": 40.99899,
-    "longitude": -74.15271
+    "longitude": -74.15271,
+    "profits": {
+      "2011": 684000,
+      "2012": 520000
+    }
   },
   {
     "id": 94344,
@@ -110484,7 +110691,12 @@
     "sector": "Consumer Services",
     "industry": "Newspapers/Magazines",
     "latitude": 40.70742,
-    "longitude": -74.01113
+    "longitude": -74.01113,
+    "profits": {
+      "2010": -5334607,
+      "2011": -8184121,
+      "2012": -12714951
+    }
   },
   {
     "id": 1464963,
@@ -111318,7 +111530,12 @@
     "sector": "Finance",
     "industry": "Major Banks",
     "latitude": 42.4355,
-    "longitude": -76.5014
+    "longitude": -76.5014,
+    "profits": {
+      "2010": 33831000,
+      "2011": 35419000,
+      "2012": 31285000
+    }
   },
   {
     "id": 1389518,
@@ -111565,7 +111782,12 @@
     "sector": "Finance",
     "industry": "Major Banks",
     "latitude": 41.07946,
-    "longitude": -85.13851
+    "longitude": -85.13851,
+    "profits": {
+      "2010": -3748019,
+      "2011": -7094327,
+      "2012": -6566320
+    }
   },
   {
     "id": 1289592,
@@ -114639,7 +114861,12 @@
     "sector": "Finance",
     "industry": "Major Banks",
     "latitude": 40.91944,
-    "longitude": -84.05736
+    "longitude": -84.05736,
+    "profits": {
+      "2010": 2807682,
+      "2011": 2942645,
+      "2012": 4484817
+    }
   },
   {
     "id": 729986,
@@ -116593,7 +116820,11 @@
     "sector": "Consumer Non-Durables",
     "industry": "Apparel",
     "latitude": 36.1229,
-    "longitude": -79.797561
+    "longitude": -79.797561,
+    "profits": {
+      "2011": 24600000,
+      "2012": 27900000
+    }
   },
   {
     "id": 1080627,
@@ -119982,7 +120213,10 @@
     "sector": "Finance",
     "industry": "Savings Institutions",
     "latitude": 40.79924,
-    "longitude": -81.94023
+    "longitude": -81.94023,
+    "profits": {
+      "2012": 1722000
+    }
   },
   {
     "id": 945983,
@@ -120189,7 +120423,11 @@
     "sector": "Consumer Services",
     "industry": "Other Consumer Services",
     "latitude": 40.741679,
-    "longitude": -73.993696
+    "longitude": -73.993696,
+    "profits": {
+      "2011": 194235000,
+      "2012": 257426000
+    }
   },
   {
     "id": 828916,
@@ -120366,7 +120604,12 @@
     "sector": "Technology",
     "industry": "Radio And Television Broadcasting And Communications Equipment",
     "latitude": 41.790739,
-    "longitude": -87.855469
+    "longitude": -87.855469,
+    "profits": {
+      "2010": 190000,
+      "2011": 28000,
+      "2012": 164000
+    }
   },
   {
     "id": 1374694,
