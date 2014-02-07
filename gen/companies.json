@@ -26707,7 +26707,11 @@
     "sector": "Consumer Non-Durables",
     "industry": "Beverages (Production/Distribution)",
     "latitude": 40.653775,
-    "longitude": -74.015634
+    "longitude": -74.015634,
+    "profits": {
+      "2011": 811930,
+      "2012": 2485677
+    }
   },
   {
     "id": 1158324,
