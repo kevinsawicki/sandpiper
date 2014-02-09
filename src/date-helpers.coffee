@@ -90,4 +90,8 @@ exports.getYear = (date='') ->
       year = parseInt(match[1])
       return year unless isNaN(year)
 
+    if match = date.match/^y\d{2}$/i
+      year = parseInt("20#{match}")
+      return year unless isNaN(year)
+
     -1
