@@ -30,7 +30,7 @@ module.exports = (grunt) ->
 
       # Sanitize street2 values
       for {address} in companies
-        delete address.street2 if not address.street2
+        delete address.street2 unless address.street2
         delete address.street2 if address.street1 is address.street2
 
       companiesJson = JSON.stringify(companies, null, 2)
