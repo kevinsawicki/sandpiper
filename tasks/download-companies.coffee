@@ -17,13 +17,21 @@ module.exports = (grunt) ->
     downloadCompanies (error, companies) ->
       return done(error) if error?
 
+      if grunt.file.isFile('gen/companies.json')
+        existingCompanies = grunt.file.readJSON('gen/companies.json')
+      existingCompanies ?= []
+
+      companies = companies.filter ({symbol}) ->
+        for existing in existingCompanies when existing.symbol is symbol
+          return false
+        true
+
       progress = new ProgressBar('Mapping symbols to ids for :current/:total companies [:bar] :percent :eta seconds remaining', {
         incomplete: ' '
         width: 20
         total: companies.length
       })
 
-      companiesWithIds = []
       queue = async.queue (company, callback) ->
         idForSymbol company.symbol, (error, id) ->
           progress.tick(1)
@@ -31,16 +39,15 @@ module.exports = (grunt) ->
 
           if id
             company.id = id
-            companiesWithIds.push(company)
-            companiesJson = JSON.stringify(companiesWithIds, null, 2)
-            grunt.file.write 'gen/companies.json', companiesJson
+            existingCompanies.push(company)
+            companiesJson = JSON.stringify(existingCompanies, null, 2)
+            grunt.file.write('gen/companies.json', companiesJson)
 
           callback()
 
       queue.push(company) for company in companies
-      queue.concurrency = 10
+      queue.concurrency = 25
       queue.drain = done
-
 
 # Download a master company list from all exchanges
 downloadCompanies = (callback) ->
