@@ -6,5 +6,4 @@ module.exports = (grunt) ->
   grunt.registerTask 'default', [
     'download-companies'
     'download-addresses'
-    'download-exchange-symbols'
   ]
