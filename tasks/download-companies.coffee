@@ -11,7 +11,7 @@ xpath       = require 'xpath'
 #
 # Currently the NASDAQ, NYSE, and AMEX exchanges are used.
 module.exports = (grunt) ->
-  grunt.registerTask 'download-exchange-symbols', 'Download all company symbols and exchange names', ->
+  grunt.registerTask 'download-companies', 'Download all companies on a major stock exchange', ->
     done = @async()
 
     downloadCompanies (error, companies) ->
