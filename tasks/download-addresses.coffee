@@ -1,3 +1,4 @@
+_           = require 'underscore'
 async       = require 'async'
 {DOMParser} = require 'xmldom'
 ProgressBar = require 'progress'
@@ -36,9 +37,11 @@ module.exports = (grunt) ->
           delete address.street2 unless address.street2
           delete address.street2 if address.street1 is address.street2
 
-          company.address = address
-          companiesJson = JSON.stringify(companies, null, 2)
-          grunt.file.write 'gen/companies.json', companiesJson
+          # Only include addresses where at least one value is set
+          if _.values(address).join('')
+            company.address = address
+            companiesJson = JSON.stringify(companies, null, 2)
+            grunt.file.write 'gen/companies.json', companiesJson
 
           callback()
 
