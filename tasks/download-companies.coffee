@@ -26,6 +26,8 @@ module.exports = (grunt) ->
           return false
         true
 
+      existingCompanies = existingCompanies.filter ({id}) -> id
+
       progress = new ProgressBar('Mapping symbols to ids for :current/:total companies [:bar] :percent :eta seconds remaining', {
         incomplete: ' '
         width: 20
