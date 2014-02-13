@@ -1,12 +1,24 @@
 xpath = require 'xpath'
 
+currentYear = new Date().getFullYear()
+
+isInLastFiveYears = (year) ->
+  currentYear - 5 <= year <= currentYear
+
+parseYear = (year) ->
+  year = parseInt(year)
+  return year if isInLastFiveYears(year)
+
 yearFromRange = (fromDate, toDate) ->
-  return null if isNaN(fromDate)
-  return null if isNaN(toDate)
+  return if isNaN(fromDate)
+  return if isNaN(toDate)
 
   day = 24 * 60 * 60 * 1000
   days = (toDate - fromDate) / day
-  return new Date(toDate).getFullYear() if 360 < days < 370
+  return unless 360 < days < 370
+
+  year = new Date(toDate).getFullYear()
+  return year if isInLastFiveYears(year)
 
 exports.yearOfNode = (node) ->
   exports.getYear(xpath.select('@contextRef', node)[0]?.value)
@@ -55,43 +67,33 @@ exports.getYear = (date='') ->
       return year if year = yearFromRange(fromDate, toDate)
 
     if match = date.match(/d_12m_(\d{4})_\d{1,2}_\d{1,2}/i)
-      year = parseInt(match[1])
-      return year unless isNaN(year)
+      return year if year = parseYear(match[1])
 
     if match = date.match(/d_ye_(\d{4})_12_31/i)
-      year = parseInt(match[1])
-      return year unless isNaN(year)
+      return year if year = parseYear(match[1])
 
     if match = date.match(/^Context_FYE_\d{2}-[a-zA-Z]+-(\d{4})$/)
-      year = parseInt(match[1])
-      return year unless isNaN(year)
+      return year if year = parseYear(match[1])
 
     if match = date.match(/^TwelveMonthsEnded_\d{2}[a-zA-Z]+(\d{4})$/)
-      year = parseInt(match[1])
-      return year unless isNaN(year)
+      return year if year = parseYear(match[1])
 
     if match = date.match(/^TwelveMonthEnded_\d{2}[a-zA-Z]+(\d{4})$/)
-      year = parseInt(match[1])
-      return year unless isNaN(year)
+      return year if year = parseYear(match[1])
 
     if match = date.match(/^d(\d{4})$/i)
-      year = parseInt(match[1])
-      return year unless isNaN(year)
+      return year if year = parseYear(match[1])
 
     if match = date.match(/^d(\d{4})q4(ytd)?$/i)
-      year = parseInt(match[1])
-      return year unless isNaN(year)
+      return year if year = parseYear(match[1])
 
     if match = date.match(/STD_3\d\d_(\d{4})\d{4}/)
-      year = parseInt(match[1])
-      return year unless isNaN(year)
+      return year if year = parseYear(match[1])
 
     if match = date.match(/D12ME(\d{4})/)
-      year = parseInt(match[1])
-      return year unless isNaN(year)
+      return year if year = parseYear(match[1])
 
     if match = date.match(/^y\d{2}$/i)
-      year = parseInt("20#{match}")
-      return year unless isNaN(year)
+      return year if year = parseYear("20#{match}")
 
     -1
