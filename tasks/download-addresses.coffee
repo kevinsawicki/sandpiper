@@ -8,7 +8,10 @@ xpath       = require 'xpath'
 module.exports = (grunt) ->
   grunt.registerTask 'download-addresses', 'Download addresses for all companies', ->
     companies = grunt.file.readJSON('gen/companies.json')
-    companiesWithoutAddresses = companies.filter ({address}) -> not address?
+    if companyId = parseInt(grunt.option('company-id'))
+      companiesWithoutAddresses = companies.filter ({id}) -> id is companyId
+    else
+      companiesWithoutAddresses = companies.filter ({address}) -> not address?
     return if companiesWithoutAddresses.length is 0
 
     done = @async()
