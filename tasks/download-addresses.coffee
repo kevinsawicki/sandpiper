@@ -7,18 +7,24 @@ xpath       = require 'xpath'
 # Task to download the addresses of all companies
 module.exports = (grunt) ->
   grunt.registerTask 'download-addresses', 'Download addresses for all companies', ->
-    done = @async()
-
     companies = grunt.file.readJSON('gen/companies.json')
     companiesWithoutAddresses = companies.filter ({address}) -> not address?
+    return if companiesWithoutAddresses.length is 0
 
+    done = @async()
     progress = new ProgressBar('Downloading :total addresses [:bar] :percent :eta seconds remaining', {
       incomplete: ' '
       width: 20
       total: companiesWithoutAddresses.length
     })
-    loadAddress = (company, callback) ->
+
+    queue = async.queue (company, callback) ->
       getAddress company, (error, address) ->
+        if error?.retry
+          queue.push(company)
+          callback()
+          return
+
         progress.tick(1)
         if error?
           callback(error)
@@ -33,12 +39,15 @@ module.exports = (grunt) ->
 
           callback()
 
-    async.each(companiesWithoutAddresses, loadAddress, done)
+    queue.push(company) for company in companiesWithoutAddresses
+    queue.concurrency = 25
+    queue.drain = done
 
 # Get the corporate address for the given company
 getAddress = ({id}, callback) ->
   url = "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&output=atom&start=0&count=1&CIK=#{id}"
   request url, (error, response, body='') ->
+    error.retry = true if error?.code is 'ECONNRESET'
     return callback(error) if error?
 
     if response.headers['content-type'] is 'application/atom+xml'
@@ -53,4 +62,6 @@ getAddress = ({id}, callback) ->
       zip = xpath.select('zip/text()', address).toString()
       callback(null, {street1, street2, city, state, zip})
     else
-      callback(new Error("No address for #{id}: #{url}\n#{body}"))
+      error = new Error("No address for #{id} (#{response.statusCode}): #{url}\n#{body}")
+      error.retry = response.statusCode is 408
+      callback(error)
