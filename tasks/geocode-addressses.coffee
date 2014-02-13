@@ -7,6 +7,9 @@ request     = require 'request'
 # key to use for API requests.
 module.exports = (grunt) ->
   grunt.registerTask 'geocode-addresses', 'Geocode addresses for all companies', ->
+    unless process.env.MAPQUEST_APP_KEY
+      return grunt.warn('Must set MAPQUEST_APP_KEY environment variable.')
+
     done = @async()
 
     companies = grunt.file.readJSON('gen/companies.json')
