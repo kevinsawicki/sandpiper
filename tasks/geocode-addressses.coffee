@@ -13,8 +13,11 @@ module.exports = (grunt) ->
     done = @async()
 
     companies = grunt.file.readJSON('gen/companies.json')
-    companiesWithoutLocations = companies.filter ({latitude, longitude}) ->
-      not latitude? or not longitude?
+    if companyId = parseInt(grunt.option('company-id'))
+      companiesWithoutLocations = companies.filter ({id}) -> id is companyId
+    else
+      companiesWithoutLocations = companies.filter ({latitude, longitude}) ->
+        not latitude? or not longitude?
 
     progress = new ProgressBar('Geocoding :total addresses [:bar] :percent :eta seconds remaining', {
       incomplete: ' '
