@@ -81,15 +81,15 @@ downloadProfits = (report, callback) ->
 
 # Attempt to parse the yearly profits from the document using the element name.
 profitsForElement = (document, elementName) ->
-  nodes = xpath.select("//*[local-name() = '#{elementName}']", document)
+  nodes = xpath.select("//*[local-name()='#{elementName}']", document)
   profits = null
   for node in nodes when node.prefix is 'us-gaap'
     profit = parseFloat(node.firstChild?.data)
     continue if isNaN(profit)
 
-    if year = dates.yearOfNode(node)
+    if year = dates.yearOfNode(document, node)
       profits ?= {}
-      profits[year] = profit
+      profits[year] ?= profit
 
   profits
 
