@@ -24,7 +24,7 @@ exports.yearOfNode = (node) ->
   exports.getYear(xpath.select('@contextRef', node)[0]?.value)
 
 exports.getYear = (date='') ->
-    return -1 unless date
+    return null unless date
 
     if match = date.match(/^from_([a-z]+\d{2})_(\d{4})_to_([a-z]+\d{2})_(\d{4})$/i)
       fromDate = Date.parse("#{match[1]} #{match[2]}")
@@ -96,4 +96,4 @@ exports.getYear = (date='') ->
     if match = date.match(/^y\d{2}$/i)
       return year if year = parseYear("20#{match}")
 
-    -1
+    null

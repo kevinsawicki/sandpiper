@@ -90,8 +90,7 @@ profitsForElement = (document, elementName) ->
     profit = parseFloat(node.firstChild?.data)
     continue if isNaN(profit)
 
-    year = dates.yearOfNode(node)
-    if year isnt -1
+    if year = dates.yearOfNode(node)
       profits ?= {}
       profits[year] = profit
 
