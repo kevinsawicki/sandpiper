@@ -23,6 +23,10 @@ module.exports = (grunt) ->
     for company in companies
       company.name = company.name.replace(/\s+Corporation$/, '')
 
+    # Remove trailing Incorporated from names
+    for company in companies
+      company.name = company.name.replace(/\s+Incorporated$/, '')
+
     # Remove trailing Corp. from names
     for company in companies
       company.name = company.name.replace(/\s+Corp\.$/, '')
