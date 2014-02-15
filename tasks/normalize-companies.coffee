@@ -7,10 +7,6 @@ module.exports = (grunt) ->
     companies.sort (company1, company2) ->
       company1.name.localeCompare(company2.name)
 
-    # Remove null ipoYear values
-    for company in companies when not company.ipoYear?
-      delete company.ipoYear
-
     # Remove escaped apostrophes from names
     for company in companies
       company.name = company.name.replace('&#39;', '\'')

@@ -41,6 +41,7 @@ module.exports = (grunt) ->
 
           if id
             company.id = id
+            delete company.ipoYear unless company.ipoYear
             existingCompanies.push(company)
             companiesJson = JSON.stringify(existingCompanies, null, 2)
             grunt.file.write('gen/companies.json', companiesJson)
