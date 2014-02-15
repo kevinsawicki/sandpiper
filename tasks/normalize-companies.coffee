@@ -17,7 +17,23 @@ module.exports = (grunt) ->
 
     # Remove trailing Inc. from names
     for company in companies
-      company.name = company.name.replace(/\s*,?\s*Inc\.?$/, '')
+      company.name = company.name.replace(/\s*,?\s+Inc\.?$/, '')
+
+    # Remove trailing Corporation from names
+    for company in companies
+      company.name = company.name.replace(/\s+Corporation$/, '')
+
+    # Remove trailing Corp. from names
+    for company in companies
+      company.name = company.name.replace(/\s+Corp\.$/, '')
+
+    # Remove trailing L.P. from names
+    for company in companies
+      company.name = company.name.replace(/\s*,?\s+L\.P\.$/, '')
+
+    # Remove trailing Co. from names
+    for company in companies
+      company.name = company.name.replace(/\s*,?\s+Co\.$/, '')
 
     companiesJson = JSON.stringify(companies, null, 2)
     grunt.file.write 'gen/companies.json', "#{companiesJson}\n"
