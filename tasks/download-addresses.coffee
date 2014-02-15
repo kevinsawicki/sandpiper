@@ -36,6 +36,7 @@ module.exports = (grunt) ->
           # Sanitize street2 values
           delete address.street2 unless address.street2
           delete address.street2 if address.street1 is address.street2
+          delete address.zip unless address.zip
 
           # Only include addresses where at least one value is set
           if _.values(address).join('')
