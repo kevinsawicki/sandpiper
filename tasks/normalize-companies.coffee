@@ -11,10 +11,6 @@ module.exports = (grunt) ->
     for company in companies when not company.ipoYear?
       delete company.ipoYear
 
-    # Remove empty zip codes from addresses
-    for {address} in companies when address? and not address.zip
-      delete address.zip
-
     # Remove escaped apostrophes from names
     for company in companies
       company.name = company.name.replace('&#39;', '\'')
