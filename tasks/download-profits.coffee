@@ -35,11 +35,13 @@ module.exports = (grunt) ->
       })
 
       queue = async.queue (report, callback) ->
-        downloadProfits report, (error) ->
+        downloadProfits report, (error, profits) ->
           progress.tick(1)
 
-          companiesJson = JSON.stringify(companies, null, 2)
-          grunt.file.write 'gen/companies.json', companiesJson
+          if profits?
+            report.company.profits = profits
+            companiesJson = JSON.stringify(companies, null, 2)
+            grunt.file.write 'gen/companies.json', companiesJson
 
           callback(error)
 
@@ -71,16 +73,11 @@ downloadProfits = (report, callback) ->
         'IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest'
         'ProfitLoss'
       ]
-
       for element in elements
         if profits = profitsForElement(document, element)
-          report.company.profits = profits
-          break
+          return callback(null, profits)
 
-      if report.company.profits?
-        callback()
-      else
-        callback(new Error("Could not parse profits for #{report.company.name} (#{report.company.id}): #{reportUri}"))
+      callback(new Error("Could not parse profits for #{report.company.name} (#{report.company.id}): #{reportUri}"))
 
 # Attempt to parse the yearly profits from the document using the element name.
 profitsForElement = (document, elementName) ->
