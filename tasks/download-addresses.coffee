@@ -33,7 +33,7 @@ module.exports = (grunt) ->
         if error?
           callback(error)
         else
-          # Sanitize street2 values
+          # Sanitize address values
           delete address.street2 unless address.street2
           delete address.street2 if address.street1 is address.street2
           delete address.zip unless address.zip
