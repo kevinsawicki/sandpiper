@@ -371,7 +371,7 @@
   },
   {
     "symbol": "ABM",
-    "name": "ABM Industries Incorporated",
+    "name": "ABM Industries",
     "sector": "Finance",
     "industry": "Diversified Commercial Services",
     "exchange": "nyse",
@@ -535,8 +535,6 @@
     "symbol": "MITT",
     "name": "AG Mortgage Investment Trust",
     "ipoYear": 2011,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1514281,
     "address": {
@@ -628,8 +626,6 @@
   {
     "symbol": "ACG",
     "name": "ALLIANCEBERNSTEIN INCOME FUND INC",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 816754,
     "address": {
@@ -1073,8 +1069,6 @@
   {
     "symbol": "ASA",
     "name": "ASA Gold and Precious Metals Limited",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1230869,
     "address": {
@@ -1335,7 +1329,7 @@
   },
   {
     "symbol": "AZZ",
-    "name": "AZZ Incorporated",
+    "name": "AZZ",
     "sector": "Consumer Durables",
     "industry": "Building Products",
     "exchange": "nyse",
@@ -1706,7 +1700,7 @@
   },
   {
     "symbol": "ARAY",
-    "name": "Accuray Incorporated",
+    "name": "Accuray",
     "ipoYear": 2007,
     "sector": "Health Care",
     "industry": "Medical/Dental Instruments",
@@ -2095,8 +2089,6 @@
   {
     "symbol": "ADX",
     "name": "Adams Express Company",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 2230,
     "address": {
@@ -2219,7 +2211,7 @@
   },
   {
     "symbol": "ADBE",
-    "name": "Adobe Systems Incorporated",
+    "name": "Adobe Systems",
     "ipoYear": 1986,
     "sector": "Technology",
     "industry": "Computer Software: Prepackaged Software",
@@ -2380,8 +2372,6 @@
     "symbol": "AVK",
     "name": "Advent Claymore Convertible Securities and Income Fund",
     "ipoYear": 2003,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1219120,
     "address": {
@@ -2397,8 +2387,6 @@
     "symbol": "AGC",
     "name": "Advent Claymore Convertible Securities and Income Fund II",
     "ipoYear": 2007,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1219120,
     "address": {
@@ -2436,8 +2424,6 @@
     "symbol": "LCM",
     "name": "Advent/Claymore Enhanced Growth & Income Fund",
     "ipoYear": 2005,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1278460,
     "address": {
@@ -2767,7 +2753,7 @@
   },
   {
     "symbol": "ATRM",
-    "name": "Aetrium Incorporated",
+    "name": "Aetrium",
     "ipoYear": 1993,
     "sector": "Capital Goods",
     "industry": "Electrical Products",
@@ -2785,22 +2771,6 @@
       "2011": -4747519,
       "2012": -6111168
     }
-  },
-  {
-    "symbol": "AFM",
-    "name": "Affiliated Managers Group",
-    "sector": "Finance",
-    "industry": "Investment Managers",
-    "exchange": "nyse",
-    "id": 1004434,
-    "address": {
-      "street1": "600 HALE STREET",
-      "city": "PRIDES CROSSING",
-      "state": "MA",
-      "zip": "01965"
-    },
-    "latitude": 42.5592,
-    "longitude": -70.8281
   },
   {
     "symbol": "MGR",
@@ -2841,6 +2811,22 @@
     }
   },
   {
+    "symbol": "AFM",
+    "name": "Affiliated Managers Group",
+    "sector": "Finance",
+    "industry": "Investment Managers",
+    "exchange": "nyse",
+    "id": 1004434,
+    "address": {
+      "street1": "600 HALE STREET",
+      "city": "PRIDES CROSSING",
+      "state": "MA",
+      "zip": "01965"
+    },
+    "latitude": 42.5592,
+    "longitude": -70.8281
+  },
+  {
     "symbol": "AFFX",
     "name": "Affymetrix",
     "ipoYear": 1996,
@@ -2863,8 +2849,8 @@
     }
   },
   {
-    "symbol": "AFL",
-    "name": "Aflac Incorporated",
+    "symbol": "AFSD",
+    "name": "Aflac",
     "sector": "Finance",
     "industry": "Accident &Health Insurance",
     "exchange": "nyse",
@@ -2879,8 +2865,8 @@
     "longitude": -84.964493
   },
   {
-    "symbol": "AFSD",
-    "name": "Aflac Incorporated",
+    "symbol": "AFL",
+    "name": "Aflac",
     "sector": "Finance",
     "industry": "Accident &Health Insurance",
     "exchange": "nyse",
@@ -3397,11 +3383,11 @@
     "longitude": -96.8966
   },
   {
-    "symbol": "AA",
+    "symbol": "AA^",
     "name": "Alcoa",
     "sector": "Capital Goods",
     "industry": "Metal Fabrications",
-    "exchange": "nyse",
+    "exchange": "amex",
     "id": 4281,
     "address": {
       "street1": "201 ISABELLA ST",
@@ -3413,11 +3399,11 @@
     "longitude": -80.001979
   },
   {
-    "symbol": "AA^",
+    "symbol": "AA",
     "name": "Alcoa",
     "sector": "Capital Goods",
     "industry": "Metal Fabrications",
-    "exchange": "amex",
+    "exchange": "nyse",
     "id": 4281,
     "address": {
       "street1": "201 ISABELLA ST",
@@ -3688,7 +3674,7 @@
   },
   {
     "symbol": "ATI",
-    "name": "Allegheny Technologies Incorporated",
+    "name": "Allegheny Technologies",
     "sector": "Basic Industries",
     "industry": "Steel/Iron Ore",
     "exchange": "nyse",
@@ -3812,8 +3798,6 @@
     "symbol": "AKP",
     "name": "Alliance California Municipal Income Fund",
     "ipoYear": 2002,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1162028,
     "address": {
@@ -3916,8 +3900,6 @@
     "symbol": "AYN",
     "name": "Alliance New York Municipal Income Fund",
     "ipoYear": 2002,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1162030,
     "address": {
@@ -4029,8 +4011,6 @@
     "symbol": "NCV",
     "name": "AllianzGI Convertible & Income Fund",
     "ipoYear": 2003,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1214935,
     "address": {
@@ -4046,8 +4026,6 @@
     "symbol": "NCZ",
     "name": "AllianzGI Convertible & Income Fund II",
     "ipoYear": 2003,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1227857,
     "address": {
@@ -4063,8 +4041,6 @@
     "symbol": "NIE",
     "name": "AllianzGI Equity & Convertible Income Fund",
     "ipoYear": 2007,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1383441,
     "address": {
@@ -4944,22 +4920,6 @@
     "longitude": -75.407287
   },
   {
-    "symbol": "ASRVP",
-    "name": "AmeriServ Financial",
-    "sector": "Finance",
-    "industry": "Major Banks",
-    "exchange": "nasdaq",
-    "id": 707605,
-    "address": {
-      "street1": "MAIN &amp; FRANKLIN STS",
-      "city": "JOHNSTOWN",
-      "state": "PA",
-      "zip": "15907"
-    },
-    "latitude": 40.3259,
-    "longitude": -78.917
-  },
-  {
     "symbol": "ASRV",
     "name": "AmeriServ Financial",
     "sector": "Finance",
@@ -4979,6 +4939,22 @@
       "2011": 6537000,
       "2012": 5039000
     }
+  },
+  {
+    "symbol": "ASRVP",
+    "name": "AmeriServ Financial",
+    "sector": "Finance",
+    "industry": "Major Banks",
+    "exchange": "nasdaq",
+    "id": 707605,
+    "address": {
+      "street1": "MAIN &amp; FRANKLIN STS",
+      "city": "JOHNSTOWN",
+      "state": "PA",
+      "zip": "15907"
+    },
+    "latitude": 40.3259,
+    "longitude": -78.917
   },
   {
     "symbol": "ASBI",
@@ -5022,11 +4998,11 @@
     }
   },
   {
-    "symbol": "AMX",
+    "symbol": "AMOV",
     "name": "America Movil, S.A.B. de C.V.",
     "sector": "Public Utilities",
     "industry": "Telecommunications Equipment",
-    "exchange": "nyse",
+    "exchange": "nasdaq",
     "id": 1129137,
     "address": {
       "street1": "LAGO ZURICH 245",
@@ -5038,11 +5014,11 @@
     "longitude": -99.141968
   },
   {
-    "symbol": "AMOV",
+    "symbol": "AMX",
     "name": "America Movil, S.A.B. de C.V.",
     "sector": "Public Utilities",
     "industry": "Telecommunications Equipment",
-    "exchange": "nasdaq",
+    "exchange": "nyse",
     "id": 1129137,
     "address": {
       "street1": "LAGO ZURICH 245",
@@ -5172,22 +5148,6 @@
     }
   },
   {
-    "symbol": "AGNCP",
-    "name": "American Capital Agency",
-    "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts",
-    "exchange": "nasdaq",
-    "id": 1423689,
-    "address": {
-      "street1": "2 BETHESDA METRO CENTER 14TH FLOOR",
-      "city": "BETHESDA",
-      "state": "MD",
-      "zip": "20814"
-    },
-    "latitude": 38.98406,
-    "longitude": -77.096237
-  },
-  {
     "symbol": "AGNC",
     "name": "American Capital Agency",
     "ipoYear": 2008,
@@ -5208,6 +5168,22 @@
       "2011": 770000000,
       "2012": 1277000000
     }
+  },
+  {
+    "symbol": "AGNCP",
+    "name": "American Capital Agency",
+    "sector": "Consumer Services",
+    "industry": "Real Estate Investment Trusts",
+    "exchange": "nasdaq",
+    "id": 1423689,
+    "address": {
+      "street1": "2 BETHESDA METRO CENTER 14TH FLOOR",
+      "city": "BETHESDA",
+      "state": "MD",
+      "zip": "20814"
+    },
+    "latitude": 38.98406,
+    "longitude": -77.096237
   },
   {
     "symbol": "MTGE",
@@ -5233,8 +5209,6 @@
     "symbol": "ACAS",
     "name": "American Capital, Ltd.",
     "ipoYear": 1997,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 817473,
     "address": {
@@ -5387,9 +5361,8 @@
     "longitude": -84.5066
   },
   {
-    "symbol": "AFA",
+    "symbol": "AFQ",
     "name": "American Financial Group",
-    "ipoYear": 2012,
     "sector": "Finance",
     "industry": "Property-Casualty Insurers",
     "exchange": "nyse",
@@ -5420,8 +5393,9 @@
     "longitude": -84.5066
   },
   {
-    "symbol": "AFQ",
+    "symbol": "AFA",
     "name": "American Financial Group",
+    "ipoYear": 2012,
     "sector": "Finance",
     "industry": "Property-Casualty Insurers",
     "exchange": "nyse",
@@ -5492,8 +5466,6 @@
   {
     "symbol": "XAA",
     "name": "American Municipal Income Portfolio",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 902750,
     "address": {
@@ -5697,8 +5669,6 @@
   {
     "symbol": "SLA",
     "name": "American Select Portfolio",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 908785,
     "address": {
@@ -5787,8 +5757,6 @@
   {
     "symbol": "ASP",
     "name": "American Strategic Income Portfolio",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 878930,
     "address": {
@@ -5803,8 +5771,6 @@
   {
     "symbol": "BSP",
     "name": "American Strategic Income Portfolio II",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 886984,
     "address": {
@@ -5820,8 +5786,6 @@
     "symbol": "CSP",
     "name": "American Strategic Income Portfolio III",
     "ipoYear": 1993,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 896161,
     "address": {
@@ -6734,24 +6698,6 @@
     "symbol": "AIY",
     "name": "Apollo Investment",
     "ipoYear": 2013,
-    "sector": "n/a",
-    "industry": "n/a",
-    "exchange": "nyse",
-    "id": 1278752,
-    "address": {
-      "street1": "1301 AVENUE OF THE AMERICAS",
-      "city": "NEW YORK",
-      "state": "NY",
-      "zip": "10019"
-    },
-    "latitude": 40.761183,
-    "longitude": -73.979485
-  },
-  {
-    "symbol": "AIB",
-    "name": "Apollo Investment",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1278752,
     "address": {
@@ -6767,9 +6713,21 @@
     "symbol": "AINV",
     "name": "Apollo Investment",
     "ipoYear": 2004,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
+    "id": 1278752,
+    "address": {
+      "street1": "1301 AVENUE OF THE AMERICAS",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zip": "10019"
+    },
+    "latitude": 40.761183,
+    "longitude": -73.979485
+  },
+  {
+    "symbol": "AIB",
+    "name": "Apollo Investment",
+    "exchange": "nyse",
     "id": 1278752,
     "address": {
       "street1": "1301 AVENUE OF THE AMERICAS",
@@ -6991,9 +6949,9 @@
     }
   },
   {
-    "symbol": "AQUUW",
+    "symbol": "AQUUU",
     "name": "Aquasition",
-    "ipoYear": 2013,
+    "ipoYear": 2012,
     "sector": "Finance",
     "industry": "Business Services",
     "exchange": "nasdaq",
@@ -7025,9 +6983,9 @@
     "longitude": -99.141968
   },
   {
-    "symbol": "AQUUU",
+    "symbol": "AQUUW",
     "name": "Aquasition",
-    "ipoYear": 2012,
+    "ipoYear": 2013,
     "sector": "Finance",
     "industry": "Business Services",
     "exchange": "nasdaq",
@@ -7141,7 +7099,7 @@
     "longitude": -73.974314
   },
   {
-    "symbol": "MTCN",
+    "symbol": "MT",
     "name": "ArcelorMittal",
     "sector": "Basic Industries",
     "industry": "Steel/Iron Ore",
@@ -7157,7 +7115,7 @@
     "longitude": -92.0028
   },
   {
-    "symbol": "MT",
+    "symbol": "MTCN",
     "name": "ArcelorMittal",
     "sector": "Basic Industries",
     "industry": "Steel/Iron Ore",
@@ -7305,8 +7263,6 @@
   {
     "symbol": "ARY",
     "name": "Ares Capital",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1287750,
     "address": {
@@ -7319,10 +7275,22 @@
     "longitude": -73.97558
   },
   {
-    "symbol": "ARU",
+    "symbol": "AFC",
     "name": "Ares Capital",
-    "sector": "n/a",
-    "industry": "n/a",
+    "exchange": "nyse",
+    "id": 3906,
+    "address": {
+      "street1": "1919 PENNSYLVANIA AVENUE NW",
+      "city": "WASHINGTON",
+      "state": "DC",
+      "zip": "20006"
+    },
+    "latitude": 38.90045,
+    "longitude": -77.04417
+  },
+  {
+    "symbol": "ARN",
+    "name": "Ares Capital",
     "exchange": "nyse",
     "id": 1287750,
     "address": {
@@ -7338,8 +7306,6 @@
     "symbol": "ARCC",
     "name": "Ares Capital",
     "ipoYear": 2004,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1287750,
     "address": {
@@ -7352,10 +7318,8 @@
     "longitude": -73.97558
   },
   {
-    "symbol": "ARN",
+    "symbol": "ARU",
     "name": "Ares Capital",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1287750,
     "address": {
@@ -7366,22 +7330,6 @@
     },
     "latitude": 40.75481,
     "longitude": -73.97558
-  },
-  {
-    "symbol": "AFC",
-    "name": "Ares Capital",
-    "sector": "n/a",
-    "industry": "n/a",
-    "exchange": "nyse",
-    "id": 3906,
-    "address": {
-      "street1": "1919 PENNSYLVANIA AVENUE NW",
-      "city": "WASHINGTON",
-      "state": "DC",
-      "zip": "20006"
-    },
-    "latitude": 38.90045,
-    "longitude": -77.04417
   },
   {
     "symbol": "ACRE",
@@ -7417,6 +7365,22 @@
     "longitude": -77.144828
   },
   {
+    "symbol": "AGIIL",
+    "name": "Argo Group International Holdings, Ltd.",
+    "sector": "Finance",
+    "industry": "Specialty Insurers",
+    "exchange": "nasdaq",
+    "id": 1091748,
+    "address": {
+      "street1": "110 PITTS BAY ROAD",
+      "city": "PEMBROKE",
+      "state": "D0",
+      "zip": "HM 08"
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
+  },
+  {
     "symbol": "AGII",
     "name": "Argo Group International Holdings, Ltd.",
     "sector": "Finance",
@@ -7436,22 +7400,6 @@
       "2011": -81900000,
       "2012": 52300000
     }
-  },
-  {
-    "symbol": "AGIIL",
-    "name": "Argo Group International Holdings, Ltd.",
-    "sector": "Finance",
-    "industry": "Specialty Insurers",
-    "exchange": "nasdaq",
-    "id": 1091748,
-    "address": {
-      "street1": "110 PITTS BAY ROAD",
-      "city": "PEMBROKE",
-      "state": "D0",
-      "zip": "HM 08"
-    },
-    "latitude": 39.527596,
-    "longitude": -99.141968
   },
   {
     "symbol": "ARKR",
@@ -7983,22 +7931,6 @@
     "longitude": -71.21695
   },
   {
-    "symbol": "ASBCW",
-    "name": "Associated Banc-Corp",
-    "sector": "Finance",
-    "industry": "Major Banks",
-    "exchange": "nasdaq",
-    "id": 7789,
-    "address": {
-      "street1": "433 MAIN STREET",
-      "city": "GREEN BAY",
-      "state": "WI",
-      "zip": "54301"
-    },
-    "latitude": 44.51666,
-    "longitude": -88.00921
-  },
-  {
     "symbol": "ASBC",
     "name": "Associated Banc-Corp",
     "sector": "Finance",
@@ -8018,6 +7950,22 @@
       "2011": 139699000,
       "2012": 178973000
     }
+  },
+  {
+    "symbol": "ASBCW",
+    "name": "Associated Banc-Corp",
+    "sector": "Finance",
+    "industry": "Major Banks",
+    "exchange": "nasdaq",
+    "id": 7789,
+    "address": {
+      "street1": "433 MAIN STREET",
+      "city": "GREEN BAY",
+      "state": "WI",
+      "zip": "54301"
+    },
+    "latitude": 44.51666,
+    "longitude": -88.00921
   },
   {
     "symbol": "AEC",
@@ -9126,9 +9074,8 @@
     "longitude": -87.63561
   },
   {
-    "symbol": "AVV",
+    "symbol": "AV",
     "name": "Aviva plc",
-    "ipoYear": 2011,
     "sector": "Finance",
     "industry": "Life Insurance",
     "exchange": "nyse",
@@ -9143,8 +9090,9 @@
     "longitude": -99.141968
   },
   {
-    "symbol": "AV",
+    "symbol": "AVV",
     "name": "Aviva plc",
+    "ipoYear": 2011,
     "sector": "Finance",
     "industry": "Life Insurance",
     "exchange": "nyse",
@@ -9926,8 +9874,6 @@
   {
     "symbol": "MCI",
     "name": "Babson Capital Corporate Investors",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 275694,
     "address": {
@@ -10016,7 +9962,7 @@
   },
   {
     "symbol": "BHI",
-    "name": "Baker Hughes Incorporated",
+    "name": "Baker Hughes",
     "sector": "Energy",
     "industry": "Metal Fabrications",
     "exchange": "nyse",
@@ -10052,7 +9998,7 @@
     "longitude": -74.4227
   },
   {
-    "symbol": "BWINB",
+    "symbol": "BWINA",
     "name": "Baldwin & Lyons",
     "sector": "Finance",
     "industry": "Property-Casualty Insurers",
@@ -10068,7 +10014,7 @@
     "longitude": -86.15754
   },
   {
-    "symbol": "BWINA",
+    "symbol": "BWINB",
     "name": "Baldwin & Lyons",
     "sector": "Finance",
     "industry": "Property-Casualty Insurers",
@@ -10186,22 +10132,6 @@
     "longitude": -75.574414
   },
   {
-    "symbol": "BANC",
-    "name": "Banc of California",
-    "sector": "Finance",
-    "industry": "Major Banks",
-    "exchange": "nasdaq",
-    "id": 1169770,
-    "address": {
-      "street1": "18500 VON KARMAN",
-      "city": "IRVINE",
-      "state": "CA",
-      "zip": "92612"
-    },
-    "latitude": 33.676803,
-    "longitude": -117.852987
-  },
-  {
     "symbol": "BANCP",
     "name": "Banc of California",
     "sector": "Finance",
@@ -10234,12 +10164,20 @@
     "longitude": -117.852987
   },
   {
-    "symbol": "BANFP",
-    "name": "BancFirst",
+    "symbol": "BANC",
+    "name": "Banc of California",
     "sector": "Finance",
     "industry": "Major Banks",
     "exchange": "nasdaq",
-    "id": 867655
+    "id": 1169770,
+    "address": {
+      "street1": "18500 VON KARMAN",
+      "city": "IRVINE",
+      "state": "CA",
+      "zip": "92612"
+    },
+    "latitude": 33.676803,
+    "longitude": -117.852987
   },
   {
     "symbol": "BANF",
@@ -10262,6 +10200,14 @@
       "2011": 45621000,
       "2012": 51900000
     }
+  },
+  {
+    "symbol": "BANFP",
+    "name": "BancFirst",
+    "sector": "Finance",
+    "industry": "Major Banks",
+    "exchange": "nasdaq",
+    "id": 867655
   },
   {
     "symbol": "BBVA",
@@ -10744,10 +10690,10 @@
     "longitude": -68.204677
   },
   {
-    "symbol": "BCS^",
+    "symbol": "BCS",
     "name": "Barclays PLC",
-    "sector": "n/a",
-    "industry": "n/a",
+    "sector": "Finance",
+    "industry": "Commercial Banks",
     "exchange": "nyse",
     "id": 312069,
     "address": {
@@ -10760,10 +10706,8 @@
     "longitude": -99.141968
   },
   {
-    "symbol": "BCS",
+    "symbol": "BCS^",
     "name": "Barclays PLC",
-    "sector": "Finance",
-    "industry": "Commercial Banks",
     "exchange": "nyse",
     "id": 312069,
     "address": {
@@ -10897,7 +10841,7 @@
   },
   {
     "symbol": "BSET",
-    "name": "Bassett Furniture Industries, Incorporated",
+    "name": "Bassett Furniture Industries,",
     "sector": "Consumer Durables",
     "industry": "Home Furnishings",
     "exchange": "nasdaq",
@@ -11645,8 +11589,6 @@
     "symbol": "BIOC",
     "name": "Biocept",
     "ipoYear": 2014,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 822418,
     "address": {
@@ -11779,8 +11721,6 @@
   {
     "symbol": "BGI",
     "name": "Birks Group",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "amex",
     "id": 1179821,
     "address": {
@@ -11926,8 +11866,6 @@
     "symbol": "BKCC",
     "name": "BlackRock Kelso Capital",
     "ipoYear": 2007,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1326003,
     "address": {
@@ -12468,22 +12406,6 @@
     "longitude": -71.034318
   },
   {
-    "symbol": "BPFH",
-    "name": "Boston Private Financial Holdings",
-    "sector": "Finance",
-    "industry": "Major Banks",
-    "exchange": "nasdaq",
-    "id": 821127,
-    "address": {
-      "street1": "10 POST OFFICE SQ",
-      "city": "BOSTON",
-      "state": "MA",
-      "zip": "02109"
-    },
-    "latitude": 42.35715,
-    "longitude": -71.05593
-  },
-  {
     "symbol": "BPFHP",
     "name": "Boston Private Financial Holdings",
     "sector": "Finance",
@@ -12501,6 +12423,22 @@
   },
   {
     "symbol": "BPFHW",
+    "name": "Boston Private Financial Holdings",
+    "sector": "Finance",
+    "industry": "Major Banks",
+    "exchange": "nasdaq",
+    "id": 821127,
+    "address": {
+      "street1": "10 POST OFFICE SQ",
+      "city": "BOSTON",
+      "state": "MA",
+      "zip": "02109"
+    },
+    "latitude": 42.35715,
+    "longitude": -71.05593
+  },
+  {
+    "symbol": "BPFH",
     "name": "Boston Private Financial Holdings",
     "sector": "Finance",
     "industry": "Major Banks",
@@ -14372,8 +14310,9 @@
     "longitude": -99.141968
   },
   {
-    "symbol": "JACQW",
+    "symbol": "JACQU",
     "name": "COLLABRIUM JAPAN ACQUISITION CORPORATION",
+    "ipoYear": 2012,
     "sector": "Finance",
     "industry": "Business Services",
     "exchange": "nasdaq",
@@ -14388,9 +14327,8 @@
     "longitude": -99.141968
   },
   {
-    "symbol": "JACQU",
+    "symbol": "JACQW",
     "name": "COLLABRIUM JAPAN ACQUISITION CORPORATION",
-    "ipoYear": 2012,
     "sector": "Finance",
     "industry": "Business Services",
     "exchange": "nasdaq",
@@ -15996,8 +15934,6 @@
   {
     "symbol": "CSWC",
     "name": "Capital Southwest",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 17313,
     "address": {
@@ -16366,7 +16302,7 @@
   },
   {
     "symbol": "CSL",
-    "name": "Carlisle Companies Incorporated",
+    "name": "Carlisle Companies",
     "sector": "Basic Industries",
     "industry": "Specialty Chemicals",
     "exchange": "nyse",
@@ -16407,6 +16343,22 @@
     }
   },
   {
+    "symbol": "CUK",
+    "name": "Carnival",
+    "sector": "Consumer Services",
+    "industry": "Marine Transportation",
+    "exchange": "nyse",
+    "id": 1125259,
+    "address": {
+      "street1": "5 GAINSFORD ST",
+      "city": "LONDON WC1A 1PP ENGL",
+      "state": "X0",
+      "zip": "00000"
+    },
+    "latitude": 39.527596,
+    "longitude": -99.141968
+  },
+  {
     "symbol": "CCL",
     "name": "Carnival",
     "ipoYear": 1987,
@@ -16427,22 +16379,6 @@
       "2011": 1912000000,
       "2012": 1298000000
     }
-  },
-  {
-    "symbol": "CUK",
-    "name": "Carnival",
-    "sector": "Consumer Services",
-    "industry": "Marine Transportation",
-    "exchange": "nyse",
-    "id": 1125259,
-    "address": {
-      "street1": "5 GAINSFORD ST",
-      "city": "LONDON WC1A 1PP ENGL",
-      "state": "X0",
-      "zip": "00000"
-    },
-    "latitude": 39.527596,
-    "longitude": -99.141968
   },
   {
     "symbol": "CLBH",
@@ -16995,8 +16931,9 @@
     "longitude": -101.65995
   },
   {
-    "symbol": "CELGZ",
+    "symbol": "CELG",
     "name": "Celgene",
+    "ipoYear": 1987,
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
     "exchange": "nasdaq",
@@ -17011,9 +16948,8 @@
     "longitude": -74.345567
   },
   {
-    "symbol": "CELG",
+    "symbol": "CELGZ",
     "name": "Celgene",
-    "ipoYear": 1987,
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
     "exchange": "nasdaq",
@@ -17275,8 +17211,6 @@
     "symbol": "CEN",
     "name": "Center Coast MLP & Infrastructure Fund",
     "ipoYear": 2013,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1124887,
     "address": {
@@ -17380,6 +17314,22 @@
     "longitude": -80.6617
   },
   {
+    "symbol": "CENTA",
+    "name": "Central Garden & Pet Company",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Specialties",
+    "exchange": "nasdaq",
+    "id": 887733,
+    "address": {
+      "street1": "1340 TREAT BOULEVARD",
+      "city": "WALNUT CREEK",
+      "state": "CA",
+      "zip": "94597"
+    },
+    "latitude": 37.92642,
+    "longitude": -122.05809
+  },
+  {
     "symbol": "CENT",
     "name": "Central Garden & Pet Company",
     "ipoYear": 1993,
@@ -17397,26 +17347,8 @@
     "longitude": -122.05809
   },
   {
-    "symbol": "CENTA",
-    "name": "Central Garden & Pet Company",
-    "sector": "Consumer Durables",
-    "industry": "Consumer Specialties",
-    "exchange": "nasdaq",
-    "id": 887733,
-    "address": {
-      "street1": "1340 TREAT BOULEVARD",
-      "city": "WALNUT CREEK",
-      "state": "CA",
-      "zip": "94597"
-    },
-    "latitude": 37.92642,
-    "longitude": -122.05809
-  },
-  {
     "symbol": "CET",
     "name": "Central Securities",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "amex",
     "id": 18748,
     "address": {
@@ -17748,9 +17680,9 @@
     "longitude": -99.141968
   },
   {
-    "symbol": "CACGU",
+    "symbol": "CACG",
     "name": "Chart Acquisition",
-    "ipoYear": 2012,
+    "ipoYear": 2013,
     "sector": "Finance",
     "industry": "Business Services",
     "exchange": "nasdaq",
@@ -17782,9 +17714,9 @@
     "longitude": -73.977759
   },
   {
-    "symbol": "CACG",
+    "symbol": "CACGU",
     "name": "Chart Acquisition",
-    "ipoYear": 2013,
+    "ipoYear": 2012,
     "sector": "Finance",
     "industry": "Business Services",
     "exchange": "nasdaq",
@@ -19358,7 +19290,7 @@
   },
   {
     "symbol": "CHDN",
-    "name": "Churchill Downs, Incorporated",
+    "name": "Churchill Downs,",
     "sector": "Consumer Services",
     "industry": "Services-Misc. Amusement & Recreation",
     "exchange": "nasdaq",
@@ -19969,8 +19901,6 @@
     "symbol": "CEM",
     "name": "ClearBridge Energy MLP Fund",
     "ipoYear": 2010,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1488775,
     "address": {
@@ -20121,22 +20051,6 @@
     "longitude": -99.141968
   },
   {
-    "symbol": "CLV",
-    "name": "Cliffs Natural Resources",
-    "sector": "Basic Industries",
-    "industry": "Precious Metals",
-    "exchange": "nyse",
-    "id": 764065,
-    "address": {
-      "street1": "200 PUBLIC SQUARE",
-      "city": "CLEVELAND",
-      "state": "OH",
-      "zip": "44114-2315"
-    },
-    "latitude": 41.49946,
-    "longitude": -81.692299
-  },
-  {
     "symbol": "CLF",
     "name": "Cliffs Natural Resources",
     "sector": "Basic Industries",
@@ -20156,6 +20070,22 @@
       "2011": 1619100000,
       "2012": -899400000
     }
+  },
+  {
+    "symbol": "CLV",
+    "name": "Cliffs Natural Resources",
+    "sector": "Basic Industries",
+    "industry": "Precious Metals",
+    "exchange": "nyse",
+    "id": 764065,
+    "address": {
+      "street1": "200 PUBLIC SQUARE",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "zip": "44114-2315"
+    },
+    "latitude": 41.49946,
+    "longitude": -81.692299
   },
   {
     "symbol": "CSBK",
@@ -20621,8 +20551,6 @@
     "symbol": "INB",
     "name": "Cohen & Steers Global Income Builder",
     "ipoYear": 2007,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1016504,
     "address": {
@@ -20895,8 +20823,6 @@
     "symbol": "CXP",
     "name": "Columbia Property Trust",
     "ipoYear": 2013,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1252849,
     "address": {
@@ -20912,8 +20838,6 @@
     "symbol": "STK",
     "name": "Columbia Seligman Premium Technology Growth Fund",
     "ipoYear": 2009,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 94673,
     "address": {
@@ -20965,22 +20889,6 @@
     "longitude": -78.779356
   },
   {
-    "symbol": "CBMXW",
-    "name": "CombiMatrix",
-    "sector": "Capital Goods",
-    "industry": "Biotechnology: Laboratory Analytical Instruments",
-    "exchange": "nasdaq",
-    "id": 1383183,
-    "address": {
-      "street1": "310 GODDARD",
-      "city": "IRVINE",
-      "state": "CA",
-      "zip": "92618"
-    },
-    "latitude": 33.63265,
-    "longitude": -117.74105
-  },
-  {
     "symbol": "CBMX",
     "name": "CombiMatrix",
     "sector": "Capital Goods",
@@ -20999,6 +20907,38 @@
       "2011": -7599000,
       "2012": -9527000
     }
+  },
+  {
+    "symbol": "CBMXW",
+    "name": "CombiMatrix",
+    "sector": "Capital Goods",
+    "industry": "Biotechnology: Laboratory Analytical Instruments",
+    "exchange": "nasdaq",
+    "id": 1383183,
+    "address": {
+      "street1": "310 GODDARD",
+      "city": "IRVINE",
+      "state": "CA",
+      "zip": "92618"
+    },
+    "latitude": 33.63265,
+    "longitude": -117.74105
+  },
+  {
+    "symbol": "CCZ",
+    "name": "Comcast",
+    "sector": "Consumer Services",
+    "industry": "Television Services",
+    "exchange": "nyse",
+    "id": 1166691,
+    "address": {
+      "street1": "1500 MARKET STREET",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zip": "19102"
+    },
+    "latitude": 39.95266,
+    "longitude": -75.16578
   },
   {
     "symbol": "CMCSK",
@@ -21033,22 +20973,6 @@
     "longitude": -75.16578
   },
   {
-    "symbol": "CCZ",
-    "name": "Comcast",
-    "sector": "Consumer Services",
-    "industry": "Television Services",
-    "exchange": "nyse",
-    "id": 1166691,
-    "address": {
-      "street1": "1500 MARKET STREET",
-      "city": "PHILADELPHIA",
-      "state": "PA",
-      "zip": "19102"
-    },
-    "latitude": 39.95266,
-    "longitude": -75.16578
-  },
-  {
     "symbol": "CCV",
     "name": "Comcast",
     "ipoYear": 2012,
@@ -21067,7 +20991,7 @@
   },
   {
     "symbol": "CMA",
-    "name": "Comerica Incorporated",
+    "name": "Comerica",
     "sector": "Finance",
     "industry": "Major Banks",
     "exchange": "nyse",
@@ -21217,9 +21141,8 @@
     "longitude": -71.147495
   },
   {
-    "symbol": "CWHO",
+    "symbol": "CWHN",
     "name": "CommonWealth REIT",
-    "ipoYear": 2012,
     "sector": "Consumer Services",
     "industry": "Real Estate Investment Trusts",
     "exchange": "nyse",
@@ -21234,8 +21157,9 @@
     "longitude": -71.147495
   },
   {
-    "symbol": "CWHN",
+    "symbol": "CWHO",
     "name": "CommonWealth REIT",
+    "ipoYear": 2012,
     "sector": "Consumer Services",
     "industry": "Real Estate Investment Trusts",
     "exchange": "nyse",
@@ -21645,7 +21569,7 @@
   },
   {
     "symbol": "CTG",
-    "name": "Computer Task Group, Incorporated",
+    "name": "Computer Task Group,",
     "sector": "Technology",
     "industry": "EDP Services",
     "exchange": "nasdaq",
@@ -22266,8 +22190,6 @@
   {
     "symbol": "CNVR",
     "name": "Conversant",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1125536,
     "address": {
@@ -22369,8 +22291,6 @@
   {
     "symbol": "CORR",
     "name": "CorEnergy Infrastructure Trust",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1347652,
     "address": {
@@ -22427,7 +22347,7 @@
   },
   {
     "symbol": "CORT",
-    "name": "Corcept Therapeutics Incorporated",
+    "name": "Corcept Therapeutics",
     "ipoYear": 2004,
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
@@ -22450,8 +22370,6 @@
   {
     "symbol": "BVA",
     "name": "Cordia Bancorp",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1466292,
     "address": {
@@ -22608,7 +22526,7 @@
   },
   {
     "symbol": "GLW",
-    "name": "Corning Incorporated",
+    "name": "Corning",
     "sector": "Basic Industries",
     "industry": "Telecommunications Equipment",
     "exchange": "nyse",
@@ -22882,7 +22800,7 @@
   },
   {
     "symbol": "CUZ",
-    "name": "Cousins Properties Incorporated",
+    "name": "Cousins Properties",
     "sector": "Consumer Services",
     "industry": "Real Estate Investment Trusts",
     "exchange": "nyse",
@@ -23149,22 +23067,6 @@
     }
   },
   {
-    "symbol": "SLVO",
-    "name": "Credit Suisse AG",
-    "sector": "Finance",
-    "industry": "Investment Bankers/Brokers/Service",
-    "exchange": "nasdaq",
-    "id": 1032405,
-    "address": {
-      "street1": "1475 SOUTH BASCOM AVENUE",
-      "city": "CAMPBELL",
-      "state": "CA",
-      "zip": "95008"
-    },
-    "latitude": 37.29624,
-    "longitude": -121.93178
-  },
-  {
     "symbol": "GLDI",
     "name": "Credit Suisse AG",
     "sector": "Finance",
@@ -23179,6 +23081,22 @@
     },
     "latitude": 26.23153,
     "longitude": -80.120549
+  },
+  {
+    "symbol": "SLVO",
+    "name": "Credit Suisse AG",
+    "sector": "Finance",
+    "industry": "Investment Bankers/Brokers/Service",
+    "exchange": "nasdaq",
+    "id": 1032405,
+    "address": {
+      "street1": "1475 SOUTH BASCOM AVENUE",
+      "city": "CAMPBELL",
+      "state": "CA",
+      "zip": "95008"
+    },
+    "latitude": 37.29624,
+    "longitude": -121.93178
   },
   {
     "symbol": "CS",
@@ -23489,22 +23407,6 @@
     }
   },
   {
-    "symbol": "CRMBW",
-    "name": "Crumbs Bake Shop",
-    "sector": "Consumer Non-Durables",
-    "industry": "Food Chains",
-    "exchange": "nasdaq",
-    "id": 1476719,
-    "address": {
-      "street1": "110 WEST 40TH STREET, SUITE 2100",
-      "city": "NEW YORK",
-      "state": "NY",
-      "zip": "10018"
-    },
-    "latitude": 40.75387,
-    "longitude": -73.98581
-  },
-  {
     "symbol": "CRMBU",
     "name": "Crumbs Bake Shop",
     "sector": "Consumer Non-Durables",
@@ -23522,6 +23424,22 @@
   },
   {
     "symbol": "CRMB",
+    "name": "Crumbs Bake Shop",
+    "sector": "Consumer Non-Durables",
+    "industry": "Food Chains",
+    "exchange": "nasdaq",
+    "id": 1476719,
+    "address": {
+      "street1": "110 WEST 40TH STREET, SUITE 2100",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zip": "10018"
+    },
+    "latitude": 40.75387,
+    "longitude": -73.98581
+  },
+  {
+    "symbol": "CRMBW",
     "name": "Crumbs Bake Shop",
     "sector": "Consumer Non-Durables",
     "industry": "Food Chains",
@@ -23907,7 +23825,7 @@
     "longitude": -95.107249
   },
   {
-    "symbol": "CYCCP",
+    "symbol": "CYCC",
     "name": "Cyclacel Pharmaceuticals",
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
@@ -23923,7 +23841,7 @@
     "longitude": -74.418895
   },
   {
-    "symbol": "CYCC",
+    "symbol": "CYCCP",
     "name": "Cyclacel Pharmaceuticals",
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
@@ -24043,7 +23961,7 @@
   },
   {
     "symbol": "CYTK",
-    "name": "Cytokinetics, Incorporated",
+    "name": "Cytokinetics,",
     "ipoYear": 2004,
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
@@ -24490,6 +24408,22 @@
     }
   },
   {
+    "symbol": "DTQ",
+    "name": "DTE Energy Company",
+    "sector": "Public Utilities",
+    "industry": "Electric Utilities: Central",
+    "exchange": "nyse",
+    "id": 936340,
+    "address": {
+      "street1": "ONE ENERGY PLAZA",
+      "city": "DETROIT",
+      "state": "MI",
+      "zip": "48226"
+    },
+    "latitude": 42.333471,
+    "longitude": -83.057273
+  },
+  {
     "symbol": "DTE",
     "name": "DTE Energy Company",
     "sector": "Public Utilities",
@@ -24509,22 +24443,6 @@
     "symbol": "DTZ",
     "name": "DTE Energy Company",
     "ipoYear": 2011,
-    "sector": "Public Utilities",
-    "industry": "Electric Utilities: Central",
-    "exchange": "nyse",
-    "id": 936340,
-    "address": {
-      "street1": "ONE ENERGY PLAZA",
-      "city": "DETROIT",
-      "state": "MI",
-      "zip": "48226"
-    },
-    "latitude": 42.333471,
-    "longitude": -83.057273
-  },
-  {
-    "symbol": "DTQ",
-    "name": "DTE Energy Company",
     "sector": "Public Utilities",
     "industry": "Electric Utilities: Central",
     "exchange": "nyse",
@@ -25627,7 +25545,7 @@
   },
   {
     "symbol": "DBD",
-    "name": "Diebold, Incorporated",
+    "name": "Diebold,",
     "sector": "Miscellaneous",
     "industry": "Office Equipment/Supplies/Services",
     "exchange": "nyse",
@@ -25883,7 +25801,7 @@
   },
   {
     "symbol": "DIOD",
-    "name": "Diodes Incorporated",
+    "name": "Diodes",
     "sector": "Technology",
     "industry": "Semiconductors",
     "exchange": "nasdaq",
@@ -25924,7 +25842,7 @@
     }
   },
   {
-    "symbol": "DISCK",
+    "symbol": "DISCB",
     "name": "Discovery Communications",
     "sector": "Consumer Services",
     "industry": "Television Services",
@@ -25940,7 +25858,7 @@
     "longitude": -77.02801
   },
   {
-    "symbol": "DISCB",
+    "symbol": "DISCK",
     "name": "Discovery Communications",
     "sector": "Consumer Services",
     "industry": "Television Services",
@@ -26133,7 +26051,7 @@
     "longitude": -77.451628
   },
   {
-    "symbol": "DCUA",
+    "symbol": "DCUB",
     "name": "Dominion Resources",
     "sector": "Public Utilities",
     "industry": "Electric Utilities: Central",
@@ -26165,7 +26083,7 @@
     "longitude": -77.451628
   },
   {
-    "symbol": "DCUB",
+    "symbol": "DCUA",
     "name": "Dominion Resources",
     "sector": "Public Utilities",
     "industry": "Electric Utilities: Central",
@@ -26659,7 +26577,7 @@
   },
   {
     "symbol": "DW",
-    "name": "Drew Industries Incorporated",
+    "name": "Drew Industries",
     "sector": "Capital Goods",
     "industry": "Auto Parts:O.E.M.",
     "exchange": "nyse",
@@ -26719,7 +26637,7 @@
   },
   {
     "symbol": "DCO",
-    "name": "Ducommun Incorporated",
+    "name": "Ducommun",
     "sector": "Capital Goods",
     "industry": "Military/Government/Technical",
     "exchange": "nyse",
@@ -26742,8 +26660,6 @@
     "symbol": "DNP",
     "name": "Duff & Phelps Utilities Income",
     "ipoYear": 1987,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 806628,
     "address": {
@@ -27015,8 +26931,6 @@
   {
     "symbol": "DYNT",
     "name": "Dynatronics",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 720875,
     "address": {
@@ -27976,8 +27890,6 @@
     "symbol": "EVV",
     "name": "Eaton Vance Limited Duration Income Fund",
     "ipoYear": 2003,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "amex",
     "id": 1222922,
     "address": {
@@ -28267,8 +28179,6 @@
     "symbol": "EGLT",
     "name": "Egalet",
     "ipoYear": 2014,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1290096,
     "address": {
@@ -28788,8 +28698,9 @@
     "longitude": -74.050314
   },
   {
-    "symbol": "EMMSP",
+    "symbol": "EMMS",
     "name": "Emmis Communications",
+    "ipoYear": 1994,
     "sector": "Consumer Services",
     "industry": "Broadcasting",
     "exchange": "nasdaq",
@@ -28804,9 +28715,8 @@
     "longitude": -86.1562
   },
   {
-    "symbol": "EMMS",
+    "symbol": "EMMSP",
     "name": "Emmis Communications",
-    "ipoYear": 1994,
     "sector": "Consumer Services",
     "industry": "Broadcasting",
     "exchange": "nasdaq",
@@ -28999,6 +28909,27 @@
     "longitude": -114.065174
   },
   {
+    "symbol": "EEP",
+    "name": "Enbridge Energy",
+    "sector": "Energy",
+    "industry": "Natural Gas Distribution",
+    "exchange": "nyse",
+    "id": 880285,
+    "address": {
+      "street1": "1100 LOUISIANA ST",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zip": "77002-5217"
+    },
+    "latitude": 29.757789,
+    "longitude": -95.368118,
+    "profits": {
+      "2010": -198500000,
+      "2011": 624000000,
+      "2012": 493100000
+    }
+  },
+  {
     "symbol": "EEQ",
     "name": "Enbridge Energy Management LLC",
     "ipoYear": 2002,
@@ -29018,27 +28949,6 @@
       "2010": -23700000,
       "2011": 45500000,
       "2012": 31800000
-    }
-  },
-  {
-    "symbol": "EEP",
-    "name": "Enbridge Energy",
-    "sector": "Energy",
-    "industry": "Natural Gas Distribution",
-    "exchange": "nyse",
-    "id": 880285,
-    "address": {
-      "street1": "1100 LOUISIANA ST",
-      "city": "HOUSTON",
-      "state": "TX",
-      "zip": "77002-5217"
-    },
-    "latitude": 29.757789,
-    "longitude": -95.368118,
-    "profits": {
-      "2010": -198500000,
-      "2011": 624000000,
-      "2012": 493100000
     }
   },
   {
@@ -29573,22 +29483,6 @@
     }
   },
   {
-    "symbol": "EAA",
-    "name": "Entergy Arkansas",
-    "sector": "Public Utilities",
-    "industry": "Electric Utilities: Central",
-    "exchange": "nyse",
-    "id": 7323,
-    "address": {
-      "street1": "425 WEST CAPITOL AVE",
-      "city": "LITTLE ROCK",
-      "state": "AR",
-      "zip": "72201"
-    },
-    "latitude": 34.744685,
-    "longitude": -92.274965
-  },
-  {
     "symbol": "ETR",
     "name": "Entergy",
     "sector": "Public Utilities",
@@ -29608,6 +29502,22 @@
       "2011": 1346439000,
       "2012": 846673000
     }
+  },
+  {
+    "symbol": "EAA",
+    "name": "Entergy Arkansas",
+    "sector": "Public Utilities",
+    "industry": "Electric Utilities: Central",
+    "exchange": "nyse",
+    "id": 7323,
+    "address": {
+      "street1": "425 WEST CAPITOL AVE",
+      "city": "LITTLE ROCK",
+      "state": "AR",
+      "zip": "72201"
+    },
+    "latitude": 34.744685,
+    "longitude": -92.274965
   },
   {
     "symbol": "ELA",
@@ -29642,7 +29552,7 @@
     "longitude": -95.470593
   },
   {
-    "symbol": "EFM",
+    "symbol": "EMZ",
     "name": "Entergy Mississippi",
     "sector": "Public Utilities",
     "industry": "Electric Utilities: Central",
@@ -29674,7 +29584,7 @@
     "longitude": -90.184226
   },
   {
-    "symbol": "EMZ",
+    "symbol": "EFM",
     "name": "Entergy Mississippi",
     "sector": "Public Utilities",
     "industry": "Electric Utilities: Central",
@@ -29793,7 +29703,7 @@
   },
   {
     "symbol": "EGT",
-    "name": "Entertainment Gaming Asia Incorporated",
+    "name": "Entertainment Gaming Asia",
     "sector": "Consumer Durables",
     "industry": "Miscellaneous manufacturing industries",
     "exchange": "nasdaq",
@@ -30156,8 +30066,6 @@
   {
     "symbol": "EQS",
     "name": "Equus Total Return",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 878932,
     "address": {
@@ -30187,7 +30095,7 @@
   },
   {
     "symbol": "EAC           ",
-    "name": "Erickson Air-Crane Incorporated",
+    "name": "Erickson Air-Crane",
     "ipoYear": 2012,
     "sector": "Capital Goods",
     "industry": "Aerospace",
@@ -30236,7 +30144,7 @@
   },
   {
     "symbol": "ESCA",
-    "name": "Escalade, Incorporated",
+    "name": "Escalade,",
     "sector": "Consumer Non-Durables",
     "industry": "Recreational Products/Toys",
     "exchange": "nasdaq",
@@ -30340,8 +30248,6 @@
   {
     "symbol": "ESSX",
     "name": "Essex Rental",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1373988,
     "address": {
@@ -31230,8 +31136,6 @@
   {
     "symbol": "FRC",
     "name": "FIRST REPUBLIC BANK",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1132979,
     "address": {
@@ -31835,7 +31739,7 @@
   },
   {
     "symbol": "FCH",
-    "name": "FelCor Lodging Trust Incorporated",
+    "name": "FelCor Lodging Trust",
     "sector": "Consumer Services",
     "industry": "Real Estate Investment Trusts",
     "exchange": "nyse",
@@ -31987,8 +31891,6 @@
     "symbol": "FGL",
     "name": "Fidelity and Guaranty Life",
     "ipoYear": 2013,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1585064,
     "address": {
@@ -32004,8 +31906,6 @@
     "symbol": "FDUS",
     "name": "Fidus Investment",
     "ipoYear": 2011,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1513363,
     "address": {
@@ -32082,8 +31982,6 @@
     "symbol": "FSC",
     "name": "Fifth Street Finance",
     "ipoYear": 2008,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1414932,
     "address": {
@@ -32098,8 +31996,6 @@
   {
     "symbol": "FSCFL",
     "name": "Fifth Street Finance",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1414932,
     "address": {
@@ -32114,8 +32010,6 @@
   {
     "symbol": "FSCE",
     "name": "Fifth Street Finance",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1414932,
     "address": {
@@ -32131,8 +32025,6 @@
     "symbol": "FSFR",
     "name": "Fifth Street Senior Floating Rate",
     "ipoYear": 2013,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1577791,
     "address": {
@@ -32513,6 +32405,22 @@
     }
   },
   {
+    "symbol": "FCCO",
+    "name": "First Community",
+    "sector": "Finance",
+    "industry": "Major Banks",
+    "exchange": "nasdaq",
+    "id": 932781,
+    "address": {
+      "street1": "5455 SUNSET BLVD",
+      "city": "LEXINGTON",
+      "state": "SC",
+      "zip": "29072"
+    },
+    "latitude": 33.998784,
+    "longitude": -81.216771
+  },
+  {
     "symbol": "FCBC",
     "name": "First Community Bancshares",
     "sector": "Finance",
@@ -32532,22 +32440,6 @@
       "2011": 20028000,
       "2012": 28577000
     }
-  },
-  {
-    "symbol": "FCCO",
-    "name": "First Community",
-    "sector": "Finance",
-    "industry": "Major Banks",
-    "exchange": "nasdaq",
-    "id": 932781,
-    "address": {
-      "street1": "5455 SUNSET BLVD",
-      "city": "LEXINGTON",
-      "state": "SC",
-      "zip": "29072"
-    },
-    "latitude": 33.998784,
-    "longitude": -81.216771
   },
   {
     "symbol": "FBNK",
@@ -32628,22 +32520,6 @@
     }
   },
   {
-    "symbol": "FFBCW",
-    "name": "First Financial Bancorp.",
-    "sector": "Finance",
-    "industry": "Major Banks",
-    "exchange": "nasdaq",
-    "id": 708955,
-    "address": {
-      "street1": "255 EAST FIFTH STREET",
-      "city": "CINCINNATI",
-      "state": "OH",
-      "zip": "45202"
-    },
-    "latitude": 39.1038,
-    "longitude": -84.5029
-  },
-  {
     "symbol": "FFBC",
     "name": "First Financial Bancorp.",
     "sector": "Finance",
@@ -32663,6 +32539,22 @@
       "2011": 66739000,
       "2012": 67303000
     }
+  },
+  {
+    "symbol": "FFBCW",
+    "name": "First Financial Bancorp.",
+    "sector": "Finance",
+    "industry": "Major Banks",
+    "exchange": "nasdaq",
+    "id": 708955,
+    "address": {
+      "street1": "255 EAST FIFTH STREET",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "zip": "45202"
+    },
+    "latitude": 39.1038,
+    "longitude": -84.5029
   },
   {
     "symbol": "FFIN",
@@ -33059,8 +32951,6 @@
     "symbol": "FIF",
     "name": "First Trust Energy Infrastructure Fund",
     "ipoYear": 2011,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 854711,
     "address": {
@@ -33315,8 +33205,6 @@
     "symbol": "DFP",
     "name": "Flaherty & Crumrine Dynamic Preferred and Income Fund",
     "ipoYear": 2013,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 859139,
     "address": {
@@ -33570,8 +33458,6 @@
     "symbol": "FLY",
     "name": "Fly Leasing Limited",
     "ipoYear": 2007,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1407298,
     "address": {
@@ -33809,8 +33695,6 @@
   {
     "symbol": "FDI",
     "name": "Fort Dearborn Income Securities",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 38188,
     "address": {
@@ -34477,8 +34361,6 @@
     "symbol": "FULL",
     "name": "Full Circle Capital",
     "ipoYear": 2010,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1490013,
     "address": {
@@ -34493,8 +34375,6 @@
   {
     "symbol": "FULLL",
     "name": "Full Circle Capital",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1490013,
     "address": {
@@ -34914,8 +34794,6 @@
     "symbol": "GSVC",
     "name": "GSV Capital Corp",
     "ipoYear": 2011,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1509470,
     "address": {
@@ -35026,6 +34904,26 @@
     }
   },
   {
+    "symbol": "GALT",
+    "name": "Galectin Therapeutics",
+    "sector": "Health Care",
+    "industry": "Major Pharmaceuticals",
+    "exchange": "nasdaq",
+    "id": 1133416,
+    "address": {
+      "street1": "4960 PEACHTREE INDUSTRIAL BOULEVARD",
+      "city": "NORCROSS",
+      "state": "GA",
+      "zip": "30071"
+    },
+    "latitude": 33.966803,
+    "longitude": -84.197394,
+    "profits": {
+      "2011": -10915000,
+      "2012": -9675000
+    }
+  },
+  {
     "symbol": "GALTU",
     "name": "Galectin Therapeutics",
     "sector": "Health Care",
@@ -35056,26 +34954,6 @@
     },
     "latitude": 33.966803,
     "longitude": -84.197394
-  },
-  {
-    "symbol": "GALT",
-    "name": "Galectin Therapeutics",
-    "sector": "Health Care",
-    "industry": "Major Pharmaceuticals",
-    "exchange": "nasdaq",
-    "id": 1133416,
-    "address": {
-      "street1": "4960 PEACHTREE INDUSTRIAL BOULEVARD",
-      "city": "NORCROSS",
-      "state": "GA",
-      "zip": "30071"
-    },
-    "latitude": 33.966803,
-    "longitude": -84.197394,
-    "profits": {
-      "2011": -10915000,
-      "2012": -9675000
-    }
   },
   {
     "symbol": "GALE",
@@ -35223,8 +35101,6 @@
     "symbol": "GARS",
     "name": "Garrison Capital",
     "ipoYear": 2013,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1509892,
     "address": {
@@ -35472,8 +35348,6 @@
   {
     "symbol": "GAM",
     "name": "General American Investors",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 40417,
     "address": {
@@ -35591,7 +35465,7 @@
     }
   },
   {
-    "symbol": "GFN",
+    "symbol": "GFNCP",
     "name": "General Finance",
     "sector": "Consumer Services",
     "industry": "Other Specialty Stores",
@@ -35607,7 +35481,7 @@
     "longitude": -118.149557
   },
   {
-    "symbol": "GFNCP",
+    "symbol": "GFN",
     "name": "General Finance",
     "sector": "Consumer Services",
     "industry": "Other Specialty Stores",
@@ -35734,6 +35608,22 @@
     "longitude": -86.6623
   },
   {
+    "symbol": "GWRU",
+    "name": "Genesee & Wyoming",
+    "sector": "Transportation",
+    "industry": "Railroads",
+    "exchange": "nyse",
+    "id": 1012620,
+    "address": {
+      "street1": "20 WEST AVENUE",
+      "city": "DARIEN",
+      "state": "CT",
+      "zip": "06820"
+    },
+    "latitude": 41.077409,
+    "longitude": -73.471186
+  },
+  {
     "symbol": "GWR",
     "name": "Genesee & Wyoming",
     "sector": "Transportation",
@@ -35753,22 +35643,6 @@
       "2011": 119484000,
       "2012": 52433000
     }
-  },
-  {
-    "symbol": "GWRU",
-    "name": "Genesee & Wyoming",
-    "sector": "Transportation",
-    "industry": "Railroads",
-    "exchange": "nyse",
-    "id": 1012620,
-    "address": {
-      "street1": "20 WEST AVENUE",
-      "city": "DARIEN",
-      "state": "CT",
-      "zip": "06820"
-    },
-    "latitude": 41.077409,
-    "longitude": -73.471186
   },
   {
     "symbol": "GEL",
@@ -36215,7 +36089,7 @@
   },
   {
     "symbol": "GIGA",
-    "name": "Giga-tronics Incorporated",
+    "name": "Giga-tronics",
     "ipoYear": 1983,
     "sector": "Capital Goods",
     "industry": "Electrical Products",
@@ -36357,10 +36231,9 @@
     }
   },
   {
-    "symbol": "GLADP",
+    "symbol": "GLAD",
     "name": "Gladstone Capital",
-    "sector": "n/a",
-    "industry": "n/a",
+    "ipoYear": 2001,
     "exchange": "nasdaq",
     "id": 1143513,
     "address": {
@@ -36373,13 +36246,26 @@
     "longitude": -77.22089
   },
   {
-    "symbol": "GLAD",
+    "symbol": "GLADP",
     "name": "Gladstone Capital",
-    "ipoYear": 2001,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1143513,
+    "address": {
+      "street1": "1521 WESTBRANCH DRIVE",
+      "city": "MCLEAN",
+      "state": "VA",
+      "zip": "22102"
+    },
+    "latitude": 38.927841,
+    "longitude": -77.22089
+  },
+  {
+    "symbol": "GOODP",
+    "name": "Gladstone Commercial",
+    "sector": "Consumer Services",
+    "industry": "Real Estate",
+    "exchange": "nasdaq",
+    "id": 1234006,
     "address": {
       "street1": "1521 WESTBRANCH DRIVE",
       "city": "MCLEAN",
@@ -36410,22 +36296,6 @@
       "2011": 5714000,
       "2012": 3761000
     }
-  },
-  {
-    "symbol": "GOODP",
-    "name": "Gladstone Commercial",
-    "sector": "Consumer Services",
-    "industry": "Real Estate",
-    "exchange": "nasdaq",
-    "id": 1234006,
-    "address": {
-      "street1": "1521 WESTBRANCH DRIVE",
-      "city": "MCLEAN",
-      "state": "VA",
-      "zip": "22102"
-    },
-    "latitude": 38.927841,
-    "longitude": -77.22089
   },
   {
     "symbol": "GOODO",
@@ -36460,10 +36330,9 @@
     "longitude": -77.22089
   },
   {
-    "symbol": "GAINP",
+    "symbol": "GAIN",
     "name": "Gladstone Investment",
-    "sector": "n/a",
-    "industry": "n/a",
+    "ipoYear": 2005,
     "exchange": "nasdaq",
     "id": 1321741,
     "address": {
@@ -36476,11 +36345,8 @@
     "longitude": -77.22089
   },
   {
-    "symbol": "GAIN",
+    "symbol": "GAINP",
     "name": "Gladstone Investment",
-    "ipoYear": 2005,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1321741,
     "address": {
@@ -37119,6 +36985,22 @@
     }
   },
   {
+    "symbol": "GSF",
+    "name": "Goldman Sachs Group",
+    "sector": "Finance",
+    "industry": "Investment Bankers/Brokers/Service",
+    "exchange": "nyse",
+    "id": 1038914,
+    "address": {
+      "street1": "15375 MEMORIAL DRIVE",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zip": "77079-4483"
+    },
+    "latitude": 29.77975,
+    "longitude": -95.628154
+  },
+  {
     "symbol": "GS",
     "name": "Goldman Sachs Group",
     "ipoYear": 1999,
@@ -37141,27 +37023,9 @@
     }
   },
   {
-    "symbol": "GSF",
-    "name": "Goldman Sachs Group",
-    "sector": "Finance",
-    "industry": "Investment Bankers/Brokers/Service",
-    "exchange": "nyse",
-    "id": 1038914,
-    "address": {
-      "street1": "15375 MEMORIAL DRIVE",
-      "city": "HOUSTON",
-      "state": "TX",
-      "zip": "77079-4483"
-    },
-    "latitude": 29.77975,
-    "longitude": -95.628154
-  },
-  {
     "symbol": "GBDC",
     "name": "Golub Capital BDC",
     "ipoYear": 2010,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1476765,
     "address": {
@@ -37449,7 +37313,7 @@
   },
   {
     "symbol": "GVA",
-    "name": "Granite Construction Incorporated",
+    "name": "Granite Construction",
     "sector": "Basic Industries",
     "industry": "Military/Government/Technical",
     "exchange": "nyse",
@@ -38218,8 +38082,6 @@
     "symbol": "HEES",
     "name": "H&E Equipment Services",
     "ipoYear": 2006,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1339605,
     "address": {
@@ -38240,8 +38102,6 @@
     "symbol": "HQH",
     "name": "H&Q Healthcare Investors",
     "ipoYear": 1987,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 805267,
     "address": {
@@ -38257,8 +38117,6 @@
     "symbol": "HQL",
     "name": "H&Q Life Sciences Investors",
     "ipoYear": 1992,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 884121,
     "address": {
@@ -38350,11 +38208,11 @@
     }
   },
   {
-    "symbol": "HCI",
+    "symbol": "HCIIP",
     "name": "HCI Group",
     "sector": "Finance",
     "industry": "Property-Casualty Insurers",
-    "exchange": "nyse",
+    "exchange": "nasdaq",
     "id": 1400810,
     "address": {
       "street1": "5300 WEST CYPRESS STREET",
@@ -38366,11 +38224,11 @@
     "longitude": -82.53292
   },
   {
-    "symbol": "HCIIP",
+    "symbol": "HCI",
     "name": "HCI Group",
     "sector": "Finance",
     "industry": "Property-Casualty Insurers",
-    "exchange": "nasdaq",
+    "exchange": "nyse",
     "id": 1400810,
     "address": {
       "street1": "5300 WEST CYPRESS STREET",
@@ -38606,8 +38464,6 @@
   {
     "symbol": "HSBC",
     "name": "HSBC Holdings plc",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1089113,
     "address": {
@@ -38742,7 +38598,7 @@
   },
   {
     "symbol": "HWG",
-    "name": "Hallwood Group Incorporated",
+    "name": "Hallwood Group",
     "sector": "Basic Industries",
     "industry": "Textiles",
     "exchange": "amex",
@@ -39047,7 +38903,7 @@
   },
   {
     "symbol": "HAR",
-    "name": "Harman International Industries, Incorporated",
+    "name": "Harman International Industries,",
     "sector": "Consumer Non-Durables",
     "industry": "Consumer Electronics/Appliances",
     "exchange": "nyse",
@@ -39100,22 +38956,6 @@
     "longitude": -99.141968
   },
   {
-    "symbol": "TINY",
-    "name": "Harris & Harris Group",
-    "sector": "Finance",
-    "industry": "Finance/Investors Services",
-    "exchange": "nasdaq",
-    "id": 893739,
-    "address": {
-      "street1": "1450 BROADWAY",
-      "city": "NEW YORK",
-      "state": "NY",
-      "zip": "10018"
-    },
-    "latitude": 40.75484,
-    "longitude": -73.9867
-  },
-  {
     "symbol": "HRS",
     "name": "Harris",
     "sector": "Capital Goods",
@@ -39130,6 +38970,22 @@
     },
     "latitude": 28.092595,
     "longitude": -80.637487
+  },
+  {
+    "symbol": "TINY",
+    "name": "Harris & Harris Group",
+    "sector": "Finance",
+    "industry": "Finance/Investors Services",
+    "exchange": "nasdaq",
+    "id": 893739,
+    "address": {
+      "street1": "1450 BROADWAY",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zip": "10018"
+    },
+    "latitude": 40.75484,
+    "longitude": -73.9867
   },
   {
     "symbol": "HSC",
@@ -39175,22 +39031,6 @@
     }
   },
   {
-    "symbol": "HGH",
-    "name": "Hartford Financial Services Group",
-    "sector": "Finance",
-    "industry": "Property-Casualty Insurers",
-    "exchange": "nyse",
-    "id": 874766,
-    "address": {
-      "street1": "ONE HARTFORD PLAZA",
-      "city": "HARTFORD",
-      "state": "CT",
-      "zip": "06155"
-    },
-    "latitude": 41.772529,
-    "longitude": -72.68869
-  },
-  {
     "symbol": "HIG",
     "name": "Hartford Financial Services Group",
     "sector": "Finance",
@@ -39212,6 +39052,22 @@
     }
   },
   {
+    "symbol": "HGH",
+    "name": "Hartford Financial Services Group",
+    "sector": "Finance",
+    "industry": "Property-Casualty Insurers",
+    "exchange": "nyse",
+    "id": 874766,
+    "address": {
+      "street1": "ONE HARTFORD PLAZA",
+      "city": "HARTFORD",
+      "state": "CT",
+      "zip": "06155"
+    },
+    "latitude": 41.772529,
+    "longitude": -72.68869
+  },
+  {
     "symbol": "HART          ",
     "name": "Harvard Apparatus Regenerative Technology",
     "sector": "Health Care",
@@ -39231,8 +39087,6 @@
     "symbol": "HBIO",
     "name": "Harvard Bioscience",
     "ipoYear": 2000,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1123494,
     "address": {
@@ -39253,8 +39107,6 @@
     "symbol": "HCAP",
     "name": "Harvest Capital Credit",
     "ipoYear": 2013,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1559909,
     "address": {
@@ -39471,7 +39323,7 @@
   },
   {
     "symbol": "HW",
-    "name": "Headwaters Incorporated",
+    "name": "Headwaters",
     "sector": "Capital Goods",
     "industry": "Building Materials",
     "exchange": "nyse",
@@ -39584,7 +39436,7 @@
   },
   {
     "symbol": "HR",
-    "name": "Healthcare Realty Trust Incorporated",
+    "name": "Healthcare Realty Trust",
     "ipoYear": 1993,
     "sector": "Consumer Services",
     "industry": "Real Estate Investment Trusts",
@@ -39844,8 +39696,6 @@
   {
     "symbol": "HIH",
     "name": "Helios High Income Fund",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1262415,
     "address": {
@@ -40012,11 +39862,9 @@
     }
   },
   {
-    "symbol": "HTGC",
+    "symbol": "HTGZ",
     "name": "Hercules Technology Growth Capital",
     "ipoYear": 2012,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1280784,
     "address": {
@@ -40029,11 +39877,9 @@
     "longitude": -122.15867
   },
   {
-    "symbol": "HTGZ",
+    "symbol": "HTGC",
     "name": "Hercules Technology Growth Capital",
     "ipoYear": 2012,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1280784,
     "address": {
@@ -41075,8 +40921,6 @@
     "symbol": "HRZN",
     "name": "Horizon Technology Finance",
     "ipoYear": 2010,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1487428,
     "address": {
@@ -41091,8 +40935,6 @@
   {
     "symbol": "HTF",
     "name": "Horizon Technology Finance",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1487428,
     "address": {
@@ -41277,22 +41119,6 @@
     }
   },
   {
-    "symbol": "HOVU",
-    "name": "Hovnanian Enterprises",
-    "sector": "Capital Goods",
-    "industry": "Homebuilding",
-    "exchange": "nyse",
-    "id": 357294,
-    "address": {
-      "street1": "110 WEST FRONT STREET",
-      "city": "RED BANK",
-      "state": "NJ",
-      "zip": "07701"
-    },
-    "latitude": 40.35096,
-    "longitude": -74.069789
-  },
-  {
     "symbol": "HOV",
     "name": "Hovnanian Enterprises",
     "sector": "Capital Goods",
@@ -41314,6 +41140,22 @@
     "sector": "Capital Goods",
     "industry": "Homebuilding",
     "exchange": "nasdaq",
+    "id": 357294,
+    "address": {
+      "street1": "110 WEST FRONT STREET",
+      "city": "RED BANK",
+      "state": "NJ",
+      "zip": "07701"
+    },
+    "latitude": 40.35096,
+    "longitude": -74.069789
+  },
+  {
+    "symbol": "HOVU",
+    "name": "Hovnanian Enterprises",
+    "sector": "Capital Goods",
+    "industry": "Homebuilding",
+    "exchange": "nyse",
     "id": 357294,
     "address": {
       "street1": "110 WEST FRONT STREET",
@@ -41551,7 +41393,7 @@
   },
   {
     "symbol": "HBAN",
-    "name": "Huntington Bancshares Incorporated",
+    "name": "Huntington Bancshares",
     "sector": "Finance",
     "industry": "Major Banks",
     "exchange": "nasdaq",
@@ -41658,7 +41500,7 @@
   },
   {
     "symbol": "HTCH",
-    "name": "Hutchinson Technology Incorporated",
+    "name": "Hutchinson Technology",
     "ipoYear": 1985,
     "sector": "Capital Goods",
     "industry": "Industrial Machinery/Components",
@@ -42118,7 +41960,7 @@
   },
   {
     "symbol": "IIVI",
-    "name": "II-VI Incorporated",
+    "name": "II-VI",
     "ipoYear": 1987,
     "sector": "Capital Goods",
     "industry": "Electronic Components",
@@ -42935,27 +42777,6 @@
     }
   },
   {
-    "symbol": "INDB",
-    "name": "Independent Bank",
-    "sector": "Finance",
-    "industry": "Major Banks",
-    "exchange": "nasdaq",
-    "id": 776901,
-    "address": {
-      "street1": "288 UNION STREET",
-      "city": "ROCKLAND",
-      "state": "MA",
-      "zip": "02370"
-    },
-    "latitude": 42.13013,
-    "longitude": -70.91565,
-    "profits": {
-      "2010": 40240000,
-      "2011": 45436000,
-      "2012": 42627000
-    }
-  },
-  {
     "symbol": "IBCP",
     "name": "Independent Bank",
     "sector": "Finance",
@@ -42974,6 +42795,27 @@
       "2010": -16709000,
       "2011": -20200000,
       "2012": 26198000
+    }
+  },
+  {
+    "symbol": "INDB",
+    "name": "Independent Bank",
+    "sector": "Finance",
+    "industry": "Major Banks",
+    "exchange": "nasdaq",
+    "id": 776901,
+    "address": {
+      "street1": "288 UNION STREET",
+      "city": "ROCKLAND",
+      "state": "MA",
+      "zip": "02370"
+    },
+    "latitude": 42.13013,
+    "longitude": -70.91565,
+    "profits": {
+      "2010": 40240000,
+      "2011": 45436000,
+      "2012": 42627000
     }
   },
   {
@@ -43081,8 +42923,9 @@
     }
   },
   {
-    "symbol": "INXB",
+    "symbol": "INXBU",
     "name": "Infinity Cross Border Acquisition",
+    "ipoYear": 2012,
     "sector": "Finance",
     "industry": "Business Services",
     "exchange": "nasdaq",
@@ -43113,9 +42956,8 @@
     "longitude": -73.9665
   },
   {
-    "symbol": "INXBU",
+    "symbol": "INXB",
     "name": "Infinity Cross Border Acquisition",
-    "ipoYear": 2012,
     "sector": "Finance",
     "industry": "Business Services",
     "exchange": "nasdaq",
@@ -43312,7 +43154,7 @@
   },
   {
     "symbol": "IMKTA",
-    "name": "Ingles Markets, Incorporated",
+    "name": "Ingles Markets,",
     "ipoYear": 1987,
     "sector": "Consumer Services",
     "industry": "Food Chains",
@@ -43351,7 +43193,7 @@
   },
   {
     "symbol": "INGR",
-    "name": "Ingredion Incorporated",
+    "name": "Ingredion",
     "sector": "Consumer Non-Durables",
     "industry": "Packaged Foods",
     "exchange": "nyse",
@@ -44799,10 +44641,8 @@
     "longitude": -71.03597
   },
   {
-    "symbol": "IRET",
+    "symbol": "IRET^",
     "name": "Investors Real Estate Trust",
-    "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts",
     "exchange": "nyse",
     "id": 798359,
     "address": {
@@ -44815,10 +44655,10 @@
     "longitude": -101.313819
   },
   {
-    "symbol": "IRET^",
+    "symbol": "IRET",
     "name": "Investors Real Estate Trust",
-    "sector": "n/a",
-    "industry": "n/a",
+    "sector": "Consumer Services",
+    "industry": "Real Estate Investment Trusts",
     "exchange": "nyse",
     "id": 798359,
     "address": {
@@ -44894,7 +44734,7 @@
   },
   {
     "symbol": "IRM",
-    "name": "Iron Mountain Incorporated",
+    "name": "Iron Mountain",
     "sector": "Consumer Services",
     "industry": "Office Equipment/Supplies/Services",
     "exchange": "nyse",
@@ -45299,6 +45139,22 @@
     "longitude": -75.356603
   },
   {
+    "symbol": "JMPB",
+    "name": "JMP Group",
+    "sector": "Finance",
+    "industry": "Investment Bankers/Brokers/Service",
+    "exchange": "nyse",
+    "id": 1383803,
+    "address": {
+      "street1": "600 MONTGOMERY STREET",
+      "city": "SAN FRANCISCO",
+      "state": "CA",
+      "zip": "94111"
+    },
+    "latitude": 37.79509,
+    "longitude": -122.40315
+  },
+  {
     "symbol": "JMP",
     "name": "JMP Group",
     "ipoYear": 2007,
@@ -45319,22 +45175,6 @@
       "2011": -2456000,
       "2012": 2757000
     }
-  },
-  {
-    "symbol": "JMPB",
-    "name": "JMP Group",
-    "sector": "Finance",
-    "industry": "Investment Bankers/Brokers/Service",
-    "exchange": "nyse",
-    "id": 1383803,
-    "address": {
-      "street1": "600 MONTGOMERY STREET",
-      "city": "SAN FRANCISCO",
-      "state": "CA",
-      "zip": "94111"
-    },
-    "latitude": 37.79509,
-    "longitude": -122.40315
   },
   {
     "symbol": "TAX",
@@ -45403,22 +45243,6 @@
     "longitude": -117.12845
   },
   {
-    "symbol": "JXSB",
-    "name": "Jacksonville Bancorp",
-    "sector": "Finance",
-    "industry": "Savings Institutions",
-    "exchange": "nasdaq",
-    "id": 1172097,
-    "address": {
-      "street1": "1211 WEST MORTON AVE",
-      "city": "JACKSONVILLE",
-      "state": "IL",
-      "zip": "62650"
-    },
-    "latitude": 39.723225,
-    "longitude": -90.244689
-  },
-  {
     "symbol": "JAXB",
     "name": "Jacksonville Bancorp",
     "sector": "Finance",
@@ -45438,6 +45262,22 @@
       "2011": -24059000,
       "2012": -43048000
     }
+  },
+  {
+    "symbol": "JXSB",
+    "name": "Jacksonville Bancorp",
+    "sector": "Finance",
+    "industry": "Savings Institutions",
+    "exchange": "nasdaq",
+    "id": 1172097,
+    "address": {
+      "street1": "1211 WEST MORTON AVE",
+      "city": "JACKSONVILLE",
+      "state": "IL",
+      "zip": "62650"
+    },
+    "latitude": 39.723225,
+    "longitude": -90.244689
   },
   {
     "symbol": "JEC",
@@ -45866,7 +45706,7 @@
   },
   {
     "symbol": "JLL",
-    "name": "Jones Lang LaSalle Incorporated",
+    "name": "Jones Lang LaSalle",
     "sector": "Finance",
     "industry": "Real Estate",
     "exchange": "nyse",
@@ -46078,8 +45918,6 @@
   {
     "symbol": "KAP",
     "name": "KCAP Financial",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1372807,
     "address": {
@@ -46095,8 +45933,6 @@
     "symbol": "KCAP",
     "name": "KCAP Financial",
     "ipoYear": 2006,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1372807,
     "address": {
@@ -46146,10 +45982,25 @@
     }
   },
   {
-    "symbol": "KFI",
+    "symbol": "KFN",
     "name": "KKR Financial Holdings LLC",
+    "ipoYear": 2005,
     "sector": "Finance",
     "industry": "Finance: Consumer Services",
+    "exchange": "nyse",
+    "id": 1386926,
+    "address": {
+      "street1": "555 CALIFORNIA STREET, 50TH FLOOR",
+      "city": "SAN FRANCISCO",
+      "state": "CA",
+      "zip": "94104"
+    },
+    "latitude": 37.79279,
+    "longitude": -122.40359
+  },
+  {
+    "symbol": "KFN^",
+    "name": "KKR Financial Holdings LLC",
     "exchange": "nyse",
     "id": 1386926,
     "address": {
@@ -46179,27 +46030,10 @@
     "longitude": -122.40359
   },
   {
-    "symbol": "KFN",
+    "symbol": "KFI",
     "name": "KKR Financial Holdings LLC",
-    "ipoYear": 2005,
     "sector": "Finance",
     "industry": "Finance: Consumer Services",
-    "exchange": "nyse",
-    "id": 1386926,
-    "address": {
-      "street1": "555 CALIFORNIA STREET, 50TH FLOOR",
-      "city": "SAN FRANCISCO",
-      "state": "CA",
-      "zip": "94104"
-    },
-    "latitude": 37.79279,
-    "longitude": -122.40359
-  },
-  {
-    "symbol": "KFN^",
-    "name": "KKR Financial Holdings LLC",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1386926,
     "address": {
@@ -46429,22 +46263,6 @@
     }
   },
   {
-    "symbol": "KSU^",
-    "name": "Kansas City Southern",
-    "sector": "Transportation",
-    "industry": "Railroads",
-    "exchange": "nyse",
-    "id": 54480,
-    "address": {
-      "street1": "427 W 12TH STREET",
-      "city": "KANSAS CITY",
-      "state": "MO",
-      "zip": "64105"
-    },
-    "latitude": 39.10016,
-    "longitude": -94.58953
-  },
-  {
     "symbol": "KSU",
     "name": "Kansas City Southern",
     "sector": "Transportation",
@@ -46464,6 +46282,22 @@
       "2011": 330300000,
       "2012": 377300000
     }
+  },
+  {
+    "symbol": "KSU^",
+    "name": "Kansas City Southern",
+    "sector": "Transportation",
+    "industry": "Railroads",
+    "exchange": "nyse",
+    "id": 54480,
+    "address": {
+      "street1": "427 W 12TH STREET",
+      "city": "KANSAS CITY",
+      "state": "MO",
+      "zip": "64105"
+    },
+    "latitude": 39.10016,
+    "longitude": -94.58953
   },
   {
     "symbol": "KS",
@@ -46507,8 +46341,6 @@
     "symbol": "KED",
     "name": "Kayne Anderson Energy Development Company",
     "ipoYear": 2006,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1363890,
     "address": {
@@ -46540,8 +46372,6 @@
     "symbol": "KIPO",
     "name": "Keating Capital",
     "ipoYear": 2011,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1444706,
     "address": {
@@ -46660,23 +46490,6 @@
     "longitude": -79.396373
   },
   {
-    "symbol": "KWN",
-    "name": "Kennedy-Wilson Holdings",
-    "ipoYear": 2012,
-    "sector": "Finance",
-    "industry": "Real Estate",
-    "exchange": "nyse",
-    "id": 1408100,
-    "address": {
-      "street1": "9701 WILSHIRE BLVD., SUITE 700",
-      "city": "BEVERLY HILLS",
-      "state": "CA",
-      "zip": "90210"
-    },
-    "latitude": 34.06708,
-    "longitude": -118.406079
-  },
-  {
     "symbol": "KW",
     "name": "Kennedy-Wilson Holdings",
     "sector": "Finance",
@@ -46696,6 +46509,23 @@
       "2011": 6346000,
       "2012": 4250000
     }
+  },
+  {
+    "symbol": "KWN",
+    "name": "Kennedy-Wilson Holdings",
+    "ipoYear": 2012,
+    "sector": "Finance",
+    "industry": "Real Estate",
+    "exchange": "nyse",
+    "id": 1408100,
+    "address": {
+      "street1": "9701 WILSHIRE BLVD., SUITE 700",
+      "city": "BEVERLY HILLS",
+      "state": "CA",
+      "zip": "90210"
+    },
+    "latitude": 34.06708,
+    "longitude": -118.406079
   },
   {
     "symbol": "KFFB",
@@ -47466,8 +47296,6 @@
   {
     "symbol": "KF",
     "name": "Korea Fund",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 748691,
     "address": {
@@ -48038,8 +47866,6 @@
     "symbol": "SCD",
     "name": "LMP Capital and Income Fund",
     "ipoYear": 2004,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1270131,
     "address": {
@@ -48241,7 +48067,7 @@
   },
   {
     "symbol": "LZB",
-    "name": "La-Z-Boy Incorporated",
+    "name": "La-Z-Boy",
     "sector": "Consumer Durables",
     "industry": "Home Furnishings",
     "exchange": "nyse",
@@ -48897,7 +48723,7 @@
   },
   {
     "symbol": "LEE",
-    "name": "Lee Enterprises, Incorporated",
+    "name": "Lee Enterprises,",
     "sector": "Consumer Services",
     "industry": "Newspapers/Magazines",
     "exchange": "nyse",
@@ -48951,7 +48777,7 @@
   },
   {
     "symbol": "LEG",
-    "name": "Leggett & Platt, Incorporated",
+    "name": "Leggett & Platt,",
     "sector": "Consumer Durables",
     "industry": "Home Furnishings",
     "exchange": "nyse",
@@ -48993,22 +48819,6 @@
     }
   },
   {
-    "symbol": "CVB",
-    "name": "Lehman ABS",
-    "sector": "Finance",
-    "industry": "Finance: Consumer Services",
-    "exchange": "nyse",
-    "id": 829281,
-    "address": {
-      "street1": "LEHMAN ABS CORP",
-      "city": "NEW YORK",
-      "state": "NY",
-      "zip": "10285"
-    },
-    "latitude": 40.7121,
-    "longitude": -74.0102
-  },
-  {
     "symbol": "XVG",
     "name": "Lehman ABS",
     "sector": "Finance",
@@ -49026,6 +48836,22 @@
   },
   {
     "symbol": "JZK",
+    "name": "Lehman ABS",
+    "sector": "Finance",
+    "industry": "Finance: Consumer Services",
+    "exchange": "nyse",
+    "id": 829281,
+    "address": {
+      "street1": "LEHMAN ABS CORP",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zip": "10285"
+    },
+    "latitude": 40.7121,
+    "longitude": -74.0102
+  },
+  {
+    "symbol": "CVB",
     "name": "Lehman ABS",
     "sector": "Finance",
     "industry": "Finance: Consumer Services",
@@ -49250,24 +49076,6 @@
   {
     "symbol": "LBTYK",
     "name": "Liberty Global plc",
-    "sector": "n/a",
-    "industry": "n/a",
-    "exchange": "nasdaq",
-    "id": 1570585,
-    "address": {
-      "street1": "38 HANS CRESCENT",
-      "city": "LONDON",
-      "state": "X0",
-      "zip": "SW1X 0LZ"
-    },
-    "latitude": 39.527596,
-    "longitude": -99.141968
-  },
-  {
-    "symbol": "LBTYB",
-    "name": "Liberty Global plc",
-    "sector": "Consumer Services",
-    "industry": "Television Services",
     "exchange": "nasdaq",
     "id": 1570585,
     "address": {
@@ -49296,39 +49104,23 @@
     "longitude": -99.141968
   },
   {
-    "symbol": "LVNTA",
-    "name": "Liberty Interactive",
+    "symbol": "LBTYB",
+    "name": "Liberty Global plc",
     "sector": "Consumer Services",
     "industry": "Television Services",
     "exchange": "nasdaq",
-    "id": 1355096,
+    "id": 1570585,
     "address": {
-      "street1": "12300 LIBERTY BOULEVARD",
-      "city": "ENGLEWOOD",
-      "state": "CO",
-      "zip": "80112"
+      "street1": "38 HANS CRESCENT",
+      "city": "LONDON",
+      "state": "X0",
+      "zip": "SW1X 0LZ"
     },
-    "latitude": 39.5551,
-    "longitude": -104.84638
+    "latitude": 39.527596,
+    "longitude": -99.141968
   },
   {
     "symbol": "LVNTB",
-    "name": "Liberty Interactive",
-    "sector": "Consumer Services",
-    "industry": "Television Services",
-    "exchange": "nasdaq",
-    "id": 1355096,
-    "address": {
-      "street1": "12300 LIBERTY BOULEVARD",
-      "city": "ENGLEWOOD",
-      "state": "CO",
-      "zip": "80112"
-    },
-    "latitude": 39.5551,
-    "longitude": -104.84638
-  },
-  {
-    "symbol": "LINTB",
     "name": "Liberty Interactive",
     "sector": "Consumer Services",
     "industry": "Television Services",
@@ -49363,6 +49155,38 @@
       "2011": 211000000,
       "2012": 212000000
     }
+  },
+  {
+    "symbol": "LVNTA",
+    "name": "Liberty Interactive",
+    "sector": "Consumer Services",
+    "industry": "Television Services",
+    "exchange": "nasdaq",
+    "id": 1355096,
+    "address": {
+      "street1": "12300 LIBERTY BOULEVARD",
+      "city": "ENGLEWOOD",
+      "state": "CO",
+      "zip": "80112"
+    },
+    "latitude": 39.5551,
+    "longitude": -104.84638
+  },
+  {
+    "symbol": "LINTB",
+    "name": "Liberty Interactive",
+    "sector": "Consumer Services",
+    "industry": "Television Services",
+    "exchange": "nasdaq",
+    "id": 1355096,
+    "address": {
+      "street1": "12300 LIBERTY BOULEVARD",
+      "city": "ENGLEWOOD",
+      "state": "CO",
+      "zip": "80112"
+    },
+    "latitude": 39.5551,
+    "longitude": -104.84638
   },
   {
     "symbol": "LMCB",
@@ -49555,7 +49379,7 @@
   },
   {
     "symbol": "LGND",
-    "name": "Ligand Pharmaceuticals Incorporated",
+    "name": "Ligand Pharmaceuticals",
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
     "exchange": "nasdaq",
@@ -50474,7 +50298,7 @@
   },
   {
     "symbol": "LUNA",
-    "name": "Luna Innovations Incorporated",
+    "name": "Luna Innovations",
     "ipoYear": 2006,
     "sector": "Health Care",
     "industry": "Biotechnology: Commercial Physical & Biological Resarch",
@@ -50625,10 +50449,8 @@
     }
   },
   {
-    "symbol": "MTB",
+    "symbol": "MTB^",
     "name": "M&T Bank",
-    "sector": "Finance",
-    "industry": "Major Banks",
     "exchange": "nyse",
     "id": 36270,
     "address": {
@@ -50641,10 +50463,10 @@
     "longitude": -78.87
   },
   {
-    "symbol": "MTB^",
+    "symbol": "MTB",
     "name": "M&T Bank",
-    "sector": "n/a",
-    "industry": "n/a",
+    "sector": "Finance",
+    "industry": "Major Banks",
     "exchange": "nyse",
     "id": 36270,
     "address": {
@@ -50779,8 +50601,6 @@
     "symbol": "MCGC",
     "name": "MCG Capital",
     "ipoYear": 2001,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1141299,
     "address": {
@@ -50911,7 +50731,7 @@
     "longitude": -99.141968
   },
   {
-    "symbol": "MEIL",
+    "symbol": "MEILW",
     "name": "METHES ENERGIES INTERNATIONAL LTD",
     "ipoYear": 2012,
     "sector": "Basic Industries",
@@ -50928,7 +50748,7 @@
     "longitude": -115.21646
   },
   {
-    "symbol": "MEILW",
+    "symbol": "MEIL",
     "name": "METHES ENERGIES INTERNATIONAL LTD",
     "ipoYear": 2012,
     "sector": "Basic Industries",
@@ -50962,22 +50782,6 @@
     "longitude": -115.21646
   },
   {
-    "symbol": "MFO",
-    "name": "MFA Financial",
-    "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts",
-    "exchange": "nyse",
-    "id": 1055160,
-    "address": {
-      "street1": "350 PARK AVENUE",
-      "city": "NEW YORK",
-      "state": "NY",
-      "zip": "10022"
-    },
-    "latitude": 40.75803,
-    "longitude": -73.9735
-  },
-  {
     "symbol": "MFA",
     "name": "MFA Financial",
     "sector": "Consumer Services",
@@ -50997,6 +50801,22 @@
       "2011": 316414000,
       "2012": 306839000
     }
+  },
+  {
+    "symbol": "MFO",
+    "name": "MFA Financial",
+    "sector": "Consumer Services",
+    "industry": "Real Estate Investment Trusts",
+    "exchange": "nyse",
+    "id": 1055160,
+    "address": {
+      "street1": "350 PARK AVENUE",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zip": "10022"
+    },
+    "latitude": 40.75803,
+    "longitude": -73.9735
   },
   {
     "symbol": "MIL",
@@ -51420,8 +51240,6 @@
   {
     "symbol": "MVC",
     "name": "MVC Capital",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1099941,
     "address": {
@@ -51864,11 +51682,11 @@
     "longitude": -74.46182
   },
   {
-    "symbol": "MHLD",
+    "symbol": "MHNA",
     "name": "Maiden Holdings, Ltd.",
     "sector": "Finance",
     "industry": "Property-Casualty Insurers",
-    "exchange": "nasdaq",
+    "exchange": "nyse",
     "id": 1412100,
     "address": {
       "street1": "SCHRODERS HOUSE",
@@ -51880,11 +51698,11 @@
     "longitude": -99.141968
   },
   {
-    "symbol": "MHNA",
+    "symbol": "MHLD",
     "name": "Maiden Holdings, Ltd.",
     "sector": "Finance",
     "industry": "Property-Casualty Insurers",
-    "exchange": "nyse",
+    "exchange": "nasdaq",
     "id": 1412100,
     "address": {
       "street1": "SCHRODERS HOUSE",
@@ -51915,8 +51733,6 @@
   {
     "symbol": "MSCA",
     "name": "Main Street Capital",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1396440,
     "address": {
@@ -51932,8 +51748,6 @@
     "symbol": "MAIN",
     "name": "Main Street Capital",
     "ipoYear": 2007,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1396440,
     "address": {
@@ -52201,7 +52015,7 @@
   },
   {
     "symbol": "MTEX",
-    "name": "Mannatech, Incorporated",
+    "name": "Mannatech,",
     "sector": "Consumer Durables",
     "industry": "Specialty Chemicals",
     "exchange": "nasdaq",
@@ -52343,6 +52157,22 @@
     }
   },
   {
+    "symbol": "MCS",
+    "name": "Marcus",
+    "sector": "Consumer Services",
+    "industry": "Hotels/Resorts",
+    "exchange": "nyse",
+    "id": 62234,
+    "address": {
+      "street1": "100 EAST WISCONSIN AVENUE",
+      "city": "MILWAUKEE",
+      "state": "WI",
+      "zip": "53202-4125"
+    },
+    "latitude": 43.03862,
+    "longitude": -87.909759
+  },
+  {
     "symbol": "MMI",
     "name": "Marcus & Millichap",
     "ipoYear": 2013,
@@ -52360,24 +52190,8 @@
     "longitude": -118.64815
   },
   {
-    "symbol": "MCS",
-    "name": "Marcus",
-    "sector": "Consumer Services",
-    "industry": "Hotels/Resorts",
-    "exchange": "nyse",
-    "id": 62234,
-    "address": {
-      "street1": "100 EAST WISCONSIN AVENUE",
-      "city": "MILWAUKEE",
-      "state": "WI",
-      "zip": "53202-4125"
-    },
-    "latitude": 43.03862,
-    "longitude": -87.909759
-  },
-  {
     "symbol": "MRIN",
-    "name": "Marin Software Incorporated",
+    "name": "Marin Software",
     "ipoYear": 2013,
     "sector": "Technology",
     "industry": "EDP Services",
@@ -52395,8 +52209,6 @@
   {
     "symbol": "MHG",
     "name": "Marine Harvest ASA",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1578526,
     "address": {
@@ -52876,7 +52688,7 @@
   },
   {
     "symbol": "MA",
-    "name": "Mastercard Incorporated",
+    "name": "Mastercard",
     "ipoYear": 2006,
     "sector": "Miscellaneous",
     "industry": "Business Services",
@@ -53246,7 +53058,7 @@
   },
   {
     "symbol": "MKC",
-    "name": "McCormick & Company, Incorporated",
+    "name": "McCormick & Company,",
     "sector": "Consumer Non-Durables",
     "industry": "Packaged Foods",
     "exchange": "nyse",
@@ -53461,8 +53273,6 @@
   {
     "symbol": "MTL^",
     "name": "Mechel OAO",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1302362,
     "address": {
@@ -53730,8 +53540,6 @@
     "symbol": "MCC",
     "name": "Medley Capital",
     "ipoYear": 2011,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 65195,
     "address": {
@@ -53746,8 +53554,6 @@
   {
     "symbol": "MCQ",
     "name": "Medley Capital",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1490349,
     "address": {
@@ -54549,7 +54355,7 @@
   },
   {
     "symbol": "MCRL",
-    "name": "Micrel, Incorporated",
+    "name": "Micrel,",
     "ipoYear": 1994,
     "sector": "Technology",
     "industry": "Semiconductors",
@@ -54566,7 +54372,7 @@
   },
   {
     "symbol": "MFI",
-    "name": "MicroFinancial Incorporated",
+    "name": "MicroFinancial",
     "ipoYear": 1999,
     "sector": "Finance",
     "industry": "Diversified Financial Services",
@@ -54588,7 +54394,7 @@
   },
   {
     "symbol": "MSTR",
-    "name": "MicroStrategy Incorporated",
+    "name": "MicroStrategy",
     "ipoYear": 1998,
     "sector": "Technology",
     "industry": "Computer Software: Prepackaged Software",
@@ -54610,7 +54416,7 @@
   },
   {
     "symbol": "MCHP",
-    "name": "Microchip Technology Incorporated",
+    "name": "Microchip Technology",
     "ipoYear": 1993,
     "sector": "Technology",
     "industry": "Semiconductors",
@@ -55060,8 +54866,6 @@
     "symbol": "MXA",
     "name": "Minnesota Municipal Income Portfolio",
     "ipoYear": 1993,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "amex",
     "id": 902748,
     "address": {
@@ -55574,8 +55378,6 @@
     "symbol": "MRCC",
     "name": "Monroe Capital",
     "ipoYear": 2012,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1512931,
     "address": {
@@ -55665,8 +55467,6 @@
   {
     "symbol": "MTS",
     "name": "Montgomery Street Income Securities",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 67813,
     "address": {
@@ -55722,22 +55522,6 @@
     }
   },
   {
-    "symbol": "MSK",
-    "name": "Morgan Stanley",
-    "sector": "n/a",
-    "industry": "n/a",
-    "exchange": "nyse",
-    "id": 914596,
-    "address": {
-      "street1": "AV LA CLINICA 2520",
-      "city": "MONTERREY MEXICO",
-      "state": "O5",
-      "zip": "00000"
-    },
-    "latitude": 31.07095,
-    "longitude": -92.0028
-  },
-  {
     "symbol": "MS",
     "name": "Morgan Stanley",
     "sector": "Finance",
@@ -55759,11 +55543,23 @@
     }
   },
   {
+    "symbol": "MSK",
+    "name": "Morgan Stanley",
+    "exchange": "nyse",
+    "id": 914596,
+    "address": {
+      "street1": "AV LA CLINICA 2520",
+      "city": "MONTERREY MEXICO",
+      "state": "O5",
+      "zip": "00000"
+    },
+    "latitude": 31.07095,
+    "longitude": -92.0028
+  },
+  {
     "symbol": "MHGC",
     "name": "Morgans Hotel Group",
     "ipoYear": 2006,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1342126,
     "address": {
@@ -56329,8 +56125,6 @@
     "symbol": "NGPC",
     "name": "NGP Capital Resources Company",
     "ipoYear": 2004,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1297704,
     "address": {
@@ -56778,7 +56572,7 @@
   },
   {
     "symbol": "NANO",
-    "name": "Nanometrics Incorporated",
+    "name": "Nanometrics",
     "ipoYear": 1984,
     "sector": "Capital Goods",
     "industry": "Industrial Machinery/Components",
@@ -57353,7 +57147,7 @@
   },
   {
     "symbol": "BABY",
-    "name": "Natus Medical Incorporated",
+    "name": "Natus Medical",
     "ipoYear": 2001,
     "sector": "Health Care",
     "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
@@ -57883,8 +57677,6 @@
     "symbol": "NURO",
     "name": "NeuroMetrix",
     "ipoYear": 2004,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1289850,
     "address": {
@@ -58060,8 +57852,6 @@
     "symbol": "NMFC",
     "name": "New Mountain Finance",
     "ipoYear": 2011,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1496099,
     "address": {
@@ -58444,7 +58234,7 @@
     }
   },
   {
-    "symbol": "NWS",
+    "symbol": "NWSA",
     "name": "News",
     "sector": "Consumer Services",
     "industry": "Newspapers/Magazines",
@@ -58460,7 +58250,7 @@
     "longitude": -73.981529
   },
   {
-    "symbol": "NWSA",
+    "symbol": "NWS",
     "name": "News",
     "sector": "Consumer Services",
     "industry": "Newspapers/Magazines",
@@ -58931,7 +58721,7 @@
   },
   {
     "symbol": "NSYS",
-    "name": "Nortech Systems Incorporated",
+    "name": "Nortech Systems",
     "sector": "Capital Goods",
     "industry": "Industrial Machinery/Components",
     "exchange": "nasdaq",
@@ -59798,8 +59588,6 @@
     "symbol": "NXC",
     "name": "Nuveen Insured California Select Tax-Free Income Portfolio",
     "ipoYear": 1992,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 885732,
     "address": {
@@ -59815,8 +59603,6 @@
     "symbol": "NXN",
     "name": "Nuveen Insured New York Select Tax-Free Income Portfolio",
     "ipoYear": 1992,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 885731,
     "address": {
@@ -59832,8 +59618,6 @@
     "symbol": "JPS",
     "name": "Nuveen Quality Preferred Income Fund 2",
     "ipoYear": 2002,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1176433,
     "address": {
@@ -59996,8 +59780,6 @@
     "symbol": "OFS",
     "name": "OFS Capital",
     "ipoYear": 2012,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1487918,
     "address": {
@@ -60762,22 +60544,6 @@
     }
   },
   {
-    "symbol": "OSBCP",
-    "name": "Old Second Bancorp",
-    "sector": "Finance",
-    "industry": "Major Banks",
-    "exchange": "nasdaq",
-    "id": 357173,
-    "address": {
-      "street1": "37 S RIVER ST",
-      "city": "AURORA",
-      "state": "IL",
-      "zip": "60507"
-    },
-    "latitude": 41.758293,
-    "longitude": -88.317935
-  },
-  {
     "symbol": "OSBC",
     "name": "Old Second Bancorp",
     "sector": "Finance",
@@ -60796,6 +60562,22 @@
       "2011": -6498000,
       "2012": -72000
     }
+  },
+  {
+    "symbol": "OSBCP",
+    "name": "Old Second Bancorp",
+    "sector": "Finance",
+    "industry": "Major Banks",
+    "exchange": "nasdaq",
+    "id": 357173,
+    "address": {
+      "street1": "37 S RIVER ST",
+      "city": "AURORA",
+      "state": "IL",
+      "zip": "60507"
+    },
+    "latitude": 41.758293,
+    "longitude": -88.317935
   },
   {
     "symbol": "OLN",
@@ -62095,8 +61877,6 @@
     "symbol": "OXLC",
     "name": "Oxford Lane Capital",
     "ipoYear": 2011,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1495222,
     "address": {
@@ -62478,22 +62258,6 @@
     }
   },
   {
-    "symbol": "PHIIK",
-    "name": "PHI",
-    "sector": "Transportation",
-    "industry": "Transportation Services",
-    "exchange": "nasdaq",
-    "id": 350403,
-    "address": {
-      "street1": "2001 SE EVANGELINE THRUWAY",
-      "city": "LAFAYETTE",
-      "state": "LA",
-      "zip": "70508"
-    },
-    "latitude": 30.1774,
-    "longitude": -91.9852
-  },
-  {
     "symbol": "PHII",
     "name": "PHI",
     "sector": "Transportation",
@@ -62513,6 +62277,22 @@
       "2011": 4852000,
       "2012": 18057000
     }
+  },
+  {
+    "symbol": "PHIIK",
+    "name": "PHI",
+    "sector": "Transportation",
+    "industry": "Transportation Services",
+    "exchange": "nasdaq",
+    "id": 350403,
+    "address": {
+      "street1": "2001 SE EVANGELINE THRUWAY",
+      "city": "LAFAYETTE",
+      "state": "LA",
+      "zip": "70508"
+    },
+    "latitude": 30.1774,
+    "longitude": -91.9852
   },
   {
     "symbol": "PICO",
@@ -62697,22 +62477,6 @@
     }
   },
   {
-    "symbol": "PPX",
-    "name": "PPL Capital Funding",
-    "sector": "Public Utilities",
-    "industry": "Electric Utilities: Central",
-    "exchange": "nyse",
-    "id": 1047459,
-    "address": {
-      "street1": "TWO NORTH NINTH ST",
-      "city": "ALLENTOWN",
-      "state": "PA",
-      "zip": "18101"
-    },
-    "latitude": 40.601205,
-    "longitude": -75.475474
-  },
-  {
     "symbol": "PPL",
     "name": "PPL",
     "sector": "Public Utilities",
@@ -62724,6 +62488,22 @@
       "city": "ALLENTOWN",
       "state": "PA",
       "zip": "18101-1179"
+    },
+    "latitude": 40.601205,
+    "longitude": -75.475474
+  },
+  {
+    "symbol": "PPX",
+    "name": "PPL Capital Funding",
+    "sector": "Public Utilities",
+    "industry": "Electric Utilities: Central",
+    "exchange": "nyse",
+    "id": 1047459,
+    "address": {
+      "street1": "TWO NORTH NINTH ST",
+      "city": "ALLENTOWN",
+      "state": "PA",
+      "zip": "18101"
     },
     "latitude": 40.601205,
     "longitude": -75.475474
@@ -63712,8 +63492,6 @@
     "symbol": "PEGI",
     "name": "Pattern Energy Group",
     "ipoYear": 2013,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1561660,
     "address": {
@@ -64048,8 +63826,6 @@
     "symbol": "PFLT",
     "name": "PennantPark Floating Rate Capital Ltd.",
     "ipoYear": 2011,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1504619,
     "address": {
@@ -64065,8 +63841,6 @@
     "symbol": "PNNT",
     "name": "PennantPark Investment",
     "ipoYear": 2007,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1383414,
     "address": {
@@ -64433,7 +64207,7 @@
   },
   {
     "symbol": "PTIX",
-    "name": "Performance Technologies, Incorporated",
+    "name": "Performance Technologies,",
     "ipoYear": 1996,
     "sector": "Technology",
     "industry": "Computer Communications Equipment",
@@ -64739,8 +64513,6 @@
   {
     "symbol": "PEO",
     "name": "Petroleum Resources",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 216851,
     "address": {
@@ -64929,8 +64701,9 @@
     "longitude": -95.54905
   },
   {
-    "symbol": "PFX",
+    "symbol": "PNX",
     "name": "Phoenix Companies",
+    "ipoYear": 2001,
     "sector": "Finance",
     "industry": "Life Insurance",
     "exchange": "nyse",
@@ -64945,9 +64718,8 @@
     "longitude": -72.671715
   },
   {
-    "symbol": "PNX",
+    "symbol": "PFX",
     "name": "Phoenix Companies",
-    "ipoYear": 2001,
     "sector": "Finance",
     "industry": "Life Insurance",
     "exchange": "nyse",
@@ -65131,8 +64903,6 @@
     "symbol": "PGP",
     "name": "Pimco Global Stocksplus & Income Fund",
     "ipoYear": 2005,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1318025,
     "address": {
@@ -65837,7 +65607,7 @@
     }
   },
   {
-    "symbol": "BPOPN",
+    "symbol": "BPOPM",
     "name": "Popular",
     "sector": "Finance",
     "industry": "Major Banks",
@@ -65853,7 +65623,7 @@
     "longitude": -66.058789
   },
   {
-    "symbol": "BPOPM",
+    "symbol": "BPOPN",
     "name": "Popular",
     "sector": "Finance",
     "industry": "Major Banks",
@@ -66287,8 +66057,6 @@
   {
     "symbol": "PFBC",
     "name": "Preferred Bank",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1492165,
     "address": {
@@ -66585,12 +66353,11 @@
     }
   },
   {
-    "symbol": "PVTB",
+    "symbol": "PVTD",
     "name": "PrivateBancorp",
-    "ipoYear": 1999,
     "sector": "Finance",
     "industry": "Major Banks",
-    "exchange": "nasdaq",
+    "exchange": "nyse",
     "id": 889936,
     "address": {
       "street1": "120 SOUTH LASALLE STREET",
@@ -66602,11 +66369,12 @@
     "longitude": -87.632288
   },
   {
-    "symbol": "PVTD",
+    "symbol": "PVTB",
     "name": "PrivateBancorp",
+    "ipoYear": 1999,
     "sector": "Finance",
     "industry": "Major Banks",
-    "exchange": "nyse",
+    "exchange": "nasdaq",
     "id": 889936,
     "address": {
       "street1": "120 SOUTH LASALLE STREET",
@@ -66898,11 +66666,10 @@
     "longitude": -99.141968
   },
   {
-    "symbol": "PRY",
+    "symbol": "PSEC",
     "name": "Prospect Capital",
-    "sector": "n/a",
-    "industry": "n/a",
-    "exchange": "nyse",
+    "ipoYear": 2004,
+    "exchange": "nasdaq",
     "id": 1287032,
     "address": {
       "street1": "10 EAST 40TH STREET 44TH FL",
@@ -66914,12 +66681,9 @@
     "longitude": -73.98102
   },
   {
-    "symbol": "PSEC",
+    "symbol": "PRY",
     "name": "Prospect Capital",
-    "ipoYear": 2004,
-    "sector": "n/a",
-    "industry": "n/a",
-    "exchange": "nasdaq",
+    "exchange": "nyse",
     "id": 1287032,
     "address": {
       "street1": "10 EAST 40TH STREET 44TH FL",
@@ -66989,22 +66753,6 @@
     }
   },
   {
-    "symbol": "PLP",
-    "name": "Protective Life",
-    "sector": "Finance",
-    "industry": "Life Insurance",
-    "exchange": "nyse",
-    "id": 355429,
-    "address": {
-      "street1": "2801 HGWY 280 S",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "zip": "35223"
-    },
-    "latitude": 33.47731,
-    "longitude": -86.772349
-  },
-  {
     "symbol": "PL",
     "name": "Protective Life",
     "sector": "Finance",
@@ -67024,6 +66772,22 @@
       "2011": 315392000,
       "2012": 302452000
     }
+  },
+  {
+    "symbol": "PLP",
+    "name": "Protective Life",
+    "sector": "Finance",
+    "industry": "Life Insurance",
+    "exchange": "nyse",
+    "id": 355429,
+    "address": {
+      "street1": "2801 HGWY 280 S",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "zip": "35223"
+    },
+    "latitude": 33.47731,
+    "longitude": -86.772349
   },
   {
     "symbol": "PRTA",
@@ -67138,22 +66902,6 @@
     "longitude": -75.178471
   },
   {
-    "symbol": "PFK",
-    "name": "Prudential Financial",
-    "sector": "Finance",
-    "industry": "Life Insurance",
-    "exchange": "nyse",
-    "id": 1137774,
-    "address": {
-      "street1": "751 BROAD ST",
-      "city": "NEWARK",
-      "state": "NJ",
-      "zip": "07102"
-    },
-    "latitude": 40.736642,
-    "longitude": -74.171525
-  },
-  {
     "symbol": "PRU",
     "name": "Prudential Financial",
     "ipoYear": 2001,
@@ -67176,10 +66924,24 @@
     }
   },
   {
+    "symbol": "PFK",
+    "name": "Prudential Financial",
+    "sector": "Finance",
+    "industry": "Life Insurance",
+    "exchange": "nyse",
+    "id": 1137774,
+    "address": {
+      "street1": "751 BROAD ST",
+      "city": "NEWARK",
+      "state": "NJ",
+      "zip": "07102"
+    },
+    "latitude": 40.736642,
+    "longitude": -74.171525
+  },
+  {
     "symbol": "PUK^",
     "name": "Prudential Public Limited Company",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1116578,
     "address": {
@@ -67230,7 +66992,7 @@
   },
   {
     "symbol": "PEG",
-    "name": "Public Service Enterprise Group Incorporated",
+    "name": "Public Service Enterprise Group",
     "sector": "Public Utilities",
     "industry": "Power Generation",
     "exchange": "nyse",
@@ -67298,7 +67060,7 @@
     "longitude": -117.073855
   },
   {
-    "symbol": "PHM",
+    "symbol": "PHA",
     "name": "PulteGroup",
     "sector": "Capital Goods",
     "industry": "Homebuilding",
@@ -67314,7 +67076,7 @@
     "longitude": -83.23998
   },
   {
-    "symbol": "PHA",
+    "symbol": "PHM",
     "name": "PulteGroup",
     "sector": "Capital Goods",
     "industry": "Homebuilding",
@@ -67628,7 +67390,7 @@
   },
   {
     "symbol": "QCOM",
-    "name": "QUALCOMM Incorporated",
+    "name": "QUALCOMM",
     "ipoYear": 1991,
     "sector": "Technology",
     "industry": "Radio And Television Broadcasting And Communications Equipment",
@@ -67901,7 +67663,7 @@
   },
   {
     "symbol": "DGX",
-    "name": "Quest Diagnostics Incorporated",
+    "name": "Quest Diagnostics",
     "sector": "Health Care",
     "industry": "Medical Specialities",
     "exchange": "nyse",
@@ -68227,7 +67989,7 @@
   },
   {
     "symbol": "ROLL",
-    "name": "RBC Bearings Incorporated",
+    "name": "RBC Bearings",
     "ipoYear": 2005,
     "sector": "Capital Goods",
     "industry": "Metal Fabrications",
@@ -68917,8 +68679,6 @@
   {
     "symbol": "RAND",
     "name": "Rand Capital",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 81955,
     "address": {
@@ -69660,9 +69420,7 @@
   },
   {
     "symbol": "RZA",
-    "name": "Reinsurance Group of America, Incorporated",
-    "sector": "n/a",
-    "industry": "n/a",
+    "name": "Reinsurance Group of America,",
     "exchange": "nyse",
     "id": 898174,
     "address": {
@@ -69676,7 +69434,7 @@
   },
   {
     "symbol": "RGA",
-    "name": "Reinsurance Group of America, Incorporated",
+    "name": "Reinsurance Group of America,",
     "sector": "Finance",
     "industry": "Accident &Health Insurance",
     "exchange": "nyse",
@@ -69815,8 +69573,6 @@
   {
     "symbol": "RCG",
     "name": "Renaissance Capital Growth & Income Fund III",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "amex",
     "id": 919567,
     "address": {
@@ -70020,6 +69776,28 @@
     }
   },
   {
+    "symbol": "RPRX",
+    "name": "Repros Therapeutics",
+    "sector": "Health Care",
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "exchange": "nasdaq",
+    "id": 897075,
+    "address": {
+      "street1": "2408 TIMBERLOCH PL",
+      "city": "WOODLANDS",
+      "state": "TX",
+      "zip": "77380"
+    },
+    "latitude": 30.160017,
+    "longitude": -95.472798,
+    "profits": {
+      "2009": -27234000,
+      "2010": -4768000,
+      "2011": -12491000,
+      "2012": -18167000
+    }
+  },
+  {
     "symbol": "RPRXW",
     "name": "Repros Therapeutics",
     "sector": "Health Care",
@@ -70050,28 +69828,6 @@
     },
     "latitude": 30.160017,
     "longitude": -95.472798
-  },
-  {
-    "symbol": "RPRX",
-    "name": "Repros Therapeutics",
-    "sector": "Health Care",
-    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
-    "exchange": "nasdaq",
-    "id": 897075,
-    "address": {
-      "street1": "2408 TIMBERLOCH PL",
-      "city": "WOODLANDS",
-      "state": "TX",
-      "zip": "77380"
-    },
-    "latitude": 30.160017,
-    "longitude": -95.472798,
-    "profits": {
-      "2009": -27234000,
-      "2010": -4768000,
-      "2011": -12491000,
-      "2012": -18167000
-    }
   },
   {
     "symbol": "RJET",
@@ -70173,7 +69929,7 @@
   },
   {
     "symbol": "REFR",
-    "name": "Research Frontiers Incorporated",
+    "name": "Research Frontiers",
     "sector": "Miscellaneous",
     "industry": "Multi-Sector Companies",
     "exchange": "nasdaq",
@@ -70323,22 +70079,6 @@
     "longitude": -122.51073
   },
   {
-    "symbol": "ROICU",
-    "name": "Retail Opportunity Investments",
-    "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts",
-    "exchange": "nasdaq",
-    "id": 1407623,
-    "address": {
-      "street1": "8905 TOWNE CENTRE DRIVE, SUITE 108",
-      "city": "SAN DIEGO",
-      "state": "CA",
-      "zip": "92122"
-    },
-    "latitude": 32.867324,
-    "longitude": -117.207356
-  },
-  {
     "symbol": "ROICW",
     "name": "Retail Opportunity Investments",
     "sector": "Consumer Services",
@@ -70374,6 +70114,22 @@
       "2011": 9656321,
       "2012": 7892613
     }
+  },
+  {
+    "symbol": "ROICU",
+    "name": "Retail Opportunity Investments",
+    "sector": "Consumer Services",
+    "industry": "Real Estate Investment Trusts",
+    "exchange": "nasdaq",
+    "id": 1407623,
+    "address": {
+      "street1": "8905 TOWNE CENTRE DRIVE, SUITE 108",
+      "city": "SAN DIEGO",
+      "state": "CA",
+      "zip": "92122"
+    },
+    "latitude": 32.867324,
+    "longitude": -117.207356
   },
   {
     "symbol": "RPAI",
@@ -70771,7 +70527,7 @@
   },
   {
     "symbol": "RBA",
-    "name": "Ritchie Bros. Auctioneers Incorporated",
+    "name": "Ritchie Bros. Auctioneers",
     "sector": "Miscellaneous",
     "industry": "Business Services",
     "exchange": "nyse",
@@ -70921,8 +70677,6 @@
   {
     "symbol": "ROBO",
     "name": "Robo-Stox Global Robotics and Automation Index ETF",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 743399,
     "address": {
@@ -71120,22 +70874,6 @@
     "longitude": -83.439419
   },
   {
-    "symbol": "RCI",
-    "name": "Rogers Communication",
-    "sector": "Consumer Services",
-    "industry": "Television Services",
-    "exchange": "nyse",
-    "id": 733099,
-    "address": {
-      "street1": "333 BLOOR STREET EAST",
-      "city": "TORONTO, ONTARIO",
-      "state": "A6",
-      "zip": "M4W 1G9"
-    },
-    "latitude": 43.671726,
-    "longitude": -79.379875
-  },
-  {
     "symbol": "ROG",
     "name": "Rogers",
     "sector": "Basic Industries",
@@ -71155,6 +70893,22 @@
       "2011": 37055000,
       "2012": 68685000
     }
+  },
+  {
+    "symbol": "RCI",
+    "name": "Rogers Communication",
+    "sector": "Consumer Services",
+    "industry": "Television Services",
+    "exchange": "nyse",
+    "id": 733099,
+    "address": {
+      "street1": "333 BLOOR STREET EAST",
+      "city": "TORONTO, ONTARIO",
+      "state": "A6",
+      "zip": "M4W 1G9"
+    },
+    "latitude": 43.671726,
+    "longitude": -79.379875
   },
   {
     "symbol": "ROL",
@@ -71487,8 +71241,6 @@
   {
     "symbol": "FUND",
     "name": "Royce Focus Trust",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 825202,
     "address": {
@@ -71594,22 +71346,6 @@
     }
   },
   {
-    "symbol": "RUSHB",
-    "name": "Rush Enterprises",
-    "sector": "Consumer Durables",
-    "industry": "Automotive Aftermarket",
-    "exchange": "nasdaq",
-    "id": 1012019,
-    "address": {
-      "street1": "555 IH 35 SOUTH",
-      "city": "NEW BRAUNFELS",
-      "state": "TX",
-      "zip": "78130"
-    },
-    "latitude": 29.688162,
-    "longitude": -98.118365
-  },
-  {
     "symbol": "RUSHA",
     "name": "Rush Enterprises",
     "sector": "Consumer Durables",
@@ -71629,6 +71365,22 @@
       "2011": 55213000,
       "2012": 62455000
     }
+  },
+  {
+    "symbol": "RUSHB",
+    "name": "Rush Enterprises",
+    "sector": "Consumer Durables",
+    "industry": "Automotive Aftermarket",
+    "exchange": "nasdaq",
+    "id": 1012019,
+    "address": {
+      "street1": "555 IH 35 SOUTH",
+      "city": "NEW BRAUNFELS",
+      "state": "TX",
+      "zip": "78130"
+    },
+    "latitude": 29.688162,
+    "longitude": -98.118365
   },
   {
     "symbol": "RUTH",
@@ -72117,6 +71869,22 @@
     }
   },
   {
+    "symbol": "SLMBP",
+    "name": "SLM",
+    "sector": "Finance",
+    "industry": "Finance: Consumer Services",
+    "exchange": "nasdaq",
+    "id": 1032033,
+    "address": {
+      "street1": "300 CONTINENTAL DRIVE",
+      "city": "NEWARK",
+      "state": "DE",
+      "zip": "19713"
+    },
+    "latitude": 39.685982,
+    "longitude": -75.660703
+  },
+  {
     "symbol": "ISM",
     "name": "SLM",
     "sector": "Finance",
@@ -72134,22 +71902,6 @@
   },
   {
     "symbol": "SLM",
-    "name": "SLM",
-    "sector": "Finance",
-    "industry": "Finance: Consumer Services",
-    "exchange": "nasdaq",
-    "id": 1032033,
-    "address": {
-      "street1": "300 CONTINENTAL DRIVE",
-      "city": "NEWARK",
-      "state": "DE",
-      "zip": "19713"
-    },
-    "latitude": 39.685982,
-    "longitude": -75.660703
-  },
-  {
-    "symbol": "SLMBP",
     "name": "SLM",
     "sector": "Finance",
     "industry": "Finance: Consumer Services",
@@ -72751,8 +72503,6 @@
     "symbol": "SMF",
     "name": "Salient MLP and Energy Infrastructure Fund",
     "ipoYear": 2011,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 875751,
     "address": {
@@ -73048,11 +72798,11 @@
     "longitude": -121.93028
   },
   {
-    "symbol": "GCVRZ",
+    "symbol": "SNY",
     "name": "Sanofi",
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
-    "exchange": "nasdaq",
+    "exchange": "nyse",
     "id": 1121404,
     "address": {
       "street1": "54 RUE LA BOETIE",
@@ -73064,11 +72814,11 @@
     "longitude": -96.9282
   },
   {
-    "symbol": "SNY",
+    "symbol": "GCVRZ",
     "name": "Sanofi",
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
-    "exchange": "nyse",
+    "exchange": "nasdaq",
     "id": 1121404,
     "address": {
       "street1": "54 RUE LA BOETIE",
@@ -73122,8 +72872,6 @@
   {
     "symbol": "SAR",
     "name": "Saratoga Investment Corp",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1377936,
     "address": {
@@ -73138,8 +72886,6 @@
   {
     "symbol": "SAQ",
     "name": "Saratoga Investment Corp",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1377936,
     "address": {
@@ -73243,22 +72989,6 @@
     "longitude": -82.24731
   },
   {
-    "symbol": "SCU",
-    "name": "Scana",
-    "sector": "Public Utilities",
-    "industry": "Power Generation",
-    "exchange": "nyse",
-    "id": 754737,
-    "address": {
-      "street1": "100 SCANA PARKWAY",
-      "city": "CAYCE",
-      "state": "SC",
-      "zip": "29033"
-    },
-    "latitude": 33.9577,
-    "longitude": -81.0473
-  },
-  {
     "symbol": "SCG",
     "name": "Scana",
     "sector": "Public Utilities",
@@ -73278,6 +73008,22 @@
       "2011": 306000000,
       "2012": 341000000
     }
+  },
+  {
+    "symbol": "SCU",
+    "name": "Scana",
+    "sector": "Public Utilities",
+    "industry": "Power Generation",
+    "exchange": "nyse",
+    "id": 754737,
+    "address": {
+      "street1": "100 SCANA PARKWAY",
+      "city": "CAYCE",
+      "state": "SC",
+      "zip": "29033"
+    },
+    "latitude": 33.9577,
+    "longitude": -81.0473
   },
   {
     "symbol": "SGK",
@@ -73784,7 +73530,7 @@
     }
   },
   {
-    "symbol": "JBR",
+    "symbol": "JBN",
     "name": "Select Asset",
     "sector": "Finance",
     "industry": "Finance: Consumer Services",
@@ -73800,7 +73546,7 @@
     "longitude": -73.98347
   },
   {
-    "symbol": "JBN",
+    "symbol": "JBR",
     "name": "Select Asset",
     "sector": "Finance",
     "industry": "Finance: Consumer Services",
@@ -73899,22 +73645,6 @@
     "longitude": -122.308599
   },
   {
-    "symbol": "SGZA",
-    "name": "Selective Insurance Group",
-    "sector": "Finance",
-    "industry": "Property-Casualty Insurers",
-    "exchange": "nyse",
-    "id": 230557,
-    "address": {
-      "street1": "40 WANTAGE AVENUE",
-      "city": "BRANCHVILLE",
-      "state": "NJ",
-      "zip": "07890"
-    },
-    "latitude": 41.148408,
-    "longitude": -74.749719
-  },
-  {
     "symbol": "SIGI",
     "name": "Selective Insurance Group",
     "sector": "Finance",
@@ -73934,6 +73664,22 @@
       "2011": 22033000,
       "2012": 37963000
     }
+  },
+  {
+    "symbol": "SGZA",
+    "name": "Selective Insurance Group",
+    "sector": "Finance",
+    "industry": "Property-Casualty Insurers",
+    "exchange": "nyse",
+    "id": 230557,
+    "address": {
+      "street1": "40 WANTAGE AVENUE",
+      "city": "BRANCHVILLE",
+      "state": "NJ",
+      "zip": "07890"
+    },
+    "latitude": 41.148408,
+    "longitude": -74.749719
   },
   {
     "symbol": "SEMG",
@@ -74726,8 +74472,9 @@
     "longitude": -87.94777
   },
   {
-    "symbol": "SBNYW",
+    "symbol": "SBNY",
     "name": "Signature Bank",
+    "ipoYear": 2004,
     "sector": "Finance",
     "industry": "Major Banks",
     "exchange": "nasdaq",
@@ -74742,9 +74489,8 @@
     "longitude": -104.76848
   },
   {
-    "symbol": "SBNY",
+    "symbol": "SBNYW",
     "name": "Signature Bank",
-    "ipoYear": 2004,
     "sector": "Finance",
     "industry": "Major Banks",
     "exchange": "nasdaq",
@@ -74949,23 +74695,6 @@
     }
   },
   {
-    "symbol": "EAGL",
-    "name": "Silver Eagle Acquisition",
-    "ipoYear": 2013,
-    "sector": "Finance",
-    "industry": "Business Services",
-    "exchange": "nasdaq",
-    "id": 1001718,
-    "address": {
-      "street1": "15340 VICKERY DR",
-      "city": "HOUSTON",
-      "state": "TX",
-      "zip": "77032"
-    },
-    "latitude": 29.941676,
-    "longitude": -95.315583
-  },
-  {
     "symbol": "EAGLU",
     "name": "Silver Eagle Acquisition",
     "ipoYear": 2013,
@@ -74981,6 +74710,23 @@
     },
     "latitude": 34.013996,
     "longitude": -118.495988
+  },
+  {
+    "symbol": "EAGL",
+    "name": "Silver Eagle Acquisition",
+    "ipoYear": 2013,
+    "sector": "Finance",
+    "industry": "Business Services",
+    "exchange": "nasdaq",
+    "id": 1001718,
+    "address": {
+      "street1": "15340 VICKERY DR",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zip": "77032"
+    },
+    "latitude": 29.941676,
+    "longitude": -95.315583
   },
   {
     "symbol": "SSNI",
@@ -75552,7 +75298,7 @@
   },
   {
     "symbol": "SNA",
-    "name": "Snap-On Incorporated",
+    "name": "Snap-On",
     "sector": "Capital Goods",
     "industry": "Industrial Machinery/Components",
     "exchange": "nyse",
@@ -75647,11 +75393,10 @@
     }
   },
   {
-    "symbol": "SLRA",
+    "symbol": "SLRC",
     "name": "Solar Capital Ltd.",
-    "sector": "n/a",
-    "industry": "n/a",
-    "exchange": "nyse",
+    "ipoYear": 2010,
+    "exchange": "nasdaq",
     "id": 1418076,
     "address": {
       "street1": "500 PARK AVENUE",
@@ -75663,12 +75408,9 @@
     "longitude": -73.97006
   },
   {
-    "symbol": "SLRC",
+    "symbol": "SLRA",
     "name": "Solar Capital Ltd.",
-    "ipoYear": 2010,
-    "sector": "n/a",
-    "industry": "n/a",
-    "exchange": "nasdaq",
+    "exchange": "nyse",
     "id": 1418076,
     "address": {
       "street1": "500 PARK AVENUE",
@@ -75683,8 +75425,6 @@
     "symbol": "SUNS",
     "name": "Solar Senior Capital Ltd.",
     "ipoYear": 2011,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1508171,
     "address": {
@@ -75811,6 +75551,23 @@
     "longitude": -114.071884
   },
   {
+    "symbol": "SONC",
+    "name": "Sonic",
+    "ipoYear": 1991,
+    "sector": "Consumer Services",
+    "industry": "Restaurants",
+    "exchange": "nasdaq",
+    "id": 868611,
+    "address": {
+      "street1": "300 JOHNNY BENCH DRIVE",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zip": "73104"
+    },
+    "latitude": 35.464256,
+    "longitude": -97.507537
+  },
+  {
     "symbol": "SAH",
     "name": "Sonic Automotive",
     "ipoYear": 1997,
@@ -75831,23 +75588,6 @@
       "2011": 76254000,
       "2012": 89101000
     }
-  },
-  {
-    "symbol": "SONC",
-    "name": "Sonic",
-    "ipoYear": 1991,
-    "sector": "Consumer Services",
-    "industry": "Restaurants",
-    "exchange": "nasdaq",
-    "id": 868611,
-    "address": {
-      "street1": "300 JOHNNY BENCH DRIVE",
-      "city": "OKLAHOMA CITY",
-      "state": "OK",
-      "zip": "73104"
-    },
-    "latitude": 35.464256,
-    "longitude": -97.507537
   },
   {
     "symbol": "SOFO",
@@ -75992,8 +75732,6 @@
   {
     "symbol": "SOR",
     "name": "Source Capital",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 746776,
     "address": {
@@ -76517,7 +76255,7 @@
   },
   {
     "symbol": "SPEX",
-    "name": "Spherix Incorporated",
+    "name": "Spherix",
     "sector": "Miscellaneous",
     "industry": "Multi-Sector Companies",
     "exchange": "nasdaq",
@@ -76616,7 +76354,7 @@
     "longitude": -122.390829
   },
   {
-    "symbol": "SPCHB",
+    "symbol": "SPCHA",
     "name": "Sport Chalet",
     "sector": "Consumer Services",
     "industry": "Other Specialty Stores",
@@ -76632,7 +76370,7 @@
     "longitude": -118.1381
   },
   {
-    "symbol": "SPCHA",
+    "symbol": "SPCHB",
     "name": "Sport Chalet",
     "sector": "Consumer Services",
     "industry": "Other Specialty Stores",
@@ -76895,7 +76633,7 @@
     "longitude": -71.24529
   },
   {
-    "symbol": "SWJ",
+    "symbol": "SWU",
     "name": "Stanley Black & Decker",
     "sector": "Capital Goods",
     "industry": "Industrial Machinery/Components",
@@ -76927,7 +76665,7 @@
     "longitude": -72.80612
   },
   {
-    "symbol": "SWU",
+    "symbol": "SWJ",
     "name": "Stanley Black & Decker",
     "sector": "Capital Goods",
     "industry": "Industrial Machinery/Components",
@@ -77343,8 +77081,6 @@
     "symbol": "SCM",
     "name": "Stellus Capital Investment",
     "ipoYear": 2012,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1069336,
     "address": {
@@ -77583,7 +77319,7 @@
     "longitude": -90.1884
   },
   {
-    "symbol": "SF",
+    "symbol": "SFB",
     "name": "Stifel Financial",
     "sector": "Finance",
     "industry": "Investment Bankers/Brokers/Service",
@@ -77599,7 +77335,7 @@
     "longitude": -90.1884
   },
   {
-    "symbol": "SFB",
+    "symbol": "SF",
     "name": "Stifel Financial",
     "sector": "Finance",
     "industry": "Investment Bankers/Brokers/Service",
@@ -77673,8 +77409,6 @@
     "symbol": "BANX",
     "name": "StoneCastle Financial Corp",
     "ipoYear": 2013,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1578987,
     "address": {
@@ -78548,7 +78282,7 @@
     "longitude": -97.41378
   },
   {
-    "symbol": "SPPRP",
+    "symbol": "SPPRO",
     "name": "Supertel Hospitality",
     "sector": "Consumer Services",
     "industry": "Real Estate Investment Trusts",
@@ -78564,7 +78298,7 @@
     "longitude": -97.41378
   },
   {
-    "symbol": "SPPRO",
+    "symbol": "SPPRP",
     "name": "Supertel Hospitality",
     "sector": "Consumer Services",
     "industry": "Real Estate Investment Trusts",
@@ -78839,8 +78573,6 @@
   {
     "symbol": "SWZ",
     "name": "Swiss Helvetia Fund",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 813623,
     "address": {
@@ -78854,7 +78586,7 @@
   },
   {
     "symbol": "SYKE",
-    "name": "Sykes Enterprises, Incorporated",
+    "name": "Sykes Enterprises,",
     "ipoYear": 1996,
     "sector": "Technology",
     "industry": "EDP Services",
@@ -78995,7 +78727,7 @@
   },
   {
     "symbol": "SYNA",
-    "name": "Synaptics Incorporated",
+    "name": "Synaptics",
     "ipoYear": 2002,
     "sector": "Technology",
     "industry": "EDP Services",
@@ -79065,22 +78797,6 @@
     "longitude": -73.975419
   },
   {
-    "symbol": "SGYPU",
-    "name": "Synergy Pharmaceuticals",
-    "sector": "Health Care",
-    "industry": "Major Pharmaceuticals",
-    "exchange": "nasdaq",
-    "id": 1347613,
-    "address": {
-      "street1": "420 LEXINGTON AVENUE",
-      "city": "NEW YORK",
-      "state": "NY",
-      "zip": "10170"
-    },
-    "latitude": 40.75231,
-    "longitude": -73.975419
-  },
-  {
     "symbol": "SGYP",
     "name": "Synergy Pharmaceuticals",
     "sector": "Health Care",
@@ -79101,6 +78817,22 @@
       "2011": -14467000,
       "2012": -39444000
     }
+  },
+  {
+    "symbol": "SGYPU",
+    "name": "Synergy Pharmaceuticals",
+    "sector": "Health Care",
+    "industry": "Major Pharmaceuticals",
+    "exchange": "nasdaq",
+    "id": 1347613,
+    "address": {
+      "street1": "420 LEXINGTON AVENUE",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zip": "10170"
+    },
+    "latitude": 40.75231,
+    "longitude": -73.975419
   },
   {
     "symbol": "SYRG",
@@ -79523,8 +79255,6 @@
     "symbol": "TCPC",
     "name": "TCP Capital",
     "ipoYear": 2012,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1370755,
     "address": {
@@ -79629,7 +79359,7 @@
   },
   {
     "symbol": "TESS",
-    "name": "TESSCO Technologies Incorporated",
+    "name": "TESSCO Technologies",
     "ipoYear": 1994,
     "sector": "Consumer Non-Durables",
     "industry": "Electronic Components",
@@ -79737,8 +79467,6 @@
     "symbol": "TCRD",
     "name": "THL Credit",
     "ipoYear": 2010,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1464963,
     "address": {
@@ -79792,8 +79520,6 @@
     "symbol": "TICC",
     "name": "TICC Capital",
     "ipoYear": 2003,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1259429,
     "address": {
@@ -79981,7 +79707,7 @@
   },
   {
     "symbol": "TAIT",
-    "name": "Taitron Components Incorporated",
+    "name": "Taitron Components",
     "ipoYear": 1995,
     "sector": "Consumer Non-Durables",
     "industry": "Electronic Components",
@@ -80363,7 +80089,7 @@
     }
   },
   {
-    "symbol": "TAYCP",
+    "symbol": "TAYCO",
     "name": "Taylor Capital Group",
     "sector": "Finance",
     "industry": "Major Banks",
@@ -80396,7 +80122,7 @@
     "longitude": -87.907635
   },
   {
-    "symbol": "TAYCO",
+    "symbol": "TAYCP",
     "name": "Taylor Capital Group",
     "sector": "Finance",
     "industry": "Major Banks",
@@ -80848,7 +80574,7 @@
   },
   {
     "symbol": "TDY",
-    "name": "Teledyne Technologies Incorporated",
+    "name": "Teledyne Technologies",
     "sector": "Capital Goods",
     "industry": "Industrial Machinery/Components",
     "exchange": "nyse",
@@ -80868,7 +80594,7 @@
   },
   {
     "symbol": "TFX",
-    "name": "Teleflex Incorporated",
+    "name": "Teleflex",
     "sector": "Health Care",
     "industry": "Medical/Dental Instruments",
     "exchange": "nyse",
@@ -80932,7 +80658,23 @@
     "longitude": -89.527128
   },
   {
-    "symbol": "TDI",
+    "symbol": "TDA",
+    "name": "Telephone and Data Systems",
+    "sector": "Public Utilities",
+    "industry": "Telecommunications Equipment",
+    "exchange": "nyse",
+    "id": 96966,
+    "address": {
+      "street1": "8401 GREENWAY BLVD",
+      "city": "MIDDLETON",
+      "state": "WI",
+      "zip": "535628010"
+    },
+    "latitude": 43.090073,
+    "longitude": -89.527128
+  },
+  {
+    "symbol": "TDJ",
     "name": "Telephone and Data Systems",
     "sector": "Public Utilities",
     "industry": "Telecommunications Equipment",
@@ -80969,23 +80711,7 @@
     }
   },
   {
-    "symbol": "TDA",
-    "name": "Telephone and Data Systems",
-    "sector": "Public Utilities",
-    "industry": "Telecommunications Equipment",
-    "exchange": "nyse",
-    "id": 96966,
-    "address": {
-      "street1": "8401 GREENWAY BLVD",
-      "city": "MIDDLETON",
-      "state": "WI",
-      "zip": "535628010"
-    },
-    "latitude": 43.090073,
-    "longitude": -89.527128
-  },
-  {
-    "symbol": "TDJ",
+    "symbol": "TDI",
     "name": "Telephone and Data Systems",
     "sector": "Public Utilities",
     "industry": "Telecommunications Equipment",
@@ -81474,6 +81200,22 @@
     "longitude": -99.141968
   },
   {
+    "symbol": "TCBIP",
+    "name": "Texas Capital Bancshares",
+    "sector": "Finance",
+    "industry": "Major Banks",
+    "exchange": "nasdaq",
+    "id": 1077428,
+    "address": {
+      "street1": "2000 MCKINNEY AVE",
+      "city": "DALLAS",
+      "state": "TX",
+      "zip": "75201"
+    },
+    "latitude": 32.79074,
+    "longitude": -96.803569
+  },
+  {
     "symbol": "TCBI",
     "name": "Texas Capital Bancshares",
     "ipoYear": 2003,
@@ -81491,7 +81233,7 @@
     "longitude": -96.803569
   },
   {
-    "symbol": "TCBIP",
+    "symbol": "TCBIW",
     "name": "Texas Capital Bancshares",
     "sector": "Finance",
     "industry": "Major Banks",
@@ -81508,22 +81250,6 @@
   },
   {
     "symbol": "TCBIL",
-    "name": "Texas Capital Bancshares",
-    "sector": "Finance",
-    "industry": "Major Banks",
-    "exchange": "nasdaq",
-    "id": 1077428,
-    "address": {
-      "street1": "2000 MCKINNEY AVE",
-      "city": "DALLAS",
-      "state": "TX",
-      "zip": "75201"
-    },
-    "latitude": 32.79074,
-    "longitude": -96.803569
-  },
-  {
-    "symbol": "TCBIW",
     "name": "Texas Capital Bancshares",
     "sector": "Finance",
     "industry": "Major Banks",
@@ -81556,7 +81282,7 @@
   },
   {
     "symbol": "TXN",
-    "name": "Texas Instruments Incorporated",
+    "name": "Texas Instruments",
     "sector": "Technology",
     "industry": "Semiconductors",
     "exchange": "nasdaq",
@@ -81835,7 +81561,7 @@
   },
   {
     "symbol": "CAKE",
-    "name": "The Cheesecake Factory Incorporated",
+    "name": "The Cheesecake Factory",
     "ipoYear": 1992,
     "sector": "Consumer Services",
     "industry": "Restaurants",
@@ -82092,8 +81818,6 @@
     "symbol": "GLU",
     "name": "The Gabelli Global Utility and Income Trust",
     "ipoYear": 2004,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "amex",
     "id": 1282957,
     "address": {
@@ -82108,8 +81832,6 @@
   {
     "symbol": "GRX",
     "name": "The Gabelli Healthcare & Wellness Trust",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1391437,
     "address": {
@@ -83193,8 +82915,6 @@
     "symbol": "TYY",
     "name": "Tortoise Energy Capital",
     "ipoYear": 2005,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1319869,
     "address": {
@@ -83210,8 +82930,6 @@
     "symbol": "TYG",
     "name": "Tortoise Energy Infrastructure",
     "ipoYear": 2004,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1268533,
     "address": {
@@ -83227,8 +82945,6 @@
     "symbol": "NTG",
     "name": "Tortoise MLP Fund",
     "ipoYear": 2010,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1057693,
     "address": {
@@ -83244,8 +82960,6 @@
     "symbol": "TYN",
     "name": "Tortoise North American Energy",
     "ipoYear": 2005,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1314104,
     "address": {
@@ -83261,8 +82975,6 @@
     "symbol": "TTP",
     "name": "Tortoise Pipeline & Energy Fund",
     "ipoYear": 2011,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1526329,
     "address": {
@@ -83524,7 +83236,7 @@
   },
   {
     "symbol": "TACT",
-    "name": "TransAct Technologies Incorporated",
+    "name": "TransAct Technologies",
     "ipoYear": 1996,
     "sector": "Technology",
     "industry": "Computer peripheral equipment",
@@ -83579,8 +83291,6 @@
   {
     "symbol": "TAI",
     "name": "Transamerica Income Shares",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 99197,
     "address": {
@@ -83663,7 +83373,7 @@
   },
   {
     "symbol": "TDG",
-    "name": "Transdigm Group Incorporated",
+    "name": "Transdigm Group",
     "ipoYear": 2006,
     "sector": "Capital Goods",
     "industry": "Military/Government/Technical",
@@ -83937,8 +83647,6 @@
   {
     "symbol": "TY^",
     "name": "Tri Continental",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 99614,
     "address": {
@@ -83953,8 +83661,6 @@
   {
     "symbol": "TY",
     "name": "Tri Continental",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 99614,
     "address": {
@@ -84083,11 +83789,8 @@
     "longitude": -79.998069
   },
   {
-    "symbol": "TCAP",
+    "symbol": "TCC",
     "name": "Triangle Capital",
-    "ipoYear": 2007,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1379785,
     "address": {
@@ -84100,10 +83803,9 @@
     "longitude": -78.66672
   },
   {
-    "symbol": "TCC",
+    "symbol": "TCAP",
     "name": "Triangle Capital",
-    "sector": "n/a",
-    "industry": "n/a",
+    "ipoYear": 2007,
     "exchange": "nyse",
     "id": 1379785,
     "address": {
@@ -84656,7 +84358,7 @@
   },
   {
     "symbol": "TWIN",
-    "name": "Twin Disc, Incorporated",
+    "name": "Twin Disc,",
     "sector": "Technology",
     "industry": "Industrial Machinery/Components",
     "exchange": "nasdaq",
@@ -86172,22 +85874,6 @@
     }
   },
   {
-    "symbol": "UBFO",
-    "name": "United Security Bancshares",
-    "sector": "Finance",
-    "industry": "Major Banks",
-    "exchange": "nasdaq",
-    "id": 1137547,
-    "address": {
-      "street1": "1525 E SHAW AVENUE",
-      "city": "FRESO",
-      "state": "CA",
-      "zip": "93710"
-    },
-    "latitude": 36.808371,
-    "longitude": -119.760392
-  },
-  {
     "symbol": "USBI",
     "name": "United Security Bancshares",
     "sector": "Finance",
@@ -86206,6 +85892,22 @@
       "2011": -9074947,
       "2012": 2195354
     }
+  },
+  {
+    "symbol": "UBFO",
+    "name": "United Security Bancshares",
+    "sector": "Finance",
+    "industry": "Major Banks",
+    "exchange": "nasdaq",
+    "id": 1137547,
+    "address": {
+      "street1": "1525 E SHAW AVENUE",
+      "city": "FRESO",
+      "state": "CA",
+      "zip": "93710"
+    },
+    "latitude": 36.808371,
+    "longitude": -119.760392
   },
   {
     "symbol": "UAMY",
@@ -86388,7 +86090,7 @@
   },
   {
     "symbol": "UNH",
-    "name": "UnitedHealth Group Incorporated",
+    "name": "UnitedHealth Group",
     "sector": "Health Care",
     "industry": "Medical Specialities",
     "exchange": "nyse",
@@ -86424,6 +86126,22 @@
     "longitude": -74.902618
   },
   {
+    "symbol": "UVV",
+    "name": "Universal",
+    "sector": "Consumer Services",
+    "industry": "Farming/Seeds/Milling",
+    "exchange": "nyse",
+    "id": 102037,
+    "address": {
+      "street1": "9201 FOREST HILL AVENUE",
+      "city": "RICHMOND",
+      "state": "VA",
+      "zip": "23235"
+    },
+    "latitude": 37.54058,
+    "longitude": -77.56572
+  },
+  {
     "symbol": "UAM",
     "name": "Universal American",
     "sector": "Health Care",
@@ -86443,22 +86161,6 @@
       "2011": -48201000,
       "2012": 53033000
     }
-  },
-  {
-    "symbol": "UVV",
-    "name": "Universal",
-    "sector": "Consumer Services",
-    "industry": "Farming/Seeds/Milling",
-    "exchange": "nyse",
-    "id": 102037,
-    "address": {
-      "street1": "9201 FOREST HILL AVENUE",
-      "city": "RICHMOND",
-      "state": "VA",
-      "zip": "23235"
-    },
-    "latitude": 37.54058,
-    "longitude": -77.56572
   },
   {
     "symbol": "OLED",
@@ -86797,22 +86499,6 @@
     "longitude": -93.420795
   },
   {
-    "symbol": "UBP",
-    "name": "Urstadt Biddle Properties",
-    "sector": "Consumer Services",
-    "industry": "Real Estate Investment Trusts",
-    "exchange": "nyse",
-    "id": 1029800,
-    "address": {
-      "street1": "C/O URSTADT BIDDLE PROPERTIES INC.",
-      "city": "GREENWICH",
-      "state": "CT",
-      "zip": "06830"
-    },
-    "latitude": 41.0332,
-    "longitude": -73.6289
-  },
-  {
     "symbol": "UBA",
     "name": "Urstadt Biddle Properties",
     "sector": "Consumer Services",
@@ -86832,6 +86518,22 @@
       "2011": 31643000,
       "2012": 28260000
     }
+  },
+  {
+    "symbol": "UBP",
+    "name": "Urstadt Biddle Properties",
+    "sector": "Consumer Services",
+    "industry": "Real Estate Investment Trusts",
+    "exchange": "nyse",
+    "id": 1029800,
+    "address": {
+      "street1": "C/O URSTADT BIDDLE PROPERTIES INC.",
+      "city": "GREENWICH",
+      "state": "CT",
+      "zip": "06830"
+    },
+    "latitude": 41.0332,
+    "longitude": -73.6289
   },
   {
     "symbol": "UTMD",
@@ -87154,11 +86856,11 @@
     "longitude": -79.941232
   },
   {
-    "symbol": "VLY",
+    "symbol": "VLYWW",
     "name": "Valley National Bancorp",
     "sector": "Finance",
     "industry": "Major Banks",
-    "exchange": "nyse",
+    "exchange": "nasdaq",
     "id": 714310,
     "address": {
       "street1": "1455 VALLEY RD",
@@ -87170,11 +86872,11 @@
     "longitude": -74.225389
   },
   {
-    "symbol": "VLYWW",
+    "symbol": "VLY",
     "name": "Valley National Bancorp",
     "sector": "Finance",
     "industry": "Major Banks",
-    "exchange": "nasdaq",
+    "exchange": "nyse",
     "id": 714310,
     "address": {
       "street1": "1455 VALLEY RD",
@@ -87514,8 +87216,6 @@
   {
     "symbol": "VTRB",
     "name": "Ventas Realty, Limited Partnership // Ventas Capital Corporati",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1174174,
     "address": {
@@ -87798,7 +87498,7 @@
   },
   {
     "symbol": "VRTX",
-    "name": "Vertex Pharmaceuticals Incorporated",
+    "name": "Vertex Pharmaceuticals",
     "ipoYear": 1991,
     "sector": "Health Care",
     "industry": "Major Pharmaceuticals",
@@ -87946,7 +87646,7 @@
   },
   {
     "symbol": "VICL",
-    "name": "Vical Incorporated",
+    "name": "Vical",
     "ipoYear": 1993,
     "sector": "Health Care",
     "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
@@ -88006,8 +87706,6 @@
   {
     "symbol": "VIDI",
     "name": "Vident International Equity Fund",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 848135,
     "address": {
@@ -88944,7 +88642,7 @@
   },
   {
     "symbol": "WPCS",
-    "name": "WPCS International Incorporated",
+    "name": "WPCS International",
     "sector": "Consumer Services",
     "industry": "Telecommunications Equipment",
     "exchange": "nasdaq",
@@ -89360,8 +89058,6 @@
   {
     "symbol": "WRE",
     "name": "Washington Real Estate Investment Trust",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 104894,
     "address": {
@@ -89733,7 +89429,7 @@
     }
   },
   {
-    "symbol": "WRI",
+    "symbol": "WRD",
     "name": "Weingarten Realty Investors",
     "sector": "Consumer Services",
     "industry": "Real Estate Investment Trusts",
@@ -89749,7 +89445,7 @@
     "longitude": -95.435859
   },
   {
-    "symbol": "WRD",
+    "symbol": "WRI",
     "name": "Weingarten Realty Investors",
     "sector": "Consumer Services",
     "industry": "Real Estate Investment Trusts",
@@ -89971,27 +89667,6 @@
     "longitude": -118.57302
   },
   {
-    "symbol": "WTBA",
-    "name": "West Bancorporation",
-    "sector": "Finance",
-    "industry": "Major Banks",
-    "exchange": "nasdaq",
-    "id": 1166928,
-    "address": {
-      "street1": "1601 22ND ST",
-      "city": "WEST DES MOINES",
-      "state": "IA",
-      "zip": "50266"
-    },
-    "latitude": 41.59619,
-    "longitude": -93.73609,
-    "profits": {
-      "2010": 13383000,
-      "2011": 15268000,
-      "2012": 16011000
-    }
-  },
-  {
     "symbol": "WSTC",
     "name": "West",
     "ipoYear": 2013,
@@ -90011,6 +89686,27 @@
       "2010": 60304000,
       "2011": 127493000,
       "2012": 125541000
+    }
+  },
+  {
+    "symbol": "WTBA",
+    "name": "West Bancorporation",
+    "sector": "Finance",
+    "industry": "Major Banks",
+    "exchange": "nasdaq",
+    "id": 1166928,
+    "address": {
+      "street1": "1601 22ND ST",
+      "city": "WEST DES MOINES",
+      "state": "IA",
+      "zip": "50266"
+    },
+    "latitude": 41.59619,
+    "longitude": -93.73609,
+    "profits": {
+      "2010": 13383000,
+      "2011": 15268000,
+      "2012": 16011000
     }
   },
   {
@@ -90158,8 +89854,6 @@
     "symbol": "IGI",
     "name": "Western Asset Investment Grade Defined Opportunity Trust",
     "ipoYear": 2009,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1137019,
     "address": {
@@ -90192,8 +89886,6 @@
     "symbol": "MTT",
     "name": "Western Asset Municipal Defined Opportunity Trust",
     "ipoYear": 2009,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nyse",
     "id": 1454021,
     "address": {
@@ -90591,8 +90283,6 @@
     "symbol": "WHF",
     "name": "WhiteHorse Finance",
     "ipoYear": 2012,
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1552198,
     "address": {
@@ -91147,8 +90837,6 @@
   {
     "symbol": "GULF",
     "name": "WisdomTree Middle East Dividend Fund",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 813779,
     "address": {
@@ -92393,22 +92081,6 @@
     }
   },
   {
-    "symbol": "ZIONZ",
-    "name": "Zions Bancorporation",
-    "sector": "Finance",
-    "industry": "Major Banks",
-    "exchange": "nasdaq",
-    "id": 109380,
-    "address": {
-      "street1": "ONE SOUTH MAIN STREET",
-      "city": "SALT LAKE CITY",
-      "state": "UT",
-      "zip": "84111"
-    },
-    "latitude": 40.769291,
-    "longitude": -111.890988
-  },
-  {
     "symbol": "ZIONW",
     "name": "Zions Bancorporation",
     "sector": "Finance",
@@ -92444,6 +92116,22 @@
       "2011": 323804000,
       "2012": 349516000
     }
+  },
+  {
+    "symbol": "ZIONZ",
+    "name": "Zions Bancorporation",
+    "sector": "Finance",
+    "industry": "Major Banks",
+    "exchange": "nasdaq",
+    "id": 109380,
+    "address": {
+      "street1": "ONE SOUTH MAIN STREET",
+      "city": "SALT LAKE CITY",
+      "state": "UT",
+      "zip": "84111"
+    },
+    "latitude": 40.769291,
+    "longitude": -111.890988
   },
   {
     "symbol": "ZIPR",
@@ -92962,8 +92650,6 @@
   {
     "symbol": "ICLN",
     "name": "iShares S&P Global Clean Energy Index Fund",
-    "sector": "n/a",
-    "industry": "n/a",
     "exchange": "nasdaq",
     "id": 1112987,
     "address": {
@@ -93148,7 +92834,7 @@
   },
   {
     "symbol": "PCLN",
-    "name": "priceline.com Incorporated",
+    "name": "priceline.com",
     "ipoYear": 1999,
     "sector": "Miscellaneous",
     "industry": "Business Services",
