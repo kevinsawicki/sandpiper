@@ -72,6 +72,7 @@ downloadProfits = (report, callback) ->
         'NetIncomeLossAvailableToCommonStockholdersDiluted'
         'IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest'
         'ProfitLoss'
+        'IncomeLossAttributableToParent'
       ]
       for element in elements
         if profits = profitsForElement(document, element)
