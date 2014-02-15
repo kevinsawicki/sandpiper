@@ -1,3 +1,4 @@
+_           = require 'underscore'
 async       = require 'async'
 dates       = require '../src/date-helpers'
 {DOMParser} = require 'xmldom'
@@ -111,12 +112,8 @@ getReportUri = (report, callback) ->
 
 # Get the 10-K report information for all quarters in the last year.
 getReports = (callback) ->
-  async.map [1, 2, 3, 4], readQuarterIndex, (error, quarters) ->
-    return callback(error) if error?
-
-    reports = []
-    reports = reports.concat(quarter) for quarter in quarters
-    callback(null, reports)
+  async.map [1, 2, 3, 4], readQuarterIndex, (error, quarters=[]) ->
+    callback(error, _.flatten(quarters))
 
 # Download, uncompress, and parse the master index for the given quarter.
 readQuarterIndex = (quarter, callback) ->
