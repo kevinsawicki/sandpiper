@@ -16,8 +16,8 @@ module.exports = (grunt) ->
     if companyId = parseInt(grunt.option('company-id'))
       companiesWithoutLocations = companies.filter ({id}) -> id is companyId
     else
-      companiesWithoutLocations = companies.filter ({latitude, longitude}) ->
-        not latitude? or not longitude?
+      companiesWithoutLocations = companies.filter ({address, latitude, longitude}) ->
+        address? and not latitude? or not longitude?
 
     progress = new ProgressBar('Geocoding :total addresses [:bar] :percent :eta seconds remaining', {
       incomplete: ' '
