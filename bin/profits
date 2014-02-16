@@ -1,20 +1,29 @@
 #!/usr/bin/env coffee
 
-fs   = require 'fs'
-path = require 'path'
+_      = require 'underscore'
+colors = require 'colors'
+fs     = require 'fs'
+path   = require 'path'
 
 companies = JSON.parse(fs.readFileSync(path.resolve(__dirname, '..', 'gen', 'companies.json')))
-companies = companies.filter ({profits}) -> profits?[2012] > 0
+companies = companies.filter ({profits, sector}) -> profits?[2012] > 0 and sector
 companies.sort (company1, company2) -> company2.profits[2012] - company1.profits[2012]
 
-for {name, symbol, profits} in companies
-  profit = profits[2012]
-  if profit > 1000000000
-    billions = Math.round(profit / 1000000000)
-    console.log("#{symbol}: #{name} #{billions}B")
-  else if profit > 1000000
-    millions = Math.round(profit / 1000000)
-    console.log("#{symbol}: #{name} #{millions}M")
-  else
-    thousands = Math.round(profit / 1000)
-    console.log("#{symbol}: #{name} #{thousands}K")
+
+for sector, sectorCompanies of _.groupBy(companies, 'sector')
+  console.log(sector.blue)
+  for {name, symbol, profits} in sectorCompanies.slice(0, 5)
+    profit = profits[2012]
+    output = "  #{name}"
+    if profit > 1000000000
+      billions = Math.round(profit / 1000000000)
+      output += " #{billions}B".green
+    else if profit > 1000000
+      millions = Math.round(profit / 1000000)
+      output += " #{millions}M".green
+    else
+      thousands = Math.round(profit / 1000)
+      output += " #{thousands}K".green
+    output += " (#{symbol})".grey
+    console.log(output)
+  console.log()
