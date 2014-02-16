@@ -17,7 +17,7 @@ module.exports = (grunt) ->
 
     # Remove trailing Inc. from names
     for company in companies
-      company.name = company.name.replace(/\s*,?\s+Inc\.?$/, '')
+      company.name = company.name.replace(/\s*,?\s+Inc\.?$/i, '')
 
     # Remove trailing Corporation from names
     for company in companies
