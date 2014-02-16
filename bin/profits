@@ -9,7 +9,6 @@ companies = JSON.parse(fs.readFileSync(path.resolve(__dirname, '..', 'gen', 'com
 companies = companies.filter ({profits, sector}) -> profits?[2012] > 0 and sector
 companies.sort (company1, company2) -> company2.profits[2012] - company1.profits[2012]
 
-
 for sector, sectorCompanies of _.groupBy(companies, 'sector')
   console.log(sector.blue)
   for {name, symbol, profits} in sectorCompanies.slice(0, 5)
