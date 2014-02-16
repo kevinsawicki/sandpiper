@@ -58,4 +58,4 @@ getProfitLabel = (profit) ->
     "#{millions}M"
   else
     thousands = Math.round(profit / 1000)
-    " #{thousands}K"
+    "#{thousands}K"
