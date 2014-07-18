@@ -1,0 +1,41 @@
+#!/usr/bin/env coffee
+
+{DOMParser} = require 'xmldom'
+request     = require 'request'
+xpath       = require 'xpath'
+
+# Get the corporate address for the given company
+getAddress = (id, callback) ->
+  url = "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&output=atom&start=0&count=1&CIK=#{id}"
+  request url, (error, response, body='') ->
+    error.retry = true if error?.code is 'ECONNRESET'
+    return callback(error) if error?
+
+    if response.headers['content-type'] is 'application/atom+xml'
+      dom = new DOMParser().parseFromString(body)
+      name = xpath.select('/feed/company-info/conformed-name/text()', dom).toString()
+      [address] = xpath.select('/feed/company-info/addresses/address[@type=\'business\']', dom)
+      if not address? or xpath.select('count(*)', address) is 0
+        [address] = xpath.select('/feed/company-info/addresses/address[@type=\'mailing\']', dom)
+      street1 = xpath.select('street1/text()', address).toString()
+      street2 = xpath.select('street2/text()', address).toString()
+      city = xpath.select('city/text()', address).toString()
+      state = xpath.select('state/text()', address).toString()
+      zip = xpath.select('zip/text()', address).toString()
+      callback(null, {name, street1, street2, city, state, zip})
+    else
+      error = new Error("No address for #{id}")
+      error.retry = response.statusCode is 408
+      callback(error)
+
+company = process.argv[2]
+
+getAddress company, (error, {name, street1, street2, city, state, zip}={}) ->
+  return console.error(error.message) if error?
+
+  console.log name
+  console.log street1 if street1
+  console.log street2 if street2 and street1 isnt street2
+  console.log "#{city}, #{state} #{zip}"
+
+  console.log()
